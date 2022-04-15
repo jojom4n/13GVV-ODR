@@ -1,0 +1,11 @@
+objtype = "airbase"
+name = "Kobuleti"
+coalition = 2
+subordinates = {
+	"32th",
+	"74th",
+}
+desc = "Kobuleti"
+recoverytype = "land"
+takeofftype = "parking"
+cost = 20

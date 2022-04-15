@@ -1,0 +1,10 @@
+region = {
+		["name"] = "Sukhumi",
+		["priority"] = 30,
+		["limits"] = {
+				["sam"] = {
+					["min"] = 7,
+					["max"] = 9
+				}
+		}
+	}

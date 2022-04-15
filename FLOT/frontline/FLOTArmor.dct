@@ -1,0 +1,4 @@
+objtype = "frontline"
+intel = 4
+cost = 6
+priority = 20

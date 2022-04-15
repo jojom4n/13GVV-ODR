@@ -1,0 +1,20 @@
+objtype = "facility"
+intel = 5
+cost = 4
+name = "SENCisterna-1"
+coalition = 1
+tpldata = {}
+buildings = {
+	{
+		["name"] = "Cisterna-1",
+		["goal"] = "primary destroyed",
+		["id"]   = 88970038,
+	},
+}
+desc = "È stata localizzata una cisterna idrica nei pressi di Senaki-Kolkhi. Riteniamo sia un obiettivo strategico per la campagna militare in atto.\
+\
+Obiettivo primario: Distruggere la cisterna idrica.\
+\
+Obiettivo secondario: N/A.\
+\
+Piloti raccomandati: 2"

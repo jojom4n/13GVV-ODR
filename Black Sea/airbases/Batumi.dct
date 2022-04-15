@@ -1,0 +1,11 @@
+objtype = "airbase"
+name = "Batumi"
+coalition = 2
+subordinates = {
+	"179th",
+	"21th",
+}
+desc = "Batumi"
+recoverytype = "land"
+takeofftype = "parking"
+cost = 20

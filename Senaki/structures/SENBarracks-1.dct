@@ -1,0 +1,20 @@
+objtype = "facility"
+intel = 5
+cost = 4
+name = "SENBarracks-1"
+coalition = 1
+tpldata = {}
+buildings = {
+	{
+		["name"] = "Barracks-1",
+		["goal"] = "primary destroyed",
+		["id"]   = 77339417,
+	},
+}
+desc = "Il nemico utilizza una struttura nei pressi della base aerea di Senaki-Kolkhi come alloggi militari. Vediamo di farli dormire all'addiaccio.\
+\
+Obiettivo primario: Distruggere gli alloggi militari.\
+\
+Obiettivo secondario: N/A.\
+\
+Piloti raccomandati: 2"

@@ -1,0 +1,13 @@
+objtype = "airbase"
+name = "CVN-73 George Washington"
+coalition = 2
+subordinates = 
+{
+	"13th", 
+	"VF32",
+}
+desc = "CVN-73 George Washington"
+recoverytype = "land"
+takeofftype = "runway"
+tacan = "73X WSG"
+cost = 20

@@ -1,0 +1,4 @@
+region = {
+		["name"] = "Sochi",
+		["priority"] = 50,
+	}

@@ -1,0 +1,30 @@
+objtype = "facility"
+intel = 5
+cost = 4
+name = "SENRailwayBridge-1"
+coalition = 1
+tpldata = {}
+buildings = {
+	{
+		["name"] = "Railway-1",
+		["goal"] = "primary destroyed",
+		["id"]   = 72487042,
+	},
+		{
+		["name"] = "Railway-2",
+		["goal"] = "primary destroyed",
+		["id"]   = 72487018,
+	},
+		{
+		["name"] = "Railway-3",
+		["goal"] = "primary destroyed",
+		["id"]   = 72486987,
+	},
+}
+desc = "Abbiamo individuato un ponte ferroviario utilizzato dai convogli nemici nei pressi di Senaki-Kolkhi. È essenziale distruggere il ponte, al fine di tagliare le linee di collegamento nemiche.\
+\
+Obiettivo primario: Distruggere il ponte ferroviario.\
+\
+Obiettivo secondario: N/A.\
+\
+Piloti raccomandati: 2"

@@ -1,0 +1,12 @@
+objtype = "airbase"
+name = "FARP Warsaw"
+coalition = 2
+capturable = true
+subordinates = {
+	"130th",
+	"675th",
+}
+desc = "FARP Warsaw"
+recoverytype = "land"
+takeofftype = "parking"
+spawnalways = true

@@ -1,0 +1,8 @@
+objtype = "airbase"
+name = "Kutaisi"
+coalition = 2
+subordinates = {}
+desc = "Kutaisi"
+recoverytype = "land"
+takeofftype = "parking"
+cost = 20

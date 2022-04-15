@@ -1,0 +1,11 @@
+objtype = "airbase"
+name = "LHA-1 Tarawa"
+coalition = 2
+subordinates = 
+{
+	"GRUPAER",
+}
+desc = "LHA-1 Tarawa"
+recoverytype = "land"
+takeofftype = "runway"
+cost = 20

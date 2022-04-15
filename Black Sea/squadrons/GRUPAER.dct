@@ -1,0 +1,7 @@
+objtype = "squadronplayer"
+name = "GRUPAER"
+coalition = 2
+payloadlimits  = {
+	["aa"] = 60,
+	["ag"] = 120,
+}

@@ -1,0 +1,10 @@
+region = {
+		["name"] = "FLOT",
+		["priority"] = 20,
+		["limits"] = {
+				["sam"] = {
+					["min"] = 4,
+					["max"] = 6
+				}
+		}
+	}

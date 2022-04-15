@@ -1,0 +1,10 @@
+objtype = "airbase"
+name = "FARP London"
+coalition = 2
+subordinates = {
+	"227th",
+	"670th",
+}
+desc = "FARP London"
+recoverytype = "land"
+takeofftype = "parking"

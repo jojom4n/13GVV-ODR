@@ -1,0 +1,10 @@
+region = {
+		["name"] = "Gudauta",
+		["priority"] = 40,
+		["limits"] = {
+				["sam"] = {
+					["min"] = 7,
+					["max"] = 9
+				}
+		}
+	}

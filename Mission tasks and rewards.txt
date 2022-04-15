@@ -1,0 +1,88 @@
+--- Senaki
+Airbase		- 20
+EWR			- 2
+Armor		- 6
+3 x SA2		- 3 cad.
+3 x SA3		- 3 cad.
+3 x SA6		- 3 cad.
+3 x SA11	- 3 cad.
+Troops		- 3
+Troops #2	- 3
+Barracks	- 4
+Cisterna	- 4
+House		- 4
+Bridge		- 4
+Logistics	- 4
+FARP Armor	- 3
+FARP Inf	- 3
+8 + 47/53 = 55-61
+
+--- FLOT
+Armor		- 6
+Armor #2	- 6
+Armor #3	- 6
+Convoy		- 5
+Factory		- 3
+Checkpoint  - 3
+Barracks    - 3
+Bridge		- 3
+3 x SA2		- 3
+3 x SA3		- 3
+3 x SA11	- 3
+1 x SA6		- 3
+1 x SA10	- 3
+35 + 12/18 = 47-53
+
+--- Sukhumi
+Airbase		- 20
+Armor		- 6
+EWR			- 2
+Cargo ships	- 3
+Ammo Dump	- 3
+Secret HQ	- 3
+Oil derrick - 3
+Oil pump	- 3
+Shelter		- 3
+Chem tank	- 3
+Factory		- 3
+Factory #2	- 3
+3 x SA2		- 3
+3 x SA3		- 3
+2 x SA6		- 3
+1 x SA10	- 3
+3 x SA11	- 3
+35 + 21/27 = 56-62
+
+--- Gudauta
+Airbase		- 20
+EWR			- 2
+Armor		- 6
+Platforms	- 3
+TV antenna  - 3
+Workshop	- 3
+Factory		- 3
+Factory #2 	- 3
+Convoy		- 5
+3 x SA6		- 3
+3 x SA10	- 3
+3 x SA11	- 3
+28 + 21/27 = 43-49
+
+--- Sochi
+EWR			- 2
+2 x SA10	- 3
+SA5 		- 3
+Kuznetsov   - 6
+17
+
+TOTAL
+224 - 248 (senza basi aeree)
+284 - 308 (con basi aeree)
+
+--- Mission types
+ANTISHIP 2
+BAI 5
+CAS 4
+SEAD 29-32
+STRIKE 26
+ARMEDRECON 3

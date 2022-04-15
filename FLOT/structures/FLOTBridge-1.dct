@@ -1,0 +1,25 @@
+objtype = "facility"
+intel = 5
+cost = 3
+name = "FLOTBridge-1"
+coalition = 1
+tpldata = {}
+buildings = {
+	{
+		["name"] = "Bridge 1-1",
+		["goal"] = "primary destroyed",
+		["id"]   = 72450049,
+	},
+	{
+		["name"] = "Bridge 1-2",
+		["goal"] = "primary destroyed",
+		["id"]   = 72450048,
+	},
+}
+desc = "Al fine di tagliare al nemico la possibilità di avanzare nella FLOT e di accerchiare da ovest le nostre truppe, è fondamentale distruggere un ponte di collegamento nei pressi della piccola città di Anaklia.\
+\
+Obiettivo primario: Distruggere il ponte.\
+\
+Obiettivo secondario: N/A.\
+\
+Piloti raccomandati: 2"

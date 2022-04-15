@@ -1,0 +1,15 @@
+objtype = "airbase"
+name = "Vaziani"
+coalition = 2
+subordinates = {
+	"18th",
+	"NAWDC",
+	"81st",
+	"800",
+	"159th",
+	"669th"
+}
+desc = "Vaziani"
+recoverytype = "land"
+takeofftype = "parking"
+cost = 20

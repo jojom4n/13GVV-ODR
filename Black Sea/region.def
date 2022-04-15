@@ -1,0 +1,4 @@
+region = {
+		["name"] = "Black Sea",
+		["priority"] = 5
+	}
