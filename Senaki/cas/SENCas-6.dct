@@ -1,0 +1,11 @@
+objtype = "frontline"
+intel = 5
+cost = 2
+ondemand = true
+desc = [[Un convoglio di artiglieria nemica sta penetrando nella città di Gagma-Zanati poco ad est della base aerea di Senaki-Kolkhi. Le truppe alleate all'interno della cittadina sono sotto assedio ed hanno richiesto una CAS che ponga fine ai bombardamenti nemici. 
+
+Obiettivo primario: Eliminare tutte le unità nemiche che fanno parte del convoglio, inclusi eventuali camion di supporto.
+
+Obiettivo secondario: Far saltare in aria il warehouse presente in zona, al fine di tagliare le linee di riarmo nemiche.
+
+Piloti raccomandati: 2]]

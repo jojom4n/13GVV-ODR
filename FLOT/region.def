@@ -3,8 +3,8 @@ region = {
 		["priority"] = 20,
 		["limits"] = {
 				["sam"] = {
-					["min"] = 4,
-					["max"] = 6
+					["min"] = 3,
+					["max"] = 4
 				}
 		}
 	}

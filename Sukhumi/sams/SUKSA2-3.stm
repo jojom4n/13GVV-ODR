@@ -571,7 +571,7 @@ staticTemplate =
                                         ["unitId"] = 218,
                                         ["y"] = 593438.23836701,
                                         ["x"] = -189379.70011239,
-                                        ["name"] = "SECONDARY DESTROYED SUKSA2 #003-2",
+                                        ["name"] = "SUKSA2 #003-2",
                                         ["heading"] = 5.4803338512622,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [2]
@@ -586,7 +586,7 @@ staticTemplate =
                                         ["unitId"] = 219,
                                         ["y"] = 593592.1355969,
                                         ["x"] = -189458.58096729,
-                                        ["name"] = "SECONDARY DESTROYED SUKSA2 #003-3",
+                                        ["name"] = "SUKSA2 #003-3",
                                         ["heading"] = 1.535889741755,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [3]
@@ -601,7 +601,7 @@ staticTemplate =
                                         ["unitId"] = 220,
                                         ["y"] = 593387.09083862,
                                         ["x"] = -189460.62686843,
-                                        ["name"] = "SECONDARY DESTROYED SUKSA2 #003-4",
+                                        ["name"] = "SUKSA2 #003-4",
                                         ["heading"] = 4.6774823953448,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [4]
@@ -616,7 +616,7 @@ staticTemplate =
                                         ["unitId"] = 221,
                                         ["y"] = 593438.46568936,
                                         ["x"] = -189544.0541703,
-                                        ["name"] = "SECONDARY DESTROYED SUKSA2 #003-5",
+                                        ["name"] = "SUKSA2 #003-5",
                                         ["heading"] = 3.8048177693476,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [5]
@@ -631,7 +631,7 @@ staticTemplate =
                                         ["unitId"] = 222,
                                         ["y"] = 593543.26129199,
                                         ["x"] = -189546.55471613,
-                                        ["name"] = "SECONDARY DESTROYED SUKSA2 #003-6",
+                                        ["name"] = "SUKSA2 #003-6",
                                         ["heading"] = 2.3561944901923,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [6]
@@ -646,7 +646,7 @@ staticTemplate =
                                         ["unitId"] = 223,
                                         ["y"] = 593539.62413441,
                                         ["x"] = -189378.10885595,
-                                        ["name"] = "SECONDARY DESTROYED SUKSA2 #003-7",
+                                        ["name"] = "SUKSA2 #003-7",
                                         ["heading"] = 0.92502450355699,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [7]
@@ -691,7 +691,7 @@ staticTemplate =
                                         ["unitId"] = 226,
                                         ["y"] = 593650.99091435,
                                         ["x"] = -189519.94167239,
-                                        ["name"] = "SECONDARY DESTROYED SUKSA2 #003-10",
+                                        ["name"] = "SUKSA2 #003-10",
                                         ["heading"] = 2.2165681500328,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [10]
@@ -804,11 +804,5 @@ staticTemplate =
         }, -- end of ["DEFAULT"]
     }, -- end of ["localization"]
     ["theatre"] = "Caucasus",
-    ["desc"] = "Una fonte confidenziale ci ha comunicato la presenza di una postazione SA-2 poco distante dalla base aerea di Sukhumi-Babushara.\
-\
-Obiettivo primario: Distruggere il radar di tracciamento FAN SONG.\
-\
-Obiettivo secondario: Distruggere i lanciatori e il radar di ricerca FLAT FACE.\
-\
-Piloti raccomandati: 2",
+    ["desc"] = "",
 } -- end of staticTemplate

@@ -465,6 +465,7 @@ staticTemplate =
                                 {
                                 }, -- end of ["tasks"]
                                 ["uncontrollable"] = false,
+								["hiddenOnMFD"] = true,
                                 ["task"] = "Ground Nothing",
                                 ["taskSelected"] = true,
                                 ["route"] = 
@@ -481,8 +482,8 @@ staticTemplate =
                                             ["ETA"] = 0,
                                             ["alt_type"] = "BARO",
                                             ["formation_template"] = "",
-                                            ["y"] = 647105.19651343,
-                                            ["x"] = -281915.27934079,
+                                            ["y"] = 647839.82012539,
+                                            ["x"] = -281695.72514061,
                                             ["ETA_locked"] = true,
                                             ["speed"] = 0,
                                             ["action"] = "Off Road",
@@ -493,6 +494,25 @@ staticTemplate =
                                                 {
                                                     ["tasks"] = 
                                                     {
+                                                        [1] = 
+                                                        {
+                                                            ["number"] = 1,
+                                                            ["auto"] = false,
+                                                            ["id"] = "WrappedAction",
+                                                            ["enabled"] = true,
+                                                            ["params"] = 
+                                                            {
+                                                                ["action"] = 
+                                                                {
+                                                                    ["id"] = "Option",
+                                                                    ["params"] = 
+                                                                    {
+                                                                        ["value"] = 2,
+                                                                        ["name"] = 9,
+                                                                    }, -- end of ["params"]
+                                                                }, -- end of ["action"]
+                                                            }, -- end of ["params"]
+                                                        }, -- end of [1]
                                                     }, -- end of ["tasks"]
                                                 }, -- end of ["params"]
                                             }, -- end of ["task"]
@@ -506,428 +526,151 @@ staticTemplate =
                                 {
                                     [1] = 
                                     {
-                                        ["transportable"] = 
-                                        {
-                                            ["randomTransportable"] = false,
-                                        }, -- end of ["transportable"]
+                                        ["type"] = "ZU-23 Emplacement Closed",
+                                        ["unitId"] = 3,
                                         ["skill"] = "Excellent",
-                                        ["type"] = "T-72B",
-                                        ["unitId"] = 1,
-                                        ["y"] = 647105.19651343,
-                                        ["x"] = -281915.27934079,
-                                        ["name"] = "SEN_T72 #001-1",
-                                        ["heading"] = 5.9166661642608,
-                                        ["playerCanDrive"] = true,
+                                        ["y"] = 647839.82012539,
+                                        ["x"] = -281695.72514061,
+                                        ["name"] = "SENArmor #001-1",
+                                        ["heading"] = 3.9793506945471,
+                                        ["playerCanDrive"] = false,
                                     }, -- end of [1]
                                     [2] = 
                                     {
-                                        ["transportable"] = 
-                                        {
-                                            ["randomTransportable"] = false,
-                                        }, -- end of ["transportable"]
+                                        ["type"] = "ZU-23 Emplacement Closed",
+                                        ["unitId"] = 4,
                                         ["skill"] = "Excellent",
-                                        ["type"] = "T-72B",
-                                        ["unitId"] = 2,
-                                        ["y"] = 646301.61391307,
-                                        ["x"] = -281847.71694234,
-                                        ["name"] = "SEN_T72 #001-2",
-                                        ["heading"] = 2.9845130209103,
-                                        ["playerCanDrive"] = true,
+                                        ["y"] = 648030.95786084,
+                                        ["x"] = -281979.64720264,
+                                        ["name"] = "SENArmor #001-2",
+                                        ["heading"] = 3.9793506945471,
+                                        ["playerCanDrive"] = false,
                                     }, -- end of [2]
                                     [3] = 
                                     {
-                                        ["transportable"] = 
-                                        {
-                                            ["randomTransportable"] = false,
-                                        }, -- end of ["transportable"]
+                                        ["type"] = "ZU-23 Emplacement Closed",
+                                        ["unitId"] = 10,
                                         ["skill"] = "Excellent",
-                                        ["type"] = "T-72B",
-                                        ["unitId"] = 13,
-                                        ["y"] = 647713.10676397,
-                                        ["x"] = -281980.75419955,
-                                        ["name"] = "SEN_T72 #001-3",
-                                        ["heading"] = 2.0420352248334,
-                                        ["playerCanDrive"] = true,
+                                        ["y"] = 646897.59860691,
+                                        ["x"] = -281588.28659356,
+                                        ["name"] = "SENArmor #001-3",
+                                        ["heading"] = 3.9793506945471,
+                                        ["playerCanDrive"] = false,
                                     }, -- end of [3]
                                     [4] = 
                                     {
-                                        ["transportable"] = 
-                                        {
-                                            ["randomTransportable"] = false,
-                                        }, -- end of ["transportable"]
+                                        ["type"] = "ZU-23 Emplacement Closed",
+                                        ["unitId"] = 5,
                                         ["skill"] = "Excellent",
-                                        ["type"] = "T-72B",
-                                        ["unitId"] = 3,
-                                        ["y"] = 646911.63840955,
-                                        ["x"] = -281545.94950525,
-                                        ["name"] = "SEN_T72 #001-4",
-                                        ["heading"] = 0.57595865315813,
-                                        ["playerCanDrive"] = true,
+                                        ["y"] = 646032.84584573,
+                                        ["x"] = -281517.34392948,
+                                        ["name"] = "SENArmor #001-4",
+                                        ["heading"] = 3.9793506945471,
+                                        ["playerCanDrive"] = false,
                                     }, -- end of [4]
                                     [5] = 
                                     {
-                                        ["transportable"] = 
-                                        {
-                                            ["randomTransportable"] = false,
-                                        }, -- end of ["transportable"]
+                                        ["type"] = "ZU-23 Emplacement Closed",
+                                        ["unitId"] = 8,
                                         ["skill"] = "Excellent",
-                                        ["type"] = "T-72B",
-                                        ["unitId"] = 9,
-                                        ["y"] = 647605.96252369,
-                                        ["x"] = -281291.11455996,
-                                        ["name"] = "SEN_T72 #001-5",
-                                        ["heading"] = 4.1713369122664,
-                                        ["playerCanDrive"] = true,
+                                        ["y"] = 646564.96302061,
+                                        ["x"] = -281871.70608656,
+                                        ["name"] = "SENArmor #001-5",
+                                        ["heading"] = 3.9793506945471,
+                                        ["playerCanDrive"] = false,
                                     }, -- end of [5]
                                     [6] = 
                                     {
-                                        ["transportable"] = 
-                                        {
-                                            ["randomTransportable"] = false,
-                                        }, -- end of ["transportable"]
+                                        ["type"] = "ZU-23 Emplacement Closed",
+                                        ["unitId"] = 11,
                                         ["skill"] = "Excellent",
-                                        ["type"] = "T-72B",
-                                        ["unitId"] = 14,
-                                        ["y"] = 646117.55020857,
-                                        ["x"] = -281507.78212706,
-                                        ["name"] = "SEN_T72 #001-6",
+                                        ["y"] = 646681.71167575,
+                                        ["x"] = -280896.28663503,
+                                        ["name"] = "SENArmor #001-6",
                                         ["heading"] = 3.9793506945471,
-                                        ["playerCanDrive"] = true,
+                                        ["playerCanDrive"] = false,
                                     }, -- end of [6]
                                     [7] = 
                                     {
-                                        ["transportable"] = 
-                                        {
-                                            ["randomTransportable"] = false,
-                                        }, -- end of ["transportable"]
+                                        ["type"] = "ZU-23 Emplacement Closed",
+                                        ["unitId"] = 2,
                                         ["skill"] = "Excellent",
-                                        ["type"] = "T-72B",
-                                        ["unitId"] = 17,
-                                        ["y"] = 646575.98832448,
-                                        ["x"] = -281271.95098089,
-                                        ["name"] = "SEN_T72 #001-7",
-                                        ["heading"] = 4.9916416607038,
-                                        ["playerCanDrive"] = true,
+                                        ["y"] = 647554.12033821,
+                                        ["x"] = -281230.76121023,
+                                        ["name"] = "SENArmor #001-7",
+                                        ["heading"] = 3.9793506945471,
+                                        ["playerCanDrive"] = false,
                                     }, -- end of [7]
                                     [8] = 
                                     {
-                                        ["transportable"] = 
-                                        {
-                                            ["randomTransportable"] = false,
-                                        }, -- end of ["transportable"]
+                                        ["type"] = "Osa 9A33 ln",
+                                        ["unitId"] = 6,
                                         ["skill"] = "Excellent",
-                                        ["type"] = "T-72B",
-                                        ["unitId"] = 4,
-                                        ["y"] = 647864.01151877,
-                                        ["x"] = -281256.88357082,
-                                        ["name"] = "SEN_T72 #001-8",
-                                        ["heading"] = 2.9496064358704,
-                                        ["playerCanDrive"] = true,
+                                        ["y"] = 647123.22656939,
+                                        ["x"] = -281386.06005088,
+                                        ["name"] = "SENArmor #001-8",
+                                        ["heading"] = 3.9793506945471,
+                                        ["playerCanDrive"] = false,
                                     }, -- end of [8]
                                     [9] = 
                                     {
-                                        ["transportable"] = 
-                                        {
-                                            ["randomTransportable"] = false,
-                                        }, -- end of ["transportable"]
-                                        ["skill"] = "Excellent",
-                                        ["type"] = "T-72B",
+                                        ["type"] = "Osa 9A33 ln",
                                         ["unitId"] = 7,
-                                        ["y"] = 647096.81500854,
-                                        ["x"] = -281383.17441342,
-                                        ["name"] = "SEN_T72 #001-9",
-                                        ["heading"] = 4.3807764225058,
-                                        ["playerCanDrive"] = true,
+                                        ["skill"] = "Excellent",
+                                        ["y"] = 647384.96971636,
+                                        ["x"] = -281624.91759465,
+                                        ["name"] = "SENArmor #001-9",
+                                        ["heading"] = 3.9793506945471,
+                                        ["playerCanDrive"] = false,
                                     }, -- end of [9]
                                     [10] = 
                                     {
-                                        ["transportable"] = 
-                                        {
-                                            ["randomTransportable"] = false,
-                                        }, -- end of ["transportable"]
+                                        ["type"] = "Strela-1 9P31",
+                                        ["unitId"] = 9,
                                         ["skill"] = "Excellent",
-                                        ["type"] = "T-72B",
-                                        ["unitId"] = 10,
-                                        ["y"] = 648212.82414216,
-                                        ["x"] = -281352.94037403,
-                                        ["name"] = "SEN_T72 #001-10",
-                                        ["heading"] = 2.4958208303519,
-                                        ["playerCanDrive"] = true,
+                                        ["y"] = 648202.56326308,
+                                        ["x"] = -281344.97575472,
+                                        ["name"] = "SENArmor #001-10",
+                                        ["heading"] = 3.9793506945471,
+                                        ["playerCanDrive"] = false,
                                     }, -- end of [10]
                                     [11] = 
                                     {
-                                        ["transportable"] = 
-                                        {
-                                            ["randomTransportable"] = false,
-                                        }, -- end of ["transportable"]
+                                        ["type"] = "Strela-1 9P31",
+                                        ["unitId"] = 13,
                                         ["skill"] = "Excellent",
-                                        ["type"] = "T-72B",
-                                        ["unitId"] = 12,
-                                        ["y"] = 647328.09518248,
-                                        ["x"] = -280951.04033725,
-                                        ["name"] = "SEN_T72 #001-11",
+                                        ["y"] = 646584.84488653,
+                                        ["x"] = -281261.27550603,
+                                        ["name"] = "SENArmor #001-11",
                                         ["heading"] = 3.9793506945471,
-                                        ["playerCanDrive"] = true,
+                                        ["playerCanDrive"] = false,
                                     }, -- end of [11]
                                     [12] = 
                                     {
-                                        ["transportable"] = 
-                                        {
-                                            ["randomTransportable"] = false,
-                                        }, -- end of ["transportable"]
-                                        ["skill"] = "High",
-                                        ["type"] = "T-72B",
-                                        ["unitId"] = 15,
-                                        ["y"] = 648257.19780282,
-                                        ["x"] = -281955.34609681,
-                                        ["name"] = "SEN_T72 #001-12",
+                                        ["type"] = "ZSU-23-4 Shilka",
+                                        ["unitId"] = 12,
+                                        ["skill"] = "Excellent",
+                                        ["y"] = 647223.45664297,
+                                        ["x"] = -281908.4331838,
+                                        ["name"] = "SENArmor #001-12",
                                         ["heading"] = 3.9793506945471,
-                                        ["playerCanDrive"] = true,
+                                        ["playerCanDrive"] = false,
                                     }, -- end of [12]
                                     [13] = 
                                     {
-                                        ["transportable"] = 
-                                        {
-                                            ["randomTransportable"] = false,
-                                        }, -- end of ["transportable"]
-                                        ["skill"] = "High",
-                                        ["type"] = "T-72B",
-                                        ["unitId"] = 16,
-                                        ["y"] = 647045.51597107,
-                                        ["x"] = -281643.57627718,
-                                        ["name"] = "SEN_T72 #001-13",
-                                        ["heading"] = 3.9793506945471,
-                                        ["playerCanDrive"] = true,
-                                    }, -- end of [13]
-                                    [14] = 
-                                    {
-                                        ["transportable"] = 
-                                        {
-                                            ["randomTransportable"] = false,
-                                        }, -- end of ["transportable"]
-                                        ["skill"] = "High",
-                                        ["type"] = "T-72B",
-                                        ["unitId"] = 18,
-                                        ["y"] = 647839.82012539,
-                                        ["x"] = -281695.72514061,
-                                        ["name"] = "SEN_T72 #001-14",
-                                        ["heading"] = 3.9793506945471,
-                                        ["playerCanDrive"] = true,
-                                    }, -- end of [14]
-                                    [15] = 
-                                    {
-                                        ["transportable"] = 
-                                        {
-                                            ["randomTransportable"] = false,
-                                        }, -- end of ["transportable"]
-                                        ["skill"] = "High",
-                                        ["type"] = "T-72B",
-                                        ["unitId"] = 20,
-                                        ["y"] = 647351.74855864,
-                                        ["x"] = -281602.01539979,
-                                        ["name"] = "SEN_T72 #001-15",
-                                        ["heading"] = 3.9793506945471,
-                                        ["playerCanDrive"] = true,
-                                    }, -- end of [15]
-                                    [16] = 
-                                    {
-                                        ["transportable"] = 
-                                        {
-                                            ["randomTransportable"] = false,
-                                        }, -- end of ["transportable"]
-                                        ["skill"] = "High",
-                                        ["type"] = "T-72B",
-                                        ["unitId"] = 5,
-                                        ["y"] = 648214.65908865,
-                                        ["x"] = -281730.86629341,
-                                        ["name"] = "SEN_T72 #001-16",
-                                        ["heading"] = 3.9793506945471,
-                                        ["playerCanDrive"] = true,
-                                    }, -- end of [16]
-                                    [17] = 
-                                    {
-                                        ["transportable"] = 
-                                        {
-                                            ["randomTransportable"] = false,
-                                        }, -- end of ["transportable"]
+                                        ["type"] = "ZSU-23-4 Shilka",
+                                        ["unitId"] = 1,
                                         ["skill"] = "Excellent",
-                                        ["type"] = "T-72B",
-                                        ["unitId"] = 6,
-                                        ["y"] = 646627.33663246,
-                                        ["x"] = -280974.34483312,
-                                        ["name"] = "SEN_T72 #001-17",
+                                        ["y"] = 647766.50379336,
+                                        ["x"] = -281476.95135282,
+                                        ["name"] = "SENArmor #001-13",
                                         ["heading"] = 3.9793506945471,
-                                        ["playerCanDrive"] = true,
-                                    }, -- end of [17]
-                                    [18] = 
-                                    {
-                                        ["transportable"] = 
-                                        {
-                                            ["randomTransportable"] = false,
-                                        }, -- end of ["transportable"]
-                                        ["skill"] = "High",
-                                        ["type"] = "T-72B",
-                                        ["unitId"] = 8,
-                                        ["y"] = 646669.71133739,
-                                        ["x"] = -281609.96540697,
-                                        ["name"] = "SEN_T72 #001-18",
-                                        ["heading"] = 3.9793506945471,
-                                        ["playerCanDrive"] = true,
-                                    }, -- end of [18]
-                                    [19] = 
-                                    {
-                                        ["transportable"] = 
-                                        {
-                                            ["randomTransportable"] = false,
-                                        }, -- end of ["transportable"]
-                                        ["skill"] = "High",
-                                        ["type"] = "T-72B",
-                                        ["unitId"] = 19,
-                                        ["y"] = 646810.9603538,
-                                        ["x"] = -280815.43968966,
-                                        ["name"] = "SEN_T72 #001-19",
-                                        ["heading"] = 3.9793506945471,
-                                        ["playerCanDrive"] = true,
-                                    }, -- end of [19]
-                                    [20] = 
-                                    {
-                                        ["transportable"] = 
-                                        {
-                                            ["randomTransportable"] = false,
-                                        }, -- end of ["transportable"]
-                                        ["skill"] = "High",
-                                        ["type"] = "T-72B",
-                                        ["unitId"] = 11,
-                                        ["y"] = 647591.36116947,
-                                        ["x"] = -280977.87605853,
-                                        ["name"] = "SEN_T72 #001-20",
-                                        ["heading"] = 3.9793506945471,
-                                        ["playerCanDrive"] = true,
-                                    }, -- end of [20]
-                                    [21] = 
-                                    {
-                                        ["transportable"] = 
-                                        {
-                                            ["randomTransportable"] = false,
-                                        }, -- end of ["transportable"]
-                                        ["skill"] = "High",
-                                        ["type"] = "Strela-1 9P31",
-                                        ["unitId"] = 21,
-                                        ["y"] = 648020.26798333,
-                                        ["x"] = -281348.09252846,
-                                        ["name"] = "SEN_T72 #001-21",
-                                        ["heading"] = 0.75049157835756,
-                                        ["playerCanDrive"] = true,
-                                    }, -- end of [21]
-                                    [22] = 
-                                    {
-                                        ["transportable"] = 
-                                        {
-                                            ["randomTransportable"] = false,
-                                        }, -- end of ["transportable"]
-                                        ["skill"] = "High",
-                                        ["type"] = "Strela-1 9P31",
-                                        ["unitId"] = 22,
-                                        ["y"] = 647460.2845576,
-                                        ["x"] = -281936.79305295,
-                                        ["name"] = "SEN_T72 #001-22",
-                                        ["heading"] = 2.4783675378319,
-                                        ["playerCanDrive"] = true,
-                                    }, -- end of [22]
-                                    [23] = 
-                                    {
-                                        ["transportable"] = 
-                                        {
-                                            ["randomTransportable"] = false,
-                                        }, -- end of ["transportable"]
-                                        ["skill"] = "High",
-                                        ["type"] = "Strela-1 9P31",
-                                        ["unitId"] = 23,
-                                        ["y"] = 646297.242058,
-                                        ["x"] = -281581.41895585,
-                                        ["name"] = "SEN_T72 #001-23",
-                                        ["heading"] = 3.9793506945471,
-                                        ["playerCanDrive"] = true,
-                                    }, -- end of [23]
-                                    [24] = 
-                                    {
-                                        ["transportable"] = 
-                                        {
-                                            ["randomTransportable"] = false,
-                                        }, -- end of ["transportable"]
-                                        ["skill"] = "High",
-                                        ["type"] = "Strela-1 9P31",
-                                        ["unitId"] = 24,
-                                        ["y"] = 646990.04206547,
-                                        ["x"] = -280935.28423385,
-                                        ["name"] = "SEN_T72 #001-24",
-                                        ["heading"] = 5.3232542185827,
-                                        ["playerCanDrive"] = true,
-                                    }, -- end of [24]
-                                    [25] = 
-                                    {
-                                        ["transportable"] = 
-                                        {
-                                            ["randomTransportable"] = false,
-                                        }, -- end of ["transportable"]
-                                        ["skill"] = "High",
-                                        ["type"] = "ZSU-23-4 Shilka",
-                                        ["unitId"] = 25,
-                                        ["y"] = 646767.48455012,
-                                        ["x"] = -281868.5899434,
-                                        ["name"] = "SEN_T72 #001-25",
-                                        ["heading"] = 3.9793506945471,
-                                        ["playerCanDrive"] = true,
-                                    }, -- end of [25]
-                                    [26] = 
-                                    {
-                                        ["transportable"] = 
-                                        {
-                                            ["randomTransportable"] = false,
-                                        }, -- end of ["transportable"]
-                                        ["skill"] = "High",
-                                        ["type"] = "ZSU-23-4 Shilka",
-                                        ["unitId"] = 26,
-                                        ["y"] = 647984.37160989,
-                                        ["x"] = -281943.97232763,
-                                        ["name"] = "SEN_T72 #001-26",
-                                        ["heading"] = 2.4085543677522,
-                                        ["playerCanDrive"] = true,
-                                    }, -- end of [26]
-                                    [27] = 
-                                    {
-                                        ["transportable"] = 
-                                        {
-                                            ["randomTransportable"] = false,
-                                        }, -- end of ["transportable"]
-                                        ["skill"] = "High",
-                                        ["type"] = "ZSU-23-4 Shilka",
-                                        ["unitId"] = 27,
-                                        ["y"] = 647697.20062233,
-                                        ["x"] = -281121.94537576,
-                                        ["name"] = "SEN_T72 #001-27",
-                                        ["heading"] = 1.0471975511966,
-                                        ["playerCanDrive"] = true,
-                                    }, -- end of [27]
-                                    [28] = 
-                                    {
-                                        ["transportable"] = 
-                                        {
-                                            ["randomTransportable"] = false,
-                                        }, -- end of ["transportable"]
-                                        ["skill"] = "High",
-                                        ["type"] = "ZSU-23-4 Shilka",
-                                        ["unitId"] = 28,
-                                        ["y"] = 647183.88248208,
-                                        ["x"] = -280870.67076165,
-                                        ["name"] = "SEN_T72 #001-28",
-                                        ["heading"] = 5.218534463463,
-                                        ["playerCanDrive"] = true,
-                                    }, -- end of [28]
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [13]
                                 }, -- end of ["units"]
-                                ["y"] = 647105.19651343,
-                                ["x"] = -281915.27934079,
-                                ["name"] = "SEN_T72 #001",
+                                ["y"] = 647839.82012539,
+                                ["x"] = -281695.72514061,
+                                ["name"] = "SENArmor #001",
                                 ["start_time"] = 0,
                             }, -- end of [1]
                         }, -- end of ["group"]
@@ -963,11 +706,5 @@ staticTemplate =
         }, -- end of ["DEFAULT"]
     }, -- end of ["localization"]
     ["theatre"] = "Caucasus",
-    ["desc"] = "Sono stati individuati diversi carri armati nemici a difesa della base aerea di Senaki-Kolkhi, presidiati da numerosi SHORAD. Al fine di consentire alle nostre truppe di avanzare e riconquistare la base, è necessario privare il nemico di tale difesa.\
-\
-Obiettivo primario: Distruggere i carri armati e le loro difese.\
-\
-Obiettivo secondario: N/A.\
-\
-Piloti raccomandati: 5",
+    ["desc"] = "",
 } -- end of staticTemplate

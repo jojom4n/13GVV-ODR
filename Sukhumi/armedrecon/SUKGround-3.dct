@@ -1,0 +1,9 @@
+objtype = "specialforces"
+intel = 3
+cost = 2
+ondemand = true
+desc = [[Una fonte di confidenziale ci ha avvisato che il nemico sta procedendo a minare il terreno intorno a Thina, un paesino ad est della base aerea di Sukhumi-Babushara. Al fine di evitare problemi all'avanzata delle nostre truppe, oltre che eventuali vittime tra i civili, è necessario interrompere questa attività nemica. 
+
+Obiettivo primario: Eliminare le forze nemiche.
+
+Piloti raccomandati: 2]]

@@ -547,7 +547,7 @@ staticTemplate =
                                         ["unitId"] = 381,
                                         ["y"] = 420241.40066037,
                                         ["x"] = 9069.2449446327,
-                                        ["name"] = "SECONDARY DESTROYED SOCSA5-2",
+                                        ["name"] = "SOCSA5-2",
                                         ["heading"] = 0.53113429880732,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [2]
@@ -562,7 +562,7 @@ staticTemplate =
                                         ["unitId"] = 382,
                                         ["y"] = 419898.57842449,
                                         ["x"] = 9134.6518185833,
-                                        ["name"] = "SECONDARY DESTROYED SOCSA5-3",
+                                        ["name"] = "SOCSA5-3",
                                         ["heading"] = 0.53113429880732,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [3]
@@ -577,7 +577,7 @@ staticTemplate =
                                         ["unitId"] = 383,
                                         ["y"] = 420035.30737105,
                                         ["x"] = 8937.5186994805,
-                                        ["name"] = "SECONDARY DESTROYED SOCSA5-4",
+                                        ["name"] = "SOCSA5-4",
                                         ["heading"] = 0.53113429880732,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [4]
@@ -592,7 +592,7 @@ staticTemplate =
                                         ["unitId"] = 384,
                                         ["y"] = 420236.88984148,
                                         ["x"] = 8907.9831692028,
-                                        ["name"] = "SECONDARY DESTROYED SOCSA5-5",
+                                        ["name"] = "SOCSA5-5",
                                         ["heading"] = 0.53113429880732,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [5]
@@ -607,7 +607,7 @@ staticTemplate =
                                         ["unitId"] = 385,
                                         ["y"] = 420376.72522717,
                                         ["x"] = 9265.4655664845,
-                                        ["name"] = "SECONDARY DESTROYED SOCSA5-6",
+                                        ["name"] = "SOCSA5-6",
                                         ["heading"] = 0.53113429880732,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [6]
@@ -622,7 +622,7 @@ staticTemplate =
                                         ["unitId"] = 386,
                                         ["y"] = 420483.85717588,
                                         ["x"] = 9068.1172399094,
-                                        ["name"] = "SECONDARY DESTROYED SOCSA5-7",
+                                        ["name"] = "SOCSA5-7",
                                         ["heading"] = 0.53113429880732,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [7]
@@ -637,7 +637,7 @@ staticTemplate =
                                         ["unitId"] = 387,
                                         ["y"] = 420111.71461719,
                                         ["x"] = 9298.1690034598,
-                                        ["name"] = "SECONDARY DESTROYED SOCSA5-8",
+                                        ["name"] = "SOCSA5-8",
                                         ["heading"] = 0.53113429880732,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [8]
@@ -742,7 +742,7 @@ staticTemplate =
                                         ["unitId"] = 394,
                                         ["y"] = 420373.07955561,
                                         ["x"] = 9155.3344072836,
-                                        ["name"] = "SECONDARY DESTROYED SOCSA5-15",
+                                        ["name"] = "SOCSA5-15",
                                         ["heading"] = 0.53113429880732,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [15]
@@ -757,7 +757,7 @@ staticTemplate =
                                         ["unitId"] = 396,
                                         ["y"] = 420369.92280622,
                                         ["x"] = 9044.8481786878,
-                                        ["name"] = "SECONDARY DESTROYED SOCSA5-16",
+                                        ["name"] = "SOCSA5-16",
                                         ["heading"] = 0.53113429880732,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [16]
@@ -772,7 +772,7 @@ staticTemplate =
                                         ["unitId"] = 397,
                                         ["y"] = 419902.72389673,
                                         ["x"] = 9019.5941835802,
-                                        ["name"] = "SECONDARY DESTROYED SOCSA5-17",
+                                        ["name"] = "SOCSA5-17",
                                         ["heading"] = 0.53113429880732,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [17]
@@ -787,7 +787,7 @@ staticTemplate =
                                         ["unitId"] = 398,
                                         ["y"] = 420483.56578421,
                                         ["x"] = 8924.8917019267,
-                                        ["name"] = "SECONDARY DESTROYED SOCSA5-18",
+                                        ["name"] = "SOCSA5-18",
                                         ["heading"] = 0.53113429880732,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [18]
@@ -802,7 +802,7 @@ staticTemplate =
                                         ["unitId"] = 399,
                                         ["y"] = 420237.33933191,
                                         ["x"] = 8984.8699403073,
-                                        ["name"] = "SECONDARY DESTROYED SOCSA5-19",
+                                        ["name"] = "SOCSA5-19",
                                         ["heading"] = 0.53113429880732,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [19]
@@ -817,7 +817,7 @@ staticTemplate =
                                         ["unitId"] = 400,
                                         ["y"] = 420136.32335148,
                                         ["x"] = 9136.3939109529,
-                                        ["name"] = "SECONDARY DESTROYED SOCSA5-20",
+                                        ["name"] = "SOCSA5-20",
                                         ["heading"] = 0.53113429880732,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [20]
@@ -855,11 +855,15 @@ staticTemplate =
         }, -- end of ["DEFAULT"]
     }, -- end of ["localization"]
     ["theatre"] = "Caucasus",
-    ["desc"] = "Immagini satellitari hanno individuato una postazione SA-5 nei pressi di Krasnodar-Pashkovsky. La postazione riesce ad offrire copertura antiaera sino alla base aerea di Gudauta, pertanto può disturbare le nostre operazioni terrestri.\
+    ["desc"] = "Immagini satellitari hanno individuato una postazione SA-5 nei pressi di Krasnodar-Pashkovsky, difesa da SA-15 Tor. La postazione riesce ad offrire copertura antiaera sino alla base aerea di Gudauta, pertanto può disturbare le nostre operazioni terrestri.\
 \
 Obiettivo primario: Distruggere il radar di tracciamento SQUARE PAIR.\
 \
 Obiettivo secondario: Distruggere i lanciatori, il radar di ricerca e tutte le altre difese della postazione.\
+\
+Codice HARM:\
+- SA-5 Square Pair TR: 129\
+- SA-15 Tor: 119\
 \
 Piloti raccomandati: 4",
 } -- end of staticTemplate

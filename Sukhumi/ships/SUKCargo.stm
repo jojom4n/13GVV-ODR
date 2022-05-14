@@ -695,11 +695,5 @@ staticTemplate =
         }, -- end of ["DEFAULT"]
     }, -- end of ["localization"]
     ["theatre"] = "Caucasus",
-    ["desc"] = "Una ricognizione aera ha individuato diverse navi cargo che operano lungo la costa nei pressi della base aerea di Sukhumi-Babushara. Abbiamo motivo di credere che le navi siano utilizzate dal nemico per approvvigionarsi di rifornimenti e, in particolare, di carburante e munizioni.\
-\
-Obiettivo primario: Distruggere le navi cargo.\
-\
-Obiettivo secondario: N/A.\
-\
-Piloti raccomandati: 3",
+    ["desc"] = "",
 } -- end of staticTemplate

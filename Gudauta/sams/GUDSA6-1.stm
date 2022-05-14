@@ -470,6 +470,7 @@ staticTemplate =
                                 {
                                 }, -- end of ["tasks"]
                                 ["uncontrollable"] = false,
+								["hiddenOnMFD"] = true,
                                 ["route"] = 
                                 {
                                     ["spans"] = 
@@ -571,7 +572,7 @@ staticTemplate =
                                         ["unitId"] = 2,
                                         ["y"] = 513866.45184344,
                                         ["x"] = -193333.21617431,
-                                        ["name"] = "SECONDARY DESTROYED GUDSA6 #001-2",
+                                        ["name"] = "GUDSA6 #001-2",
                                         ["heading"] = 4.7123889803847,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [2]
@@ -586,7 +587,7 @@ staticTemplate =
                                         ["unitId"] = 11,
                                         ["y"] = 513587.45901184,
                                         ["x"] = -193306.64542844,
-                                        ["name"] = "SECONDARY DESTROYED GUDSA6 #001-3",
+                                        ["name"] = "GUDSA6 #001-3",
                                         ["heading"] = 1.553343034275,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [3]
@@ -601,7 +602,7 @@ staticTemplate =
                                         ["unitId"] = 3,
                                         ["y"] = 513754.26424978,
                                         ["x"] = -193446.87992052,
-                                        ["name"] = "SECONDARY DESTROYED GUDSA6 #001-4",
+                                        ["name"] = "GUDSA6 #001-4",
                                         ["heading"] = 0.034906585039887,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [4]
@@ -616,7 +617,7 @@ staticTemplate =
                                         ["unitId"] = 8,
                                         ["y"] = 513718.83658863,
                                         ["x"] = -193187.07707205,
-                                        ["name"] = "SECONDARY DESTROYED GUDSA6 #001-5",
+                                        ["name"] = "GUDSA6 #001-5",
                                         ["heading"] = 3.1415926535898,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [5]
@@ -796,7 +797,7 @@ staticTemplate =
                                         ["unitId"] = 6,
                                         ["y"] = 514102.38717024,
                                         ["x"] = -192847.82753185,
-                                        ["name"] = "SECONDARY DESTROYED GUDSA6 #001-17",
+                                        ["name"] = "GUDSA6 #001-17",
                                         ["heading"] = 2.2340214425527,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [17]
@@ -811,7 +812,7 @@ staticTemplate =
                                         ["unitId"] = 35,
                                         ["y"] = 513705.76316652,
                                         ["x"] = -192689.87991975,
-                                        ["name"] = "SECONDARY DESTROYED GUDSA6 #001-18",
+                                        ["name"] = "GUDSA6 #001-18",
                                         ["heading"] = 3.1939525311496,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [18]
@@ -929,6 +930,10 @@ staticTemplate =
 Obiettivo primario: Distruggere il radar di tracciamento STRAIGHT FLUSH.\
 \
 Obiettivo secondario: Distruggere i lanciatori e i SA-15.\
+\
+Codice HARM:\
+- SA-6 Straight Flush TR: 108\
+- SA-15 Tor: 119\
 \
 Piloti raccomandati: 3",
 } -- end of staticTemplate

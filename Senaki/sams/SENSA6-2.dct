@@ -1,3 +1,14 @@
 objtype = "sam"
-intel = 4
+intel = 3
 cost = 3
+desc = [[Un informatore ci ha segnalato una postazione SA-6 a difesa della base aerea di Senaki-Kolkhi. La postazione è presidiata da SA-15 Tor.
+
+Obiettivo primario: Distruggere il radar di tracciamento STRAIGHT FLUSH.
+
+Obiettivo secondario: Distruggere tutti i lanciatori ed i SA-15.
+
+Codici HARM:
+- SA-6 Straight Flush TR: 108
+- SA-15 Tor: 119
+
+Piloti raccomandati: 3]]

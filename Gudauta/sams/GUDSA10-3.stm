@@ -470,6 +470,7 @@ staticTemplate =
                                 {
                                 }, -- end of ["tasks"]
                                 ["uncontrollable"] = false,
+								["hiddenOnMFD"] = true,
                                 ["route"] = 
                                 {
                                     ["spans"] = 
@@ -563,7 +564,7 @@ staticTemplate =
                                         ["skill"] = "Excellent",
                                         ["y"] = 524206.55413686,
                                         ["x"] = -191030.73717465,
-                                        ["name"] = "SECONDARY DESTROYED GUDSA10 #003-2",
+                                        ["name"] = "GUDSA10 #003-2",
                                         ["heading"] = 4.1887902047864,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [2]
@@ -585,7 +586,7 @@ staticTemplate =
                                         ["skill"] = "Excellent",
                                         ["y"] = 524167.36438778,
                                         ["x"] = -190916.44019676,
-                                        ["name"] = "SECONDARY DESTROYED GUDSA10 #003-4",
+                                        ["name"] = "GUDSA10 #003-4",
                                         ["heading"] = 1.0471975511966,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [4]
@@ -596,7 +597,7 @@ staticTemplate =
                                         ["skill"] = "Excellent",
                                         ["y"] = 524199.64941374,
                                         ["x"] = -191184.09152425,
-                                        ["name"] = "SECONDARY DESTROYED GUDSA10 #003-5",
+                                        ["name"] = "GUDSA10 #003-5",
                                         ["heading"] = 1.0471975511966,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [5]
@@ -607,7 +608,7 @@ staticTemplate =
                                         ["skill"] = "Excellent",
                                         ["y"] = 524191.64403105,
                                         ["x"] = -191168.52310929,
-                                        ["name"] = "SECONDARY DESTROYED GUDSA10 #003-6",
+                                        ["name"] = "GUDSA10 #003-6",
                                         ["heading"] = 1.221730476396,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [6]
@@ -618,7 +619,7 @@ staticTemplate =
                                         ["skill"] = "Excellent",
                                         ["y"] = 524208.7675789,
                                         ["x"] = -191198.27991545,
-                                        ["name"] = "SECONDARY DESTROYED GUDSA10 #003-7",
+                                        ["name"] = "GUDSA10 #003-7",
                                         ["heading"] = 0.8726646259972,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [7]
@@ -629,7 +630,7 @@ staticTemplate =
                                         ["skill"] = "Excellent",
                                         ["y"] = 524342.91877773,
                                         ["x"] = -191100.26056262,
-                                        ["name"] = "SECONDARY DESTROYED GUDSA10 #003-8",
+                                        ["name"] = "GUDSA10 #003-8",
                                         ["heading"] = 4.1887902047864,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [8]
@@ -640,7 +641,7 @@ staticTemplate =
                                         ["skill"] = "Excellent",
                                         ["y"] = 524333.54630571,
                                         ["x"] = -191085.42840762,
-                                        ["name"] = "SECONDARY DESTROYED GUDSA10 #003-9",
+                                        ["name"] = "GUDSA10 #003-9",
                                         ["heading"] = 4.014257279587,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [9]
@@ -651,7 +652,7 @@ staticTemplate =
                                         ["skill"] = "Excellent",
                                         ["y"] = 524351.10139393,
                                         ["x"] = -191115.83471234,
-                                        ["name"] = "SECONDARY DESTROYED GUDSA10 #003-10",
+                                        ["name"] = "GUDSA10 #003-10",
                                         ["heading"] = 4.3633231299858,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [10]
@@ -782,6 +783,11 @@ staticTemplate =
 Obiettivo primario: Distruggere il radar di tracciamento FLAP LID.\
 \
 Obiettivo secondario: Distruggere i lanciatori e i radar di ricerca BIG BIRD e CLAM SHELL.\
+\
+Codice HARM:\
+- SA-10 Flap Lid TR: 110\
+- SA-10 Clam Shell SR: 103\
+- SA-10 Big Bird SR: 104\
 \
 Piloti raccomandati: 3",
 } -- end of staticTemplate

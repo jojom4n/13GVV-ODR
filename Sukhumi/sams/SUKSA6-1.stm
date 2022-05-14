@@ -470,6 +470,7 @@ staticTemplate =
                                 {
                                 }, -- end of ["tasks"]
                                 ["uncontrollable"] = false,
+								["hiddenOnMFD"] = true,
                                 ["route"] = 
                                 {
                                     ["spans"] = 
@@ -563,7 +564,7 @@ staticTemplate =
                                         ["skill"] = "Excellent",
                                         ["y"] = 576189.31665995,
                                         ["x"] = -221566.7933232,
-                                        ["name"] = "SECONDARY DESTROYED SUKSA6 #001-2",
+                                        ["name"] = "SUKSA6 #001-2",
                                         ["heading"] = 1.5707963267949,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [2]
@@ -574,7 +575,7 @@ staticTemplate =
                                         ["skill"] = "Excellent",
                                         ["y"] = 576392.4469513,
                                         ["x"] = -221560.14638958,
-                                        ["name"] = "SECONDARY DESTROYED SUKSA6 #001-3",
+                                        ["name"] = "SUKSA6 #001-3",
                                         ["heading"] = 4.6949356878648,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [3]
@@ -585,7 +586,7 @@ staticTemplate =
                                         ["skill"] = "Excellent",
                                         ["y"] = 576285.29838138,
                                         ["x"] = -221458.31536656,
-                                        ["name"] = "SECONDARY DESTROYED SUKSA6 #001-4",
+                                        ["name"] = "SUKSA6 #001-4",
                                         ["heading"] = 3.1764992386297,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [4]
@@ -596,7 +597,7 @@ staticTemplate =
                                         ["skill"] = "Excellent",
                                         ["y"] = 576293.54057907,
                                         ["x"] = -221663.30679933,
-                                        ["name"] = "SECONDARY DESTROYED SUKSA6 #001-5",
+                                        ["name"] = "SUKSA6 #001-5",
                                         ["heading"] = 7.105427357601e-15,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [5]
@@ -673,7 +674,7 @@ staticTemplate =
                                         ["skill"] = "Excellent",
                                         ["y"] = 576554.51216428,
                                         ["x"] = -221684.05940134,
-                                        ["name"] = "SECONDARY DESTROYED SUKSA6 #001-12",
+                                        ["name"] = "SUKSA6 #001-12",
                                         ["heading"] = 4.7298422729046,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [12]
@@ -684,7 +685,7 @@ staticTemplate =
                                         ["skill"] = "Excellent",
                                         ["y"] = 576074.47829611,
                                         ["x"] = -221714.3961142,
-                                        ["name"] = "SECONDARY DESTROYED SUKSA6 #001-13",
+                                        ["name"] = "SUKSA6 #001-13",
                                         ["heading"] = 4.7298422729046,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [13]
@@ -722,11 +723,5 @@ staticTemplate =
         }, -- end of ["DEFAULT"]
     }, -- end of ["localization"]
     ["theatre"] = "Caucasus",
-    ["desc"] = "Abbiamo appreso dell'esistenza di una postazione SA-6 a difesa della base aerea di Sukhumi-Babushara. Per consentire il proseguimento delle operazioni aeree nella zona, è fondamentale che detta postazione, peraltro difesa da SA-15 Tor, sia disabilitata.\
-\
-Obiettivo primario: Distruggere il radar di tracciamento STRAIGHT FLUSH.\
-\
-Obiettivo secondario: Distruggere tutti i lanciatori e i SA-15.\
-\
-Piloti raccomandati: 3",
+    ["desc"] = "",
 } -- end of staticTemplate

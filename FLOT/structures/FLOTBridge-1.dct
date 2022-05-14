@@ -1,6 +1,6 @@
 objtype = "facility"
 intel = 5
-cost = 3
+cost = 1
 name = "FLOTBridge-1"
 coalition = 1
 tpldata = {}

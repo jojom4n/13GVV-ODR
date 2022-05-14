@@ -1,3 +1,12 @@
 objtype = "sam"
-intel = 4
+intel = 3
 cost = 3
+desc = [[L'intelligence ha avuto notizia di una postazione SA-11 nei pressi della base aerea di Senaki-Kolkhi.
+
+Obiettivo primario: Distruggere la postazione SA-11.
+
+Codici HARM:
+- SA-11 Buk SR: 107
+- SA-11 Buk LN: 111
+
+Piloti raccomandati: 3]]

@@ -1,0 +1,9 @@
+objtype = "specialforces"
+intel = 3
+cost = 2
+ondemand = true
+desc = [[Ci è stata segnalata la presenza di forze nemiche nel paese di Dzhurkveti. È necessario verificare quanto riferito mediante una ricognizione armata. 
+
+Obiettivo primario: Effettuare l'armed recon ed eliminare eventuali minacce presenti sul posto.
+
+Piloti raccomandati: 2]]

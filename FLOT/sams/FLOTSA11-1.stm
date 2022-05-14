@@ -470,6 +470,7 @@ staticTemplate =
                                 {
                                 }, -- end of ["tasks"]
                                 ["uncontrollable"] = false,
+								["hiddenOnMFD"] = true,
                                 ["route"] = 
                                 {
                                     ["spans"] = 
@@ -684,7 +685,7 @@ staticTemplate =
                                         ["skill"] = "Excellent",
                                         ["y"] = 603151.98230402,
                                         ["x"] = -256386.11429982,
-                                        ["name"] = "SECONDARY DESTROYED FLOTSA11 #001-1",
+                                        ["name"] = "FLOTSA11 #001-1",
                                         ["heading"] = 4.7123889803847,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [13]
@@ -695,7 +696,7 @@ staticTemplate =
                                         ["skill"] = "Excellent",
                                         ["y"] = 603428.27340753,
                                         ["x"] = -256452.60146377,
-                                        ["name"] = "SECONDARY DESTROYED FLOTSA11 #001-2",
+                                        ["name"] = "FLOTSA11 #001-2",
                                         ["heading"] = 2.0420352248334,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [14]
@@ -738,6 +739,11 @@ staticTemplate =
 Obiettivo primario: Distruggere la postazione SA-11.\
 \
 Obiettivo secondario: Distruggere i SA-15.\
+\
+Codice HARM:\
+- SA-11 Buk SR: 107\
+- SA-11 Buk LN: 111\
+- SA-15 Tor: 119\
 \
 Piloti raccomandati: 4",
 } -- end of staticTemplate

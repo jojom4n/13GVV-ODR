@@ -655,11 +655,5 @@ staticTemplate =
         }, -- end of ["DEFAULT"]
     }, -- end of ["localization"]
     ["theatre"] = "Caucasus",
-    ["desc"] = "Il nemico utilizza diverse pompe di estrazione petrolifera a nord della base aerea di Sukhumi-Babushara. Dobbiamo colpirle al fine di privare il nemico di una fonte essenziale di rifornimento.\
-\
-Obiettivo primario: Distruggere le pompe di estrazione petrolifera.\
-\
-Obiettivo secondario: N/A.\
-\
-Piloti raccomandati: 2",
+    ["desc"] = "",
 } -- end of staticTemplate

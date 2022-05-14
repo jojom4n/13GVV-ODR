@@ -1,0 +1,12 @@
+objtype = "frontline"
+intel = 3
+cost = 2
+coalition = 1
+ondemand = true
+desc = [[Un convoglio alleato è stato vittima di un'imboscata con RPG mentre attraversava il paese di Durgena, ad ovest della base aerea di Senaki-Kolkhi. È stata richiesta una CAS, al fine di annientare le forze nemiche e riuscire ad evacuare i numerosi feriti. 
+
+Obiettivo primario: Eliminare le forze nemiche.
+
+Obiettivo secondario: Evacuare i soldati superstiti.
+
+Piloti raccomandati: 2]]

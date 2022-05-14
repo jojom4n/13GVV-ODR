@@ -563,7 +563,7 @@ staticTemplate =
                                         ["skill"] = "Excellent",
                                         ["y"] = 623662.76206212,
                                         ["x"] = -237354.80734535,
-                                        ["name"] = "SECONDARY DESTROYED FLOTSA3 #003-2",
+                                        ["name"] = "FLOTSA3 #003-2",
                                         ["heading"] = 5.3756140961425,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [2]
@@ -574,7 +574,7 @@ staticTemplate =
                                         ["skill"] = "Excellent",
                                         ["y"] = 623697.87118181,
                                         ["x"] = -237349.23105004,
-                                        ["name"] = "SECONDARY DESTROYED FLOTSA3 #003-3",
+                                        ["name"] = "FLOTSA3 #003-3",
                                         ["heading"] = 0.61086523819802,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [3]
@@ -585,7 +585,7 @@ staticTemplate =
                                         ["skill"] = "Excellent",
                                         ["y"] = 623648.1860255,
                                         ["x"] = -237384.79823547,
-                                        ["name"] = "SECONDARY DESTROYED FLOTSA3 #003-4",
+                                        ["name"] = "FLOTSA3 #003-4",
                                         ["heading"] = 4.1887902047864,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [4]
@@ -596,7 +596,7 @@ staticTemplate =
                                         ["skill"] = "Excellent",
                                         ["y"] = 623722.03170287,
                                         ["x"] = -237373.7425818,
-                                        ["name"] = "SECONDARY DESTROYED FLOTSA3 #003-5",
+                                        ["name"] = "FLOTSA3 #003-5",
                                         ["heading"] = 2.0594885173533,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [5]
@@ -607,7 +607,7 @@ staticTemplate =
                                         ["skill"] = "Excellent",
                                         ["y"] = 623766.50381337,
                                         ["x"] = -237430.88060929,
-                                        ["name"] = "SECONDARY DESTROYED FLOTSA3 #003-6",
+                                        ["name"] = "FLOTSA3 #003-6",
                                         ["heading"] = 3.000382098935,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [6]
@@ -716,6 +716,10 @@ staticTemplate =
 Obiettivo primario: Distruggere il radar di tracciamento LOW BLOW.\
 \
 Obiettivo secondario: Distruggere i lanciatori e il radar di ricerca.\
+\
+Codice HARM:\
+- SA-3 Low Blow TR: 123\
+- P-19 SR: 122\
 \
 Piloti raccomandati: 2",
 } -- end of staticTemplate

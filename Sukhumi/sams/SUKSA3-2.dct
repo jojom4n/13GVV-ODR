@@ -1,3 +1,16 @@
 objtype = "sam"
-intel = 4
+intel = 5
 cost = 3
+nocull = true
+desc = [[Una ricognizione aerea ha individuato una postazione SA-3 a difesa della base aera di Sukhumi-Babushara. La postazione è difesa da SA-15 Tor.
+
+Obiettivo primario: Distruggere il radar di tracciamento LOW BLOW. 
+
+Obiettivo secondario: Distruggere i lanciatori, il radar di ricerca e i SA-15.
+
+Codice HARM:
+- SA-3 Low Blow TR: 123
+- P-19 SR: 122
+- SA-15 Tor: 119
+
+Piloti raccomandati: 2]]

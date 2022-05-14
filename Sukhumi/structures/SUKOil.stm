@@ -655,11 +655,5 @@ staticTemplate =
         }, -- end of ["DEFAULT"]
     }, -- end of ["localization"]
     ["theatre"] = "Caucasus",
-    ["desc"] = "Il nemico ha alcuni depositi di carburanti nei pressi della base aerea di Sukhumi-Babushara. Se vogliamo indebolire le capacità di rifornimento nemiche, è fondamentale distruggerli.\
-\
-Obiettivo primario: Distruggere i depositi di carburante.\
-\
-Obiettivo secondario: N/A.\
-\
-Piloti raccomandati: 2",
+    ["desc"] = "",
 } -- end of staticTemplate

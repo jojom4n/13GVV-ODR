@@ -1,3 +1,15 @@
 objtype = "sam"
-intel = 4
+intel = 5
 cost = 3
+nocull = true
+desc = [[Una fonte confidenziale ci ha comunicato la presenza di una postazione SA-2 poco distante dalla base aerea di Sukhumi-Babushara.
+
+Obiettivo primario: Distruggere il radar di tracciamento FAN SONG.
+
+Obiettivo secondario: Distruggere i lanciatori e il radar di ricerca FLAT FACE.
+
+Codice HARM:
+- SA-2 Fan Song TR: 126
+- SA-2 Flat Face SR: 122
+
+Piloti raccomandati: 2]]

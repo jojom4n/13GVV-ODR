@@ -1,3 +1,12 @@
 objtype = "sam"
-intel = 4
+intel = 3
 cost = 3
+desc = [[Rapporti di intelligence hanno segnalato una postazione SA-11 nei pressi della base aerea di Sukhumi-Babushara.
+
+Obiettivo primario: Distruggere la postazione SA-11.
+
+Codice HARM:
+- SA-11 Buk SR: 107
+- SA-11 Buk LN: 111
+
+Piloti raccomandati: 3]]

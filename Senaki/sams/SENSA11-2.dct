@@ -1,3 +1,15 @@
 objtype = "sam"
-intel = 4
+intel = 3
 cost = 3
+desc = [[Immagini satellitari ci hanno fornito la posizione di una postazione SA-11 nei pressi della base aerea di Senaki-Kolkhi. La postazione è presidiata a sua volta da SA-15 Tor.
+
+Obiettivo primario: Distruggere la postazione SA-11.
+
+Obiettivo secondario: Distruggere i SA-15.
+
+Codici HARM:
+- SA-11 Buk SR: 107
+- SA-11 Buk LN: 111
+- SA-15 Tor: 119
+
+Piloti raccomandati: 3]]

@@ -563,7 +563,7 @@ staticTemplate =
                                         ["skill"] = "Excellent",
                                         ["y"] = 556783.38241329,
                                         ["x"] = -205840.6926131,
-                                        ["name"] = "SECONDARY DESTROYED SUKSA2 #001-2",
+                                        ["name"] = "SUKSA2 #001-2",
                                         ["heading"] = 5.4803338512622,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [2]
@@ -574,7 +574,7 @@ staticTemplate =
                                         ["skill"] = "Excellent",
                                         ["y"] = 556937.27964318,
                                         ["x"] = -205919.573468,
-                                        ["name"] = "SECONDARY DESTROYED SUKSA2 #001-3",
+                                        ["name"] = "SUKSA2 #001-3",
                                         ["heading"] = 1.535889741755,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [3]
@@ -585,7 +585,7 @@ staticTemplate =
                                         ["skill"] = "Excellent",
                                         ["y"] = 556732.2348849,
                                         ["x"] = -205921.61936914,
-                                        ["name"] = "SECONDARY DESTROYED SUKSA2 #001-4",
+                                        ["name"] = "SUKSA2 #001-4",
                                         ["heading"] = 4.6774823953448,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [4]
@@ -596,7 +596,7 @@ staticTemplate =
                                         ["skill"] = "Excellent",
                                         ["y"] = 556783.60973564,
                                         ["x"] = -206005.04667101,
-                                        ["name"] = "SECONDARY DESTROYED SUKSA2 #001-5",
+                                        ["name"] = "SUKSA2 #001-5",
                                         ["heading"] = 3.8048177693476,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [5]
@@ -607,7 +607,7 @@ staticTemplate =
                                         ["skill"] = "Excellent",
                                         ["y"] = 556888.40533827,
                                         ["x"] = -206007.54721684,
-                                        ["name"] = "SECONDARY DESTROYED SUKSA2 #001-6",
+                                        ["name"] = "SUKSA2 #001-6",
                                         ["heading"] = 2.3561944901923,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [6]
@@ -618,7 +618,7 @@ staticTemplate =
                                         ["skill"] = "Excellent",
                                         ["y"] = 556884.76818069,
                                         ["x"] = -205839.10135666,
-                                        ["name"] = "SECONDARY DESTROYED SUKSA2 #001-7",
+                                        ["name"] = "SUKSA2 #001-7",
                                         ["heading"] = 0.92502450355699,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [7]
@@ -651,7 +651,7 @@ staticTemplate =
                                         ["skill"] = "Excellent",
                                         ["y"] = 556996.13496063,
                                         ["x"] = -205980.9341731,
-                                        ["name"] = "SECONDARY DESTROYED SUKSA2 #001-10",
+                                        ["name"] = "SUKSA2 #001-10",
                                         ["heading"] = 2.2165681500328,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [10]
@@ -717,7 +717,7 @@ staticTemplate =
                                         ["skill"] = "Excellent",
                                         ["y"] = 556816.94468638,
                                         ["x"] = -206197.55527662,
-                                        ["name"] = "SECONDARY DESTROYED SUKSA2 #001-16",
+                                        ["name"] = "SUKSA2 #001-16",
                                         ["heading"] = 3.9793506945471,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [16]
@@ -728,7 +728,7 @@ staticTemplate =
                                         ["skill"] = "Excellent",
                                         ["y"] = 557041.23897767,
                                         ["x"] = -205818.82885036,
-                                        ["name"] = "SECONDARY DESTROYED SUKSA2 #001-17",
+                                        ["name"] = "SUKSA2 #001-17",
                                         ["heading"] = 1.6929693744345,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [17]
@@ -766,11 +766,5 @@ staticTemplate =
         }, -- end of ["DEFAULT"]
     }, -- end of ["localization"]
     ["theatre"] = "Caucasus",
-    ["desc"] = "Immagini satellitari hanno appurato la presenza di una postazione SA-2 tra Sukhumi-Babushara e Gudauta. La postazione è difesa da SA-15 Tor.\
-\
-Obiettivo primario: Distruggere il radar di tracciamento FAN SONG.\
-\
-Obiettivo secondario: Distruggere i lanciatori, il radar di ricerca FLAT FACE e i SA-15.\
-\
-Piloti raccomandati: 2",
+    ["desc"] = "",
 } -- end of staticTemplate

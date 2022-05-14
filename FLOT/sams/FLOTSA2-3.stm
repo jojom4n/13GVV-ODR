@@ -563,7 +563,7 @@ staticTemplate =
                                         ["skill"] = "Excellent",
                                         ["y"] = 625441.64283348,
                                         ["x"] = -240357.03348513,
-                                        ["name"] = "SECONDARY DESTROYED FLOTSA2 #003-2",
+                                        ["name"] = "FLOTSA2 #003-2",
                                         ["heading"] = 3.385938748869,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [2]
@@ -574,7 +574,7 @@ staticTemplate =
                                         ["skill"] = "Excellent",
                                         ["y"] = 625433.00704275,
                                         ["x"] = -240184.31414703,
-                                        ["name"] = "SECONDARY DESTROYED FLOTSA2 #003-3",
+                                        ["name"] = "FLOTSA2 #003-3",
                                         ["heading"] = 5.7246799465414,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [3]
@@ -585,7 +585,7 @@ staticTemplate =
                                         ["skill"] = "Excellent",
                                         ["y"] = 625537.30122425,
                                         ["x"] = -240360.86516605,
-                                        ["name"] = "SECONDARY DESTROYED FLOTSA2 #003-4",
+                                        ["name"] = "FLOTSA2 #003-4",
                                         ["heading"] = 2.5830872929516,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [4]
@@ -596,7 +596,7 @@ staticTemplate =
                                         ["skill"] = "Excellent",
                                         ["y"] = 625564.80868487,
                                         ["x"] = -240277.04952883,
-                                        ["name"] = "SECONDARY DESTROYED FLOTSA2 #003-5",
+                                        ["name"] = "FLOTSA2 #003-5",
                                         ["heading"] = 1.7104226669544,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [5]
@@ -607,7 +607,7 @@ staticTemplate =
                                         ["skill"] = "Excellent",
                                         ["y"] = 625533.63169657,
                                         ["x"] = -240182.65366226,
-                                        ["name"] = "SECONDARY DESTROYED FLOTSA2 #003-6",
+                                        ["name"] = "FLOTSA2 #003-6",
                                         ["heading"] = 0.2617993877991,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [6]
@@ -618,7 +618,7 @@ staticTemplate =
                                         ["skill"] = "Excellent",
                                         ["y"] = 625389.57188128,
                                         ["x"] = -240270.02646321,
-                                        ["name"] = "SECONDARY DESTROYED FLOTSA2 #003-7",
+                                        ["name"] = "FLOTSA2 #003-7",
                                         ["heading"] = 5.1138147083434,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [7]
@@ -651,7 +651,7 @@ staticTemplate =
                                         ["skill"] = "Excellent",
                                         ["y"] = 625456.71931344,
                                         ["x"] = -240102.66359442,
-                                        ["name"] = "SECONDARY DESTROYED FLOTSA2 #003-10",
+                                        ["name"] = "FLOTSA2 #003-10",
                                         ["heading"] = 0.1221730476396,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [10]
@@ -749,6 +749,10 @@ staticTemplate =
 Obiettivo primario: Distruggere il radar di tracciamento FAN SONG. \
 \
 Obiettivo secondario: Distruggere i lanciatori e il radar di ricerca FLAT FACE.\
+\
+Codice HARM:\
+- SA-2 Fan Song TR: 126\
+- SA-2 Flat Face SR: 122\
 \
 Piloti raccomandati: 2",
 } -- end of staticTemplate

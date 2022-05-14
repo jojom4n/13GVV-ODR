@@ -1,3 +1,11 @@
 objtype = "ewr"
-intel = 4
-cost = 2
+intel = 3
+cost = 3
+desc = [[Una squadra di ricognizione ha individuato un EWR attivo nei pressi della base aerea di Senaki-Kolkhi. È essenziale distruggere la postazione EWR, al fine di indebolire la capacità di intelligence del nemico.
+
+Obiettivo primario: Distruggere la postazione EWR.
+
+Codice HARM:
+- EWR 1L13: 101
+
+Piloti raccomandati: 2]]

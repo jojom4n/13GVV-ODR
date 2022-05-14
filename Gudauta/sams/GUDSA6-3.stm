@@ -470,6 +470,7 @@ staticTemplate =
                                 {
                                 }, -- end of ["tasks"]
                                 ["uncontrollable"] = false,
+								["hiddenOnMFD"] = true,
                                 ["route"] = 
                                 {
                                     ["spans"] = 
@@ -563,7 +564,7 @@ staticTemplate =
                                         ["skill"] = "Excellent",
                                         ["y"] = 517595.58708091,
                                         ["x"] = -198774.50831758,
-                                        ["name"] = "SECONDARY DESTROYED GUDSA6 #003-2",
+                                        ["name"] = "GUDSA6 #003-2",
                                         ["heading"] = 4.7123889803847,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [2]
@@ -574,7 +575,7 @@ staticTemplate =
                                         ["skill"] = "Excellent",
                                         ["y"] = 517316.59424931,
                                         ["x"] = -198747.93757171,
-                                        ["name"] = "SECONDARY DESTROYED GUDSA6 #003-3",
+                                        ["name"] = "GUDSA6 #003-3",
                                         ["heading"] = 1.553343034275,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [3]
@@ -585,7 +586,7 @@ staticTemplate =
                                         ["skill"] = "Excellent",
                                         ["y"] = 517483.39948725,
                                         ["x"] = -198888.17206379,
-                                        ["name"] = "SECONDARY DESTROYED GUDSA6 #003-4",
+                                        ["name"] = "GUDSA6 #003-4",
                                         ["heading"] = 0.034906585039887,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [4]
@@ -596,7 +597,7 @@ staticTemplate =
                                         ["skill"] = "Excellent",
                                         ["y"] = 517447.9718261,
                                         ["x"] = -198628.36921531,
-                                        ["name"] = "SECONDARY DESTROYED GUDSA6 #003-5",
+                                        ["name"] = "GUDSA6 #003-5",
                                         ["heading"] = 3.1415926535898,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [5]
@@ -793,6 +794,9 @@ staticTemplate =
 Obiettivo primario: Distruggere il radar di tracciamento STRAIGHT FLUSH.\
 \
 Obiettivo secondario: Distruggere i lanciatori.\
+\
+Codice HARM:\
+- SA-6 Straight Flush TR: 108\
 \
 Piloti raccomandati: 2",
 } -- end of staticTemplate

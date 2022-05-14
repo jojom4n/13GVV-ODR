@@ -1,3 +1,8 @@
 objtype = "facility"
 intel = 5
-cost = 3
+cost = 1
+desc = [[Una fonte confidenziale ci ha informato che il nemico ha un quartier generale segreto in una comune abitazione, nei pressi della base aerea di Sukhumi-Babushara. Distruggendo la struttura, non solo potremmo indebolire l'intelligence nemica, ma potremmo anche colpire un eventuale alto ufficiale che si trovasse al suo interno. Tuttavia, è fondamentale che l'operazione avvenga in modo chirurgico, al fine di evitare vittime civili collaterali.
+
+Obiettivo primario: Distruggere il quartier generale segreto.
+
+Piloti raccomandati: 2]]

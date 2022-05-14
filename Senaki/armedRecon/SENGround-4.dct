@@ -1,0 +1,15 @@
+objtype = "specialforces"
+intel = 5
+cost = 2
+ondemand = true
+coalition = 1
+extramarks = {
+    { label = "%TARGET%: Checkpoint", x = -278192, z = 651236 },
+}
+desc = [[Un'unità speciale sta per procedere all'eliminazione di una personalità estremamente importante per il nemico. Vi sia sufficiente sapere che l'unità si è infiltrata nella periferia orientale della cittadina di Saodishano, appena ad est della base aerea di Senaki-Kolkhi, e si sta dirigendo verso il centro cittadino.
+Sebbene l'unità stia adottando tutte le precauzioni del caso, riteniamo utile creare un diversivo, affinché l'unità, a missione completata, possa esfiltrare con maggiore tranquillità, senza il rischio di essere intercettata dalle numerose pattuglie nemiche presenti in zona.
+Il vostro compito di supporto, pertanto, è di creare questo diversivo, assalendo e distruggendo un piccolo checkpoint di uomini e mezzi situato vicino al ponte che unisce la parte orientale della città a quella occidentale.
+
+Obiettivo primario: Eliminare truppe e mezzi nemici nei pressi del ponte.
+
+Piloti raccomandati: 2]]

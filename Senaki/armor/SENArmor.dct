@@ -1,4 +1,11 @@
-objtype = "logistics"
-intel = 4
-cost = 6
+objtype = "shorad"
+intel = 3
+cost = 5
+priority = 999
 nocull = true
+spawnalways = true
+desc = [[Sono state individuate diverse unità nemiche a difesa della base aerea di Senaki-Kolkhi, presidiate da numerosi SHORAD. Al fine di consentire alle nostre truppe di avanzare e riconquistare la base, è necessario ripulire completamente l'area.
+
+Obiettivo primario: Distruggere le unità nemiche e le loro difese.
+
+Piloti raccomandati: 3]]

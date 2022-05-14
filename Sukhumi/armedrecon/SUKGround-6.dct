@@ -1,0 +1,9 @@
+objtype = "specialforces"
+intel = 3
+cost = 2
+ondemand = true
+desc = [[Abbiamo perso i contatti con alcune forze speciali, mentre conducevano un'operazione nel piccolo paese di Vladimirovka, a nord-est della base aerea di Sukhumi-Babushara. È necessario verificare la situazione in quella zona. 
+
+Obiettivo primario: Eseguire una ricognizione armata ed eliminare eventuali forze nemiche.
+
+Piloti raccomandati: 2]]

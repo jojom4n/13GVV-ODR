@@ -1,0 +1,12 @@
+objtype = "frontline"
+intel = 3
+cost = 2
+ondemand = true
+location = { x = -290492, z = 620923 }
+desc = [[Abbiamo appreso da fonti di intelligence che un convoglio nemico di carri antifanteria e di antiaeree, scortato da un elicottero da guerra, sta marciando verso la periferia occidentale della cittadina di Patara-Poti, nella quale sono stanziate alcune delle nostre truppe. Non possiamo permettere che la cittadina cada in mano nemica, per cui è stata pianificata una CAS.  
+
+Obiettivo primario: Eliminare l'intero convoglio nemico.
+
+Obiettivo secondario: Distruggere l'elicottero da guerra di scorta al convoglio.
+
+Piloti raccomandati: 2]]

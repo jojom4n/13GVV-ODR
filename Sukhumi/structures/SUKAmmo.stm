@@ -532,11 +532,5 @@ staticTemplate =
         }, -- end of ["DEFAULT"]
     }, -- end of ["localization"]
     ["theatre"] = "Caucasus",
-    ["desc"] = "I nostri servizi di intelligence ci hanno informato che il nemico utilizza un deposito di munizioni segreto, nei pressi della base aerea di Sukhumi-Babushara. Riteniamo che la distruzione del deposito possa privare il nemico di un importante asset strategico.\
-\
-Obiettivo primario: Distruggere il deposito di munizioni.\
-\
-Obiettivo secondario: N/A.\
-\
-Piloti raccomandati: 2",
+    ["desc"] = "",
 } -- end of staticTemplate

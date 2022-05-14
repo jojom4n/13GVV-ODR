@@ -1,0 +1,10 @@
+objtype = "frontline"
+intel = 5
+cost = 2
+coalition = 1
+ondemand = true
+desc = [[Un AH64-D alleato è stato abbattuto poco ad est della base aerea di Senaki-Kolkhi. I due membri dell'equipaggio sono riusciti a sopravvivere e a rifugiarsi in un edificio non distante dal luogo dello schianto. Siamo pronti a lanciare l'estrazione, ma si rende necessaria una CAS contro un piccolo contingente di truppe nemiche che sta battendo la zona per trovare i nostri soldati e farli prigionieri.
+
+Obiettivo primario: Eliminare le truppe nemiche.
+
+Piloti raccomandati: 2]]

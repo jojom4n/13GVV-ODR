@@ -416,44 +416,7 @@ staticTemplate =
             {
                 [1] = 
                 {
-                    ["id"] = 5,
-                    ["name"] = "France",
-                }, -- end of [1]
-                [2] = 
-                {
-                    ["id"] = 16,
-                    ["name"] = "Georgia",
-                }, -- end of [2]
-                [3] = 
-                {
-                    ["id"] = 6,
-                    ["name"] = "Germany",
-                }, -- end of [3]
-                [4] = 
-                {
-                    ["id"] = 20,
-                    ["name"] = "Italy",
-                }, -- end of [4]
-                [5] = 
-                {
-                    ["id"] = 4,
-                    ["name"] = "UK",
-                }, -- end of [5]
-                [6] = 
-                {
                     ["id"] = 2,
-                    ["name"] = "USA",
-                }, -- end of [6]
-            }, -- end of ["country"]
-        }, -- end of ["blue"]
-        ["red"] = 
-        {
-            ["name"] = "red",
-            ["country"] = 
-            {
-                [1] = 
-                {
-                    ["id"] = 18,
                     ["vehicle"] = 
                     {
                         ["group"] = 
@@ -466,6 +429,7 @@ staticTemplate =
                                 }, -- end of ["tasks"]
                                 ["uncontrollable"] = false,
                                 ["task"] = "Ground Nothing",
+                                ["taskSelected"] = true,
                                 ["route"] = 
                                 {
                                     ["spans"] = 
@@ -475,16 +439,16 @@ staticTemplate =
                                     {
                                         [1] = 
                                         {
-                                            ["alt"] = 15,
+                                            ["alt"] = 160,
                                             ["type"] = "Turning Point",
                                             ["ETA"] = 0,
                                             ["alt_type"] = "BARO",
                                             ["formation_template"] = "",
-                                            ["y"] = 658746.2150764,
-                                            ["x"] = -292020.65254561,
+                                            ["y"] = 651385.71090861,
+                                            ["x"] = -303156.99343484,
                                             ["ETA_locked"] = true,
-                                            ["speed"] = 5,
-                                            ["action"] = "Off Road",
+                                            ["speed"] = 0,
+                                            ["action"] = "On Road",
                                             ["task"] = 
                                             {
                                                 ["id"] = "ComboTask",
@@ -495,18 +459,18 @@ staticTemplate =
                                                         [1] = 
                                                         {
                                                             ["number"] = 1,
-                                                            ["auto"] = false,
+                                                            ["auto"] = true,
                                                             ["id"] = "WrappedAction",
                                                             ["enabled"] = true,
                                                             ["params"] = 
                                                             {
                                                                 ["action"] = 
                                                                 {
-                                                                    ["id"] = "Option",
+                                                                    ["id"] = "EPLRS",
                                                                     ["params"] = 
                                                                     {
-                                                                        ["name"] = 9,
-                                                                        ["value"] = 2,
+                                                                        ["value"] = true,
+                                                                        ["groupId"] = 1,
                                                                     }, -- end of ["params"]
                                                                 }, -- end of ["action"]
                                                             }, -- end of ["params"]
@@ -524,101 +488,244 @@ staticTemplate =
                                 {
                                     [1] = 
                                     {
-                                        ["type"] = "BTR-80",
+                                        ["type"] = "M1043 HMMWV Armament",
                                         ["unitId"] = 1,
-                                        ["skill"] = "Excellent",
-                                        ["y"] = 658746.2150764,
-                                        ["x"] = -292020.65254561,
-                                        ["name"] = "PRIMARY DESTROYED PARIS_SSB #001-1",
+                                        ["skill"] = "Average",
+                                        ["y"] = 651385.71090861,
+                                        ["x"] = -303156.99343484,
+                                        ["name"] = "SENCas-4 #001-1",
                                         ["heading"] = 0,
-                                        ["playerCanDrive"] = false,
+                                        ["playerCanDrive"] = true,
                                     }, -- end of [1]
                                     [2] = 
                                     {
-                                        ["type"] = "BTR-80",
-                                        ["unitId"] = 2,
-                                        ["skill"] = "Excellent",
-                                        ["y"] = 658542.18441432,
-                                        ["x"] = -292111.53259387,
-                                        ["name"] = "PRIMARY DESTROYED PARIS_SSB #001-2",
-                                        ["heading"] = 0.75049157835756,
+                                        ["type"] = "M1043 HMMWV Armament",
+                                        ["unitId"] = 7,
+                                        ["skill"] = "Average",
+                                        ["y"] = 651390.61523176,
+                                        ["x"] = -303186.58983479,
+                                        ["name"] = "SENCas-4 #001-2",
+                                        ["heading"] = 0,
                                         ["playerCanDrive"] = true,
                                     }, -- end of [2]
                                     [3] = 
                                     {
-                                        ["type"] = "BTR-80",
-                                        ["unitId"] = 3,
-                                        ["skill"] = "Excellent",
-                                        ["y"] = 658380.28205801,
-                                        ["x"] = -292033.03448171,
-                                        ["name"] = "PRIMARY DESTROYED PARIS_SSB #001-3",
-                                        ["heading"] = 4.8520153205442,
-                                        ["playerCanDrive"] = true,
-                                    }, -- end of [3]
-                                    [4] = 
-                                    {
-                                        ["type"] = "BTR-80",
-                                        ["unitId"] = 4,
-                                        ["skill"] = "Excellent",
-                                        ["y"] = 658608.41719645,
-                                        ["x"] = -292484.39862659,
-                                        ["name"] = "PRIMARY DESTROYED PARIS_SSB #001-4",
-                                        ["heading"] = 3.2812189937493,
-                                        ["playerCanDrive"] = true,
-                                    }, -- end of [4]
-                                    [5] = 
-                                    {
-                                        ["type"] = "BTR-80",
-                                        ["unitId"] = 5,
-                                        ["skill"] = "Excellent",
-                                        ["y"] = 658746.2150764,
-                                        ["x"] = -292180.65254561,
-                                        ["name"] = "PRIMARY DESTROYED PARIS_SSB #001-5",
-                                        ["heading"] = 1.3089969389957,
-                                        ["playerCanDrive"] = true,
-                                    }, -- end of [5]
-                                    [6] = 
-                                    {
-                                        ["type"] = "KAMAZ Truck",
+                                        ["type"] = "M1043 HMMWV Armament",
                                         ["unitId"] = 8,
                                         ["skill"] = "Excellent",
-                                        ["y"] = 658378.19055052,
-                                        ["x"] = -292167.95643155,
-                                        ["name"] = "SECONDARY DESTROYED PARIS_SSB #001-6",
-                                        ["heading"] = 4.2062434973063,
-                                        ["playerCanDrive"] = false,
-                                    }, -- end of [6]
-                                    [7] = 
-                                    {
-                                        ["type"] = "KAMAZ Truck",
-                                        ["unitId"] = 10,
-                                        ["skill"] = "Excellent",
-                                        ["y"] = 658625.46753493,
-                                        ["x"] = -291890.24535675,
-                                        ["name"] = "SECONDARY DESTROYED PARIS_SSB #001-7",
-                                        ["heading"] = 2.5830872929516,
-                                        ["playerCanDrive"] = false,
-                                    }, -- end of [7]
-                                    [8] = 
-                                    {
-                                        ["type"] = "KAMAZ Truck",
-                                        ["unitId"] = 11,
-                                        ["skill"] = "Excellent",
-                                        ["y"] = 658665.41227857,
-                                        ["x"] = -292348.65884324,
-                                        ["name"] = "SECONDARY DESTROYED PARIS_SSB #001-8",
-                                        ["heading"] = 4.8520153205442,
-                                        ["playerCanDrive"] = false,
-                                    }, -- end of [8]
+                                        ["y"] = 651395.22699726,
+                                        ["x"] = -303216.23063508,
+                                        ["name"] = "SENCas-4 #001-3",
+                                        ["heading"] = 0,
+                                        ["playerCanDrive"] = true,
+                                    }, -- end of [3]
                                 }, -- end of ["units"]
-                                ["y"] = 658746.2150764,
-                                ["x"] = -292020.65254561,
-                                ["name"] = "PARIS_SSB #001",
+                                ["y"] = 651385.71090861,
+                                ["x"] = -303156.99343484,
+                                ["name"] = "SENCas-4 #001",
                                 ["start_time"] = 0,
                             }, -- end of [1]
                         }, -- end of ["group"]
                     }, -- end of ["vehicle"]
+                    ["name"] = "USA",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["id"] = 5,
+                    ["name"] = "France",
+                }, -- end of [2]
+                [3] = 
+                {
+                    ["id"] = 16,
+                    ["name"] = "Georgia",
+                }, -- end of [3]
+                [4] = 
+                {
+                    ["id"] = 6,
+                    ["name"] = "Germany",
+                }, -- end of [4]
+                [5] = 
+                {
+                    ["id"] = 20,
+                    ["name"] = "Italy",
+                }, -- end of [5]
+                [6] = 
+                {
+                    ["id"] = 4,
+                    ["name"] = "UK",
+                }, -- end of [6]
+            }, -- end of ["country"]
+        }, -- end of ["blue"]
+        ["red"] = 
+        {
+            ["name"] = "red",
+            ["country"] = 
+            {
+                [1] = 
+                {
                     ["name"] = "Abkhazia",
+                    ["id"] = 18,
+                    ["static"] = 
+                    {
+                        ["group"] = 
+                        {
+                            [1] = 
+                            {
+                                ["heading"] = 2.4085543677522,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = 650947.31954694,
+                                            ["speed"] = 0,
+                                            ["x"] = -302649.30979807,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 3,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["category"] = "Fortifications",
+                                        ["type"] = "outpost_road",
+                                        ["unitId"] = 4,
+                                        ["rate"] = 5,
+                                        ["y"] = 650947.31954694,
+                                        ["x"] = -302649.30979807,
+                                        ["name"] = "SENCas-4 #003-1",
+                                        ["heading"] = 2.4085543677522,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = 650947.31954694,
+                                ["x"] = -302649.30979807,
+                                ["name"] = "SENCas-4 #003",
+                                ["dead"] = false,
+                            }, -- end of [1]
+                        }, -- end of ["group"]
+                    }, -- end of ["static"]
+                    ["vehicle"] = 
+                    {
+                        ["group"] = 
+                        {
+                            [1] = 
+                            {
+                                ["visible"] = false,
+                                ["tasks"] = 
+                                {
+                                }, -- end of ["tasks"]
+                                ["uncontrollable"] = false,
+                                ["task"] = "Ground Nothing",
+                                ["taskSelected"] = true,
+                                ["route"] = 
+                                {
+                                    ["spans"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            [1] = 
+                                            {
+                                                ["y"] = 650916.38286636,
+                                                ["x"] = -302651.73620439,
+                                            }, -- end of [1]
+                                            [2] = 
+                                            {
+                                                ["y"] = 650885.74948657,
+                                                ["x"] = -302627.47214119,
+                                            }, -- end of [2]
+                                        }, -- end of [1]
+                                    }, -- end of ["spans"]
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 179,
+                                            ["type"] = "Turning Point",
+                                            ["ETA"] = 0,
+                                            ["alt_type"] = "BARO",
+                                            ["formation_template"] = "",
+                                            ["y"] = 650948.86704651,
+                                            ["x"] = -302665.13794637,
+                                            ["ETA_locked"] = true,
+                                            ["speed"] = 0,
+                                            ["action"] = "Off Road",
+                                            ["task"] = 
+                                            {
+                                                ["id"] = "ComboTask",
+                                                ["params"] = 
+                                                {
+                                                    ["tasks"] = 
+                                                    {
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["speed_locked"] = true,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 2,
+                                ["hidden"] = false,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["type"] = "Infantry AK Ins",
+                                        ["unitId"] = 2,
+                                        ["skill"] = "Excellent",
+                                        ["y"] = 650948.86704651,
+                                        ["x"] = -302665.13794637,
+                                        ["name"] = "PRIMARY DESTROYED SENCas-4 #002-1",
+                                        ["heading"] = 2.2340214425527,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [1]
+                                    [2] = 
+                                    {
+                                        ["type"] = "Infantry AK Ins",
+                                        ["unitId"] = 3,
+                                        ["skill"] = "Excellent",
+                                        ["y"] = 650962.16876524,
+                                        ["x"] = -302651.99167663,
+                                        ["name"] = "PRIMARY DESTROYED SENCas-4 #002-2",
+                                        ["heading"] = 2.2863813201126,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [2]
+                                    [3] = 
+                                    {
+                                        ["type"] = "SAU Gvozdika",
+                                        ["unitId"] = 5,
+                                        ["skill"] = "Excellent",
+                                        ["y"] = 650948.69802905,
+                                        ["x"] = -302629.44134493,
+                                        ["name"] = "PRIMARY DESTROYED SENCas-4 #002-3",
+                                        ["heading"] = 2.8448866807508,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [3]
+                                    [4] = 
+                                    {
+                                        ["type"] = "Soldier RPG",
+                                        ["unitId"] = 6,
+                                        ["skill"] = "Excellent",
+                                        ["y"] = 650952.72986519,
+                                        ["x"] = -302655.4076595,
+                                        ["name"] = "PRIMARY DESTROYED SENCas-4 #002-4",
+                                        ["heading"] = 2.3212879051525,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [4]
+                                }, -- end of ["units"]
+                                ["y"] = 650948.86704651,
+                                ["x"] = -302665.13794637,
+                                ["name"] = "SENCas-4 #002",
+                                ["start_time"] = 0,
+                            }, -- end of [1]
+                        }, -- end of ["group"]
+                    }, -- end of ["vehicle"]
                 }, -- end of [1]
                 [2] = 
                 {
@@ -633,7 +740,7 @@ staticTemplate =
             }, -- end of ["country"]
         }, -- end of ["red"]
     }, -- end of ["coalition"]
-    ["name"] = "PARIS-1",
+    ["name"] = "SENCas-4",
     ["requiredModules"] = 
     {
     }, -- end of ["requiredModules"]
@@ -649,11 +756,5 @@ staticTemplate =
         }, -- end of ["DEFAULT"]
     }, -- end of ["localization"]
     ["theatre"] = "Caucasus",
-    ["desc"] = "Come noto, il nemico ha preso possesso della FARP Paris, nelle vicinanze della base aerea di Senaki-Kolkhi. Se vogliamo avere un avamposto strategico dal quale dirigere gli attacchi per la riconquista di detta base aerea, è essenziale liberare la FARP.\
-\
-Obiettivo primario: Distruggere i mezzi corazzati.\
-\
-Obiettivo secondario: Distruggere i mezzi di supporto logistico.\
-\
-Piloti raccomandati: 3",
+    ["desc"] = "",
 } -- end of staticTemplate

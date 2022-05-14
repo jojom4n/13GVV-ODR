@@ -470,6 +470,7 @@ staticTemplate =
                                 {
                                 }, -- end of ["tasks"]
                                 ["uncontrollable"] = false,
+								["hiddenOnMFD"] = true,
                                 ["route"] = 
                                 {
                                     ["spans"] = 
@@ -563,7 +564,7 @@ staticTemplate =
                                         ["skill"] = "Excellent",
                                         ["y"] = 642579.40349744,
                                         ["x"] = -274799.87619109,
-                                        ["name"] = "SECONDARY DESTROYED SENSA6 #002-2",
+                                        ["name"] = "SENSA6 #002-2",
                                         ["heading"] = 1.5707963267949,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [2]
@@ -574,7 +575,7 @@ staticTemplate =
                                         ["skill"] = "Excellent",
                                         ["y"] = 642782.53378879,
                                         ["x"] = -274793.22925747,
-                                        ["name"] = "SECONDARY DESTROYED SENSA6 #002-3",
+                                        ["name"] = "SENSA6 #002-3",
                                         ["heading"] = 4.6949356878648,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [3]
@@ -585,7 +586,7 @@ staticTemplate =
                                         ["skill"] = "Excellent",
                                         ["y"] = 642675.38521887,
                                         ["x"] = -274691.39823445,
-                                        ["name"] = "SECONDARY DESTROYED SENSA6 #002-4",
+                                        ["name"] = "SENSA6 #002-4",
                                         ["heading"] = 3.1764992386297,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [4]
@@ -596,7 +597,7 @@ staticTemplate =
                                         ["skill"] = "Excellent",
                                         ["y"] = 642683.62741656,
                                         ["x"] = -274896.38966722,
-                                        ["name"] = "SECONDARY DESTROYED SENSA6 #002-5",
+                                        ["name"] = "SENSA6 #002-5",
                                         ["heading"] = 7.105427357601e-15,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [5]
@@ -673,7 +674,7 @@ staticTemplate =
                                         ["skill"] = "Excellent",
                                         ["y"] = 642763.23240386,
                                         ["x"] = -275181.50977754,
-                                        ["name"] = "SECONDARY DESTROYED SENSA6 #002-12",
+                                        ["name"] = "SENSA6 #002-12",
                                         ["heading"] = 4.7298422729046,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [12]
@@ -684,7 +685,7 @@ staticTemplate =
                                         ["skill"] = "Excellent",
                                         ["y"] = 642678.36512219,
                                         ["x"] = -274539.34734623,
-                                        ["name"] = "SECONDARY DESTROYED SENSA6 #002-13",
+                                        ["name"] = "SENSA6 #002-13",
                                         ["heading"] = 4.7298422729046,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [13]
@@ -755,11 +756,5 @@ staticTemplate =
         }, -- end of ["DEFAULT"]
     }, -- end of ["localization"]
     ["theatre"] = "Caucasus",
-    ["desc"] = "Un informatore ci ha segnalato una postazione SA-6 a difesa della base aerea di Senaki-Kolkhi. La postazione è presidiata da SA-15 Tor.\
-\
-Obiettivo primario: Distruggere il radar di tracciamento STRAIGHT FLUSH.\
-\
-Obiettivo secondario: Distruggere tutti i lanciatori ed i SA-15.\
-\
-Piloti raccomandati: 3",
+    ["desc"] = "",
 } -- end of staticTemplate

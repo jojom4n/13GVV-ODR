@@ -1,0 +1,18 @@
+objtype = "frontline"
+intel = 3
+cost = 2
+ondemand = true
+coalition = 1
+priority = 1
+location = { x = -284950, y = 15, z = 630055 }
+smoke = {
+    { x = -285056, y = 15, z = 629743, color = "Blue" },
+}
+desc = [[Qualche minuto fa, i nostri servizi di intelligence hanno appreso che il nemico è in procinto di sferrare un attacco via terra alla cittadina di Sagvamichavo, ad ovest della base aerea di Senaki-Kolkhi.
+La cittadina è presidiata da un nostro piccolo contingente di fanteria, ma, dagli elementi in nostro possesso, deduciamo che non riuscirà a respingere l'attacco, visto che le truppe nemiche saranno certamente supportate da mezzi corazzati.
+Avete circa 20 minuti per armare, decollare e raggiungere Sagvamichavo al fine di fornire supporto CAS alle nostre truppe oppure, se ci riuscite, di intercettare il convoglio nemico prima ancora che arrivi alla cittadina.
+Prestate massima attenzione a non colpire le unità alleate nei pressi del fumogeno blu.
+
+Obiettivo primario: Respingere l'offensiva nemica contro Sagvamichavo.
+
+Piloti raccomandati: 2]]

@@ -425,6 +425,7 @@ staticTemplate =
                                 {
                                 }, -- end of ["tasks"]
                                 ["uncontrollable"] = false,
+								["hiddenOnMFD"] = true,
                                 ["task"] = "Ground Nothing",
                                 ["taskSelected"] = true,
                                 ["route"] = 
@@ -1095,7 +1096,7 @@ staticTemplate =
             }, -- end of ["country"]
         }, -- end of ["red"]
     }, -- end of ["coalition"]
-    ["name"] = "MOSCOW-1",
+    ["name"] = "MOSCOW_SSB",
     ["requiredModules"] = 
     {
     }, -- end of ["requiredModules"]
@@ -1111,11 +1112,5 @@ staticTemplate =
         }, -- end of ["DEFAULT"]
     }, -- end of ["localization"]
     ["theatre"] = "Caucasus",
-    ["desc"] = "Al fine di potere utilizzare il supporto di elicotteri nelle future operazioni dirette contro la base aerea di Sukhumi-Babushara, è necessario impossessarci della FARP Moscow, che dista non molto da detta base aerea. \
-\
-Obiettivo primario: Distruggere la fanteria e tutti i mezzi nemici attualmente presenti su FARP Moscow.\
-\
-Obiettivo secondario: N/A.\
-\
-Piloti raccomandati: 3",
+    ["desc"] = "",
 } -- end of staticTemplate

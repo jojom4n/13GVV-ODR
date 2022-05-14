@@ -1,6 +1,6 @@
 objtype = "facility"
 intel = 5
-cost = 4
+cost = 1
 name = "SENHouse-1"
 coalition = 1
 tpldata = {}
@@ -11,10 +11,8 @@ buildings = {
 		["id"]   = 88966608,
 	},
 }
-desc = "Abbiamo motivo di ritenere che un noto generale nemico alloggi in un piccolo edificio situato nel quadrante nord-ovest della cittadina di Senaki. Riteniamo di primaria importanza strategia la distruzione dello stabile, al fine di colpire la catena di comando nemica. Raccomandiamo massima precisione e una distruzione chirurgica dell'obiettivo, siccome circondato da unità residenziali civili.\
-\
-Obiettivo primario: Distruggere l'alloggio del generale nemico.\
-\
-Obiettivo secondario: N/A.\
-\
-Piloti raccomandati: 2"
+desc = [[Abbiamo motivo di ritenere che un noto generale nemico alloggi in un piccolo edificio situato nel quadrante nord-ovest della cittadina di Senaki. Riteniamo di primaria importanza strategia la distruzione dello stabile, al fine di colpire la catena di comando nemica. Raccomandiamo massima precisione e una distruzione chirurgica dell'obiettivo, siccome circondato da unità residenziali civili.
+
+Obiettivo primario: Distruggere l'alloggio del generale nemico.
+
+Piloti raccomandati: 2]]

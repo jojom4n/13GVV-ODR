@@ -1,0 +1,17 @@
+objtype = "specialforces"
+intel = 5
+cost = 2
+ondemand = true
+coalition = 1
+extramarks = {
+    { label = "%TARGET%: Punto di estrazione", x = -286549, z = 647829 },
+}
+desc = [[Nel corso di un'operazione di intelligence, il nemico è riuscito a catturare un nostro agente. Dopo alcune ricerche, siamo riusciti ad apprendere da una fonte confidenziale la posizione dell'edificio in cui l'agente è attualmente detenuto. Abbiamo scattato alcune immagini satellitari del posto, individuando la presenza in situ, oltre che di alcuni soldati, anche di mezzi antifanteria e di RPG.
+Un'unità Seals sta per decollare da Kobuleti per una missione di recupero. Tuttavia, è necessario che il punto di estrazione sia liberato quantomeno dai mezzi antifanteria e dagli RPG presenti.
+Avete circa 30 minuti per armare, decollare, raggiungere la zona ed ingaggiare l'obiettivo primario.
+
+Obiettivo primario: Eliminare i mezzi antifanteria e gli RPG.
+
+Obiettivo secondario: Eliminare le truppe nemiche.
+
+Piloti raccomandati: 2]]

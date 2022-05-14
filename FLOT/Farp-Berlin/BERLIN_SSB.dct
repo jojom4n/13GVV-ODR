@@ -1,0 +1,11 @@
+objtype = "logistics"
+intel = 3
+cost = 3
+priority = 999
+nocull = true
+spawnalways = true
+desc = [[Al fine di potere utilizzare il supporto di elicotteri nelle future operazioni dirette sulla FLOT, è necessario impossessarci della FARP Berlin, poco più a nord della base aerea di Senaki-Kolkhi.
+
+Obiettivo primario: Distruggere la fanteria e tutti i mezzi nemici attualmente presenti su FARP Berlin.
+
+Piloti raccomandati: 3]]

@@ -1,0 +1,2084 @@
+staticTemplate = 
+{
+    ["coalition"] = 
+    {
+        ["neutrals"] = 
+        {
+            ["name"] = "neutrals",
+            ["country"] = 
+            {
+                [1] = 
+                {
+                    ["id"] = 70,
+                    ["name"] = "Algeria",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["id"] = 83,
+                    ["name"] = "Argentina",
+                }, -- end of [2]
+                [3] = 
+                {
+                    ["id"] = 21,
+                    ["name"] = "Australia",
+                }, -- end of [3]
+                [4] = 
+                {
+                    ["id"] = 23,
+                    ["name"] = "Austria",
+                }, -- end of [4]
+                [5] = 
+                {
+                    ["id"] = 65,
+                    ["name"] = "Bahrain",
+                }, -- end of [5]
+                [6] = 
+                {
+                    ["id"] = 24,
+                    ["name"] = "Belarus",
+                }, -- end of [6]
+                [7] = 
+                {
+                    ["id"] = 11,
+                    ["name"] = "Belgium",
+                }, -- end of [7]
+                [8] = 
+                {
+                    ["id"] = 86,
+                    ["name"] = "Bolivia",
+                }, -- end of [8]
+                [9] = 
+                {
+                    ["id"] = 64,
+                    ["name"] = "Brazil",
+                }, -- end of [9]
+                [10] = 
+                {
+                    ["id"] = 25,
+                    ["name"] = "Bulgaria",
+                }, -- end of [10]
+                [11] = 
+                {
+                    ["id"] = 8,
+                    ["name"] = "Canada",
+                }, -- end of [11]
+                [12] = 
+                {
+                    ["id"] = 63,
+                    ["name"] = "Chile",
+                }, -- end of [12]
+                [13] = 
+                {
+                    ["id"] = 27,
+                    ["name"] = "China",
+                }, -- end of [13]
+                [14] = 
+                {
+                    ["id"] = 80,
+                    ["name"] = "CJTF Blue",
+                }, -- end of [14]
+                [15] = 
+                {
+                    ["id"] = 81,
+                    ["name"] = "CJTF Red",
+                }, -- end of [15]
+                [16] = 
+                {
+                    ["id"] = 28,
+                    ["name"] = "Croatia",
+                }, -- end of [16]
+                [17] = 
+                {
+                    ["id"] = 76,
+                    ["name"] = "Cuba",
+                }, -- end of [17]
+                [18] = 
+                {
+                    ["id"] = 84,
+                    ["name"] = "Cyprus",
+                }, -- end of [18]
+                [19] = 
+                {
+                    ["id"] = 26,
+                    ["name"] = "Czech Republic",
+                }, -- end of [19]
+                [20] = 
+                {
+                    ["id"] = 13,
+                    ["name"] = "Denmark",
+                }, -- end of [20]
+                [21] = 
+                {
+                    ["id"] = 29,
+                    ["name"] = "Egypt",
+                }, -- end of [21]
+                [22] = 
+                {
+                    ["id"] = 62,
+                    ["name"] = "Ethiopia",
+                }, -- end of [22]
+                [23] = 
+                {
+                    ["id"] = 30,
+                    ["name"] = "Finland",
+                }, -- end of [23]
+                [24] = 
+                {
+                    ["id"] = 78,
+                    ["name"] = "GDR",
+                }, -- end of [24]
+                [25] = 
+                {
+                    ["id"] = 87,
+                    ["name"] = "Ghana",
+                }, -- end of [25]
+                [26] = 
+                {
+                    ["id"] = 31,
+                    ["name"] = "Greece",
+                }, -- end of [26]
+                [27] = 
+                {
+                    ["id"] = 61,
+                    ["name"] = "Honduras",
+                }, -- end of [27]
+                [28] = 
+                {
+                    ["id"] = 32,
+                    ["name"] = "Hungary",
+                }, -- end of [28]
+                [29] = 
+                {
+                    ["id"] = 33,
+                    ["name"] = "India",
+                }, -- end of [29]
+                [30] = 
+                {
+                    ["id"] = 60,
+                    ["name"] = "Indonesia",
+                }, -- end of [30]
+                [31] = 
+                {
+                    ["id"] = 17,
+                    ["name"] = "Insurgents",
+                }, -- end of [31]
+                [32] = 
+                {
+                    ["id"] = 34,
+                    ["name"] = "Iran",
+                }, -- end of [32]
+                [33] = 
+                {
+                    ["id"] = 35,
+                    ["name"] = "Iraq",
+                }, -- end of [33]
+                [34] = 
+                {
+                    ["id"] = 15,
+                    ["name"] = "Israel",
+                }, -- end of [34]
+                [35] = 
+                {
+                    ["id"] = 69,
+                    ["name"] = "Italian Social Republic",
+                }, -- end of [35]
+                [36] = 
+                {
+                    ["id"] = 36,
+                    ["name"] = "Japan",
+                }, -- end of [36]
+                [37] = 
+                {
+                    ["id"] = 59,
+                    ["name"] = "Jordan",
+                }, -- end of [37]
+                [38] = 
+                {
+                    ["id"] = 37,
+                    ["name"] = "Kazakhstan",
+                }, -- end of [38]
+                [39] = 
+                {
+                    ["id"] = 71,
+                    ["name"] = "Kuwait",
+                }, -- end of [39]
+                [40] = 
+                {
+                    ["id"] = 79,
+                    ["name"] = "Lebanon",
+                }, -- end of [40]
+                [41] = 
+                {
+                    ["id"] = 58,
+                    ["name"] = "Libya",
+                }, -- end of [41]
+                [42] = 
+                {
+                    ["id"] = 57,
+                    ["name"] = "Malaysia",
+                }, -- end of [42]
+                [43] = 
+                {
+                    ["id"] = 56,
+                    ["name"] = "Mexico",
+                }, -- end of [43]
+                [44] = 
+                {
+                    ["id"] = 55,
+                    ["name"] = "Morocco",
+                }, -- end of [44]
+                [45] = 
+                {
+                    ["id"] = 88,
+                    ["name"] = "Nigeria",
+                }, -- end of [45]
+                [46] = 
+                {
+                    ["id"] = 38,
+                    ["name"] = "North Korea",
+                }, -- end of [46]
+                [47] = 
+                {
+                    ["id"] = 12,
+                    ["name"] = "Norway",
+                }, -- end of [47]
+                [48] = 
+                {
+                    ["id"] = 73,
+                    ["name"] = "Oman",
+                }, -- end of [48]
+                [49] = 
+                {
+                    ["id"] = 39,
+                    ["name"] = "Pakistan",
+                }, -- end of [49]
+                [50] = 
+                {
+                    ["id"] = 89,
+                    ["name"] = "Peru",
+                }, -- end of [50]
+                [51] = 
+                {
+                    ["id"] = 54,
+                    ["name"] = "Philippines",
+                }, -- end of [51]
+                [52] = 
+                {
+                    ["id"] = 40,
+                    ["name"] = "Poland",
+                }, -- end of [52]
+                [53] = 
+                {
+                    ["id"] = 77,
+                    ["name"] = "Portugal",
+                }, -- end of [53]
+                [54] = 
+                {
+                    ["id"] = 72,
+                    ["name"] = "Qatar",
+                }, -- end of [54]
+                [55] = 
+                {
+                    ["id"] = 41,
+                    ["name"] = "Romania",
+                }, -- end of [55]
+                [56] = 
+                {
+                    ["id"] = 42,
+                    ["name"] = "Saudi Arabia",
+                }, -- end of [56]
+                [57] = 
+                {
+                    ["id"] = 43,
+                    ["name"] = "Serbia",
+                }, -- end of [57]
+                [58] = 
+                {
+                    ["id"] = 44,
+                    ["name"] = "Slovakia",
+                }, -- end of [58]
+                [59] = 
+                {
+                    ["id"] = 85,
+                    ["name"] = "Slovenia",
+                }, -- end of [59]
+                [60] = 
+                {
+                    ["id"] = 75,
+                    ["name"] = "South Africa",
+                }, -- end of [60]
+                [61] = 
+                {
+                    ["id"] = 45,
+                    ["name"] = "South Korea",
+                }, -- end of [61]
+                [62] = 
+                {
+                    ["id"] = 9,
+                    ["name"] = "Spain",
+                }, -- end of [62]
+                [63] = 
+                {
+                    ["id"] = 53,
+                    ["name"] = "Sudan",
+                }, -- end of [63]
+                [64] = 
+                {
+                    ["id"] = 46,
+                    ["name"] = "Sweden",
+                }, -- end of [64]
+                [65] = 
+                {
+                    ["id"] = 22,
+                    ["name"] = "Switzerland",
+                }, -- end of [65]
+                [66] = 
+                {
+                    ["id"] = 47,
+                    ["name"] = "Syria",
+                }, -- end of [66]
+                [67] = 
+                {
+                    ["id"] = 52,
+                    ["name"] = "Thailand",
+                }, -- end of [67]
+                [68] = 
+                {
+                    ["id"] = 10,
+                    ["name"] = "The Netherlands",
+                }, -- end of [68]
+                [69] = 
+                {
+                    ["id"] = 66,
+                    ["name"] = "Third Reich",
+                }, -- end of [69]
+                [70] = 
+                {
+                    ["id"] = 51,
+                    ["name"] = "Tunisia",
+                }, -- end of [70]
+                [71] = 
+                {
+                    ["id"] = 3,
+                    ["name"] = "Turkey",
+                }, -- end of [71]
+                [72] = 
+                {
+                    ["id"] = 1,
+                    ["name"] = "Ukraine",
+                }, -- end of [72]
+                [73] = 
+                {
+                    ["id"] = 74,
+                    ["name"] = "United Arab Emirates",
+                }, -- end of [73]
+                [74] = 
+                {
+                    ["id"] = 82,
+                    ["name"] = "UN",
+                }, -- end of [74]
+                [75] = 
+                {
+                    ["id"] = 7,
+                    ["name"] = "USAF Aggressors",
+                }, -- end of [75]
+                [76] = 
+                {
+                    ["id"] = 68,
+                    ["name"] = "USSR",
+                }, -- end of [76]
+                [77] = 
+                {
+                    ["id"] = 50,
+                    ["name"] = "Venezuela",
+                }, -- end of [77]
+                [78] = 
+                {
+                    ["id"] = 49,
+                    ["name"] = "Vietnam",
+                }, -- end of [78]
+                [79] = 
+                {
+                    ["id"] = 48,
+                    ["name"] = "Yemen",
+                }, -- end of [79]
+                [80] = 
+                {
+                    ["id"] = 67,
+                    ["name"] = "Yugoslavia",
+                }, -- end of [80]
+            }, -- end of ["country"]
+        }, -- end of ["neutrals"]
+        ["blue"] = 
+        {
+            ["name"] = "blue",
+            ["country"] = 
+            {
+                [1] = 
+                {
+                    ["id"] = 2,
+                    ["vehicle"] = 
+                    {
+                        ["group"] = 
+                        {
+                            [1] = 
+                            {
+                                ["visible"] = false,
+                                ["tasks"] = 
+                                {
+                                }, -- end of ["tasks"]
+                                ["uncontrollable"] = false,
+                                ["task"] = "Ground Nothing",
+                                ["taskSelected"] = true,
+                                ["route"] = 
+                                {
+                                    ["spans"] = 
+                                    {
+                                    }, -- end of ["spans"]
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 6,
+                                            ["type"] = "Turning Point",
+                                            ["ETA"] = 0,
+                                            ["alt_type"] = "BARO",
+                                            ["formation_template"] = "",
+                                            ["y"] = 629723.68833519,
+                                            ["x"] = -284966.47011438,
+                                            ["ETA_locked"] = true,
+                                            ["speed"] = 0,
+                                            ["action"] = "Off Road",
+                                            ["task"] = 
+                                            {
+                                                ["id"] = "ComboTask",
+                                                ["params"] = 
+                                                {
+                                                    ["tasks"] = 
+                                                    {
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["speed_locked"] = true,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 1,
+                                ["hidden"] = false,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["type"] = "Soldier M4",
+                                        ["unitId"] = 1,
+                                        ["skill"] = "Excellent",
+                                        ["y"] = 629723.68833519,
+                                        ["x"] = -284966.47011438,
+                                        ["name"] = "SENCas-1 #001-1",
+                                        ["heading"] = 0,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [1]
+                                    [2] = 
+                                    {
+                                        ["type"] = "Soldier M4",
+                                        ["unitId"] = 2,
+                                        ["skill"] = "Excellent",
+                                        ["y"] = 629724.82541439,
+                                        ["x"] = -284972.15551037,
+                                        ["name"] = "SENCas-1 #001-2",
+                                        ["heading"] = 0,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [2]
+                                    [3] = 
+                                    {
+                                        ["type"] = "Soldier M4",
+                                        ["unitId"] = 3,
+                                        ["skill"] = "Excellent",
+                                        ["y"] = 629736.15236997,
+                                        ["x"] = -285005.13048234,
+                                        ["name"] = "SENCas-1 #001-3",
+                                        ["heading"] = 0,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [3]
+                                    [4] = 
+                                    {
+                                        ["type"] = "Soldier M249",
+                                        ["unitId"] = 4,
+                                        ["skill"] = "Excellent",
+                                        ["y"] = 629730.51081038,
+                                        ["x"] = -284967.74932848,
+                                        ["name"] = "SENCas-1 #001-4",
+                                        ["heading"] = 0,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [4]
+                                    [5] = 
+                                    {
+                                        ["type"] = "Soldier M249",
+                                        ["unitId"] = 5,
+                                        ["skill"] = "Excellent",
+                                        ["y"] = 629740.98495656,
+                                        ["x"] = -284995.46530916,
+                                        ["name"] = "SENCas-1 #001-5",
+                                        ["heading"] = 0,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [5]
+                                    [6] = 
+                                    {
+                                        ["type"] = "Soldier M4",
+                                        ["unitId"] = 6,
+                                        ["skill"] = "Excellent",
+                                        ["y"] = 629737.43158406,
+                                        ["x"] = -284992.19620646,
+                                        ["name"] = "SENCas-1 #001-6",
+                                        ["heading"] = 0,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [6]
+                                    [7] = 
+                                    {
+                                        ["type"] = "Soldier M4",
+                                        ["unitId"] = 7,
+                                        ["skill"] = "Excellent",
+                                        ["y"] = 629738.14225856,
+                                        ["x"] = -284998.87654675,
+                                        ["name"] = "SENCas-1 #001-7",
+                                        ["heading"] = 0,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [7]
+                                    [8] = 
+                                    {
+                                        ["type"] = "Soldier M4",
+                                        ["unitId"] = 8,
+                                        ["skill"] = "Excellent",
+                                        ["y"] = 629731.46191827,
+                                        ["x"] = -284999.87149105,
+                                        ["name"] = "SENCas-1 #001-8",
+                                        ["heading"] = 0,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [8]
+                                }, -- end of ["units"]
+                                ["y"] = 629723.68833519,
+                                ["x"] = -284966.47011438,
+                                ["name"] = "SENCas-1 #001",
+                                ["start_time"] = 0,
+                            }, -- end of [1]
+                            [2] = 
+                            {
+                                ["visible"] = false,
+                                ["tasks"] = 
+                                {
+                                }, -- end of ["tasks"]
+                                ["uncontrollable"] = false,
+                                ["task"] = "Ground Nothing",
+                                ["taskSelected"] = true,
+                                ["route"] = 
+                                {
+                                    ["spans"] = 
+                                    {
+                                    }, -- end of ["spans"]
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 5,
+                                            ["type"] = "Turning Point",
+                                            ["ETA"] = 0,
+                                            ["alt_type"] = "BARO",
+                                            ["formation_template"] = "",
+                                            ["y"] = 629739.63109476,
+                                            ["x"] = -285136.33856903,
+                                            ["ETA_locked"] = true,
+                                            ["speed"] = 0,
+                                            ["action"] = "Off Road",
+                                            ["task"] = 
+                                            {
+                                                ["id"] = "ComboTask",
+                                                ["params"] = 
+                                                {
+                                                    ["tasks"] = 
+                                                    {
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["speed_locked"] = true,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 4,
+                                ["hidden"] = false,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["type"] = "Soldier M4",
+                                        ["unitId"] = 35,
+                                        ["skill"] = "Excellent",
+                                        ["y"] = 629739.63109476,
+                                        ["x"] = -285136.33856903,
+                                        ["name"] = "SENCas-1 #004-1",
+                                        ["heading"] = 0,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [1]
+                                    [2] = 
+                                    {
+                                        ["type"] = "Soldier M4",
+                                        ["unitId"] = 36,
+                                        ["skill"] = "Excellent",
+                                        ["y"] = 629741.2391213,
+                                        ["x"] = -285141.64071058,
+                                        ["name"] = "SENCas-1 #004-2",
+                                        ["heading"] = 0,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [2]
+                                    [3] = 
+                                    {
+                                        ["type"] = "Soldier M4",
+                                        ["unitId"] = 37,
+                                        ["skill"] = "Excellent",
+                                        ["y"] = 629732.06902402,
+                                        ["x"] = -285139.5546221,
+                                        ["name"] = "SENCas-1 #004-3",
+                                        ["heading"] = 0,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [3]
+                                    [4] = 
+                                    {
+                                        ["type"] = "Soldier M249",
+                                        ["unitId"] = 38,
+                                        ["skill"] = "Excellent",
+                                        ["y"] = 629725.419617,
+                                        ["x"] = -285145.20444506,
+                                        ["name"] = "SENCas-1 #004-4",
+                                        ["heading"] = 0,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [4]
+                                    [5] = 
+                                    {
+                                        ["type"] = "Soldier M249",
+                                        ["unitId"] = 39,
+                                        ["skill"] = "Excellent",
+                                        ["y"] = 629728.89643113,
+                                        ["x"] = -285143.16181676,
+                                        ["name"] = "SENCas-1 #004-5",
+                                        ["heading"] = 0,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [5]
+                                    [6] = 
+                                    {
+                                        ["type"] = "Soldier M4",
+                                        ["unitId"] = 40,
+                                        ["skill"] = "Excellent",
+                                        ["y"] = 629735.41545763,
+                                        ["x"] = -285139.59808228,
+                                        ["name"] = "SENCas-1 #004-6",
+                                        ["heading"] = 0,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [6]
+                                    [7] = 
+                                    {
+                                        ["type"] = "Soldier M4",
+                                        ["unitId"] = 41,
+                                        ["skill"] = "Excellent",
+                                        ["y"] = 629737.54500628,
+                                        ["x"] = -285144.33524153,
+                                        ["name"] = "SENCas-1 #004-7",
+                                        ["heading"] = 0,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [7]
+                                    [8] = 
+                                    {
+                                        ["type"] = "Soldier M4",
+                                        ["unitId"] = 42,
+                                        ["skill"] = "Excellent",
+                                        ["y"] = 629723.76813028,
+                                        ["x"] = -285141.90147164,
+                                        ["name"] = "SENCas-1 #004-8",
+                                        ["heading"] = 0,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [8]
+                                }, -- end of ["units"]
+                                ["y"] = 629739.63109476,
+                                ["x"] = -285136.33856903,
+                                ["name"] = "SENCas-1 #004",
+                                ["start_time"] = 0,
+                            }, -- end of [2]
+                        }, -- end of ["group"]
+                    }, -- end of ["vehicle"]
+                    ["name"] = "USA",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["id"] = 5,
+                    ["name"] = "France",
+                }, -- end of [2]
+                [3] = 
+                {
+                    ["id"] = 16,
+                    ["name"] = "Georgia",
+                }, -- end of [3]
+                [4] = 
+                {
+                    ["id"] = 6,
+                    ["name"] = "Germany",
+                }, -- end of [4]
+                [5] = 
+                {
+                    ["id"] = 20,
+                    ["name"] = "Italy",
+                }, -- end of [5]
+                [6] = 
+                {
+                    ["id"] = 4,
+                    ["name"] = "UK",
+                }, -- end of [6]
+            }, -- end of ["country"]
+        }, -- end of ["blue"]
+        ["red"] = 
+        {
+            ["name"] = "red",
+            ["country"] = 
+            {
+                [1] = 
+                {
+                    ["id"] = 18,
+                    ["vehicle"] = 
+                    {
+                        ["group"] = 
+                        {
+                            [1] = 
+                            {
+                                ["visible"] = false,
+                                ["tasks"] = 
+                                {
+                                }, -- end of ["tasks"]
+                                ["uncontrollable"] = false,
+                                ["task"] = "Ground Nothing",
+                                ["taskSelected"] = true,
+                                ["route"] = 
+                                {
+                                    ["spans"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            [1] = 
+                                            {
+                                                ["y"] = 646046.51495438,
+                                                ["x"] = -281495.48463504,
+                                            }, -- end of [1]
+                                            [2] = 
+                                            {
+                                                ["y"] = 630564.05812162,
+                                                ["x"] = -284339.10466941,
+                                            }, -- end of [2]
+                                        }, -- end of [1]
+                                        [2] = 
+                                        {
+                                            [1] = 
+                                            {
+                                                ["y"] = 630564.05812162,
+                                                ["x"] = -284339.10466941,
+                                            }, -- end of [1]
+                                            [2] = 
+                                            {
+                                                ["y"] = 629916.03651289,
+                                                ["x"] = -284557.07962815,
+                                            }, -- end of [2]
+                                        }, -- end of [2]
+                                        [3] = 
+                                        {
+                                            [1] = 
+                                            {
+                                                ["y"] = 629916.03651289,
+                                                ["x"] = -284557.07962815,
+                                            }, -- end of [1]
+                                            [2] = 
+                                            {
+                                                ["y"] = 629744.07228165,
+                                                ["x"] = -284906.38197287,
+                                            }, -- end of [2]
+                                        }, -- end of [3]
+                                        [4] = 
+                                        {
+                                            [1] = 
+                                            {
+                                                ["y"] = 629744.07228165,
+                                                ["x"] = -284906.38197287,
+                                            }, -- end of [1]
+                                            [2] = 
+                                            {
+                                                ["y"] = 629744.07228165,
+                                                ["x"] = -284906.38197287,
+                                            }, -- end of [2]
+                                        }, -- end of [4]
+                                    }, -- end of ["spans"]
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 13,
+                                            ["type"] = "Turning Point",
+                                            ["ETA"] = 0,
+                                            ["alt_type"] = "BARO",
+                                            ["formation_template"] = "",
+                                            ["y"] = 646046.51495438,
+                                            ["x"] = -281495.48463504,
+                                            ["ETA_locked"] = true,
+                                            ["speed"] = 0,
+                                            ["action"] = "Off Road",
+                                            ["task"] = 
+                                            {
+                                                ["id"] = "ComboTask",
+                                                ["params"] = 
+                                                {
+                                                    ["tasks"] = 
+                                                    {
+                                                        [1] = 
+                                                        {
+                                                            ["number"] = 1,
+                                                            ["auto"] = false,
+                                                            ["id"] = "EmbarkToTransport",
+                                                            ["enabled"] = true,
+                                                            ["params"] = 
+                                                            {
+                                                                ["y"] = 646018.38817308,
+                                                                ["x"] = -281475.96107044,
+                                                                ["selectedType"] = "BMP-1",
+                                                                ["zoneRadius"] = 200,
+                                                            }, -- end of ["params"]
+                                                        }, -- end of [1]
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["speed_locked"] = true,
+                                        }, -- end of [1]
+                                        [2] = 
+                                        {
+                                            ["alt"] = 13,
+                                            ["type"] = "Turning Point",
+                                            ["ETA"] = 3935.357706725,
+                                            ["alt_type"] = "BARO",
+                                            ["formation_template"] = "",
+                                            ["y"] = 630564.05812162,
+                                            ["x"] = -284339.10466941,
+                                            ["ETA_locked"] = false,
+                                            ["speed"] = 4,
+                                            ["action"] = "Off Road",
+                                            ["task"] = 
+                                            {
+                                                ["id"] = "ComboTask",
+                                                ["params"] = 
+                                                {
+                                                    ["tasks"] = 
+                                                    {
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["speed_locked"] = true,
+                                        }, -- end of [2]
+                                        [3] = 
+                                        {
+                                            ["alt"] = 7,
+                                            ["type"] = "Turning Point",
+                                            ["ETA"] = 4106.2825966653,
+                                            ["alt_type"] = "BARO",
+                                            ["formation_template"] = "",
+                                            ["y"] = 629916.03651289,
+                                            ["x"] = -284557.07962815,
+                                            ["ETA_locked"] = false,
+                                            ["speed"] = 4,
+                                            ["action"] = "Vee",
+                                            ["task"] = 
+                                            {
+                                                ["id"] = "ComboTask",
+                                                ["params"] = 
+                                                {
+                                                    ["tasks"] = 
+                                                    {
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["speed_locked"] = true,
+                                        }, -- end of [3]
+                                        [4] = 
+                                        {
+                                            ["alt"] = 6,
+                                            ["type"] = "Turning Point",
+                                            ["ETA"] = 4203.6170153131,
+                                            ["alt_type"] = "BARO",
+                                            ["formation_template"] = "",
+                                            ["y"] = 629744.07228165,
+                                            ["x"] = -284906.38197287,
+                                            ["ETA_locked"] = false,
+                                            ["speed"] = 4,
+                                            ["action"] = "Vee",
+                                            ["task"] = 
+                                            {
+                                                ["id"] = "ComboTask",
+                                                ["params"] = 
+                                                {
+                                                    ["tasks"] = 
+                                                    {
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["speed_locked"] = true,
+                                        }, -- end of [4]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 2,
+                                ["hidden"] = false,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["type"] = "Infantry AK Ins",
+                                        ["unitId"] = 11,
+                                        ["skill"] = "Excellent",
+                                        ["y"] = 646046.51495438,
+                                        ["x"] = -281495.48463504,
+                                        ["name"] = "PRIMARY DESTROYED SENCas-1 #002-1",
+                                        ["heading"] = -1.7524391256652,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [1]
+                                    [2] = 
+                                    {
+                                        ["type"] = "Infantry AK Ins",
+                                        ["unitId"] = 22,
+                                        ["skill"] = "Excellent",
+                                        ["y"] = 646028.95987495,
+                                        ["x"] = -281497.37615929,
+                                        ["name"] = "PRIMARY DESTROYED SENCas-1 #002-2",
+                                        ["heading"] = -1.7524391256652,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [2]
+                                    [3] = 
+                                    {
+                                        ["type"] = "Infantry AK Ins",
+                                        ["unitId"] = 23,
+                                        ["skill"] = "Excellent",
+                                        ["y"] = 646050.08736262,
+                                        ["x"] = -281476.24867162,
+                                        ["name"] = "PRIMARY DESTROYED SENCas-1 #002-3",
+                                        ["heading"] = -1.7524391256652,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [3]
+                                    [4] = 
+                                    {
+                                        ["type"] = "Infantry AK Ins",
+                                        ["unitId"] = 24,
+                                        ["skill"] = "Excellent",
+                                        ["y"] = 646028.95987495,
+                                        ["x"] = -281477.12898361,
+                                        ["name"] = "PRIMARY DESTROYED SENCas-1 #002-4",
+                                        ["heading"] = -1.7524391256652,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [4]
+                                    [5] = 
+                                    {
+                                        ["type"] = "Infantry AK Ins",
+                                        ["unitId"] = 25,
+                                        ["skill"] = "Excellent",
+                                        ["y"] = 646013.99457119,
+                                        ["x"] = -281491.21397539,
+                                        ["name"] = "PRIMARY DESTROYED SENCas-1 #002-5",
+                                        ["heading"] = -1.7524391256652,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [5]
+                                    [6] = 
+                                    {
+                                        ["type"] = "Infantry AK Ins",
+                                        ["unitId"] = 26,
+                                        ["skill"] = "Excellent",
+                                        ["y"] = 646067.69360235,
+                                        ["x"] = -281490.3336634,
+                                        ["name"] = "PRIMARY DESTROYED SENCas-1 #002-6",
+                                        ["heading"] = -1.7524391256652,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [6]
+                                    [7] = 
+                                    {
+                                        ["type"] = "Infantry AK Ins",
+                                        ["unitId"] = 63,
+                                        ["skill"] = "Excellent",
+                                        ["y"] = 646020.21802127,
+                                        ["x"] = -281481.09875177,
+                                        ["name"] = "PRIMARY DESTROYED SENCas-1 #002-7",
+                                        ["heading"] = -1.7524391256652,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [7]
+                                }, -- end of ["units"]
+                                ["y"] = 646046.51495438,
+                                ["x"] = -281495.48463504,
+                                ["name"] = "SENCas-1 #002",
+                                ["start_time"] = 0,
+                            }, -- end of [1]
+                            [2] = 
+                            {
+                                ["visible"] = false,
+                                ["tasks"] = 
+                                {
+                                }, -- end of ["tasks"]
+                                ["uncontrollable"] = false,
+                                ["task"] = "Ground Nothing",
+                                ["taskSelected"] = true,
+                                ["route"] = 
+                                {
+                                    ["spans"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            [1] = 
+                                            {
+                                                ["y"] = 646039.4838426,
+                                                ["x"] = -281511.13090548,
+                                            }, -- end of [1]
+                                            [2] = 
+                                            {
+                                                ["y"] = 630507.85133753,
+                                                ["x"] = -284359.02744736,
+                                            }, -- end of [2]
+                                        }, -- end of [1]
+                                        [2] = 
+                                        {
+                                            [1] = 
+                                            {
+                                                ["y"] = 630507.85133753,
+                                                ["x"] = -284359.02744736,
+                                            }, -- end of [1]
+                                            [2] = 
+                                            {
+                                                ["y"] = 630325.68741686,
+                                                ["x"] = -284625.82690734,
+                                            }, -- end of [2]
+                                        }, -- end of [2]
+                                        [3] = 
+                                        {
+                                            [1] = 
+                                            {
+                                                ["y"] = 630325.68741686,
+                                                ["x"] = -284625.82690734,
+                                            }, -- end of [1]
+                                            [2] = 
+                                            {
+                                                ["y"] = 630237.84186762,
+                                                ["x"] = -284713.67245659,
+                                            }, -- end of [2]
+                                        }, -- end of [3]
+                                        [4] = 
+                                        {
+                                            [1] = 
+                                            {
+                                                ["y"] = 630237.84186762,
+                                                ["x"] = -284713.67245659,
+                                            }, -- end of [1]
+                                            [2] = 
+                                            {
+                                                ["y"] = 630119.58824363,
+                                                ["x"] = -284751.96410626,
+                                            }, -- end of [2]
+                                        }, -- end of [4]
+                                        [5] = 
+                                        {
+                                            [1] = 
+                                            {
+                                                ["y"] = 630119.58824363,
+                                                ["x"] = -284751.96410626,
+                                            }, -- end of [1]
+                                            [2] = 
+                                            {
+                                                ["y"] = 630077.91791899,
+                                                ["x"] = -284936.66500467,
+                                            }, -- end of [2]
+                                        }, -- end of [5]
+                                        [6] = 
+                                        {
+                                            [1] = 
+                                            {
+                                                ["y"] = 630077.91791899,
+                                                ["x"] = -284936.66500467,
+                                            }, -- end of [1]
+                                            [2] = 
+                                            {
+                                                ["y"] = 630044.13116928,
+                                                ["x"] = -285045.90882874,
+                                            }, -- end of [2]
+                                        }, -- end of [6]
+                                        [7] = 
+                                        {
+                                            [1] = 
+                                            {
+                                                ["y"] = 630044.13116928,
+                                                ["x"] = -285045.90882874,
+                                            }, -- end of [1]
+                                            [2] = 
+                                            {
+                                                ["y"] = 630073.05040949,
+                                                ["x"] = -285117.89319171,
+                                            }, -- end of [2]
+                                        }, -- end of [7]
+                                        [8] = 
+                                        {
+                                            [1] = 
+                                            {
+                                                ["y"] = 630073.05040949,
+                                                ["x"] = -285117.89319171,
+                                            }, -- end of [1]
+                                            [2] = 
+                                            {
+                                                ["y"] = 629957.53563742,
+                                                ["x"] = -285196.29959141,
+                                            }, -- end of [2]
+                                        }, -- end of [8]
+                                        [9] = 
+                                        {
+                                            [1] = 
+                                            {
+                                                ["y"] = 629957.53563742,
+                                                ["x"] = -285196.29959141,
+                                            }, -- end of [1]
+                                            [2] = 
+                                            {
+                                                ["y"] = 629830.05042264,
+                                                ["x"] = -285128.66659014,
+                                            }, -- end of [2]
+                                        }, -- end of [9]
+                                        [10] = 
+                                        {
+                                            [1] = 
+                                            {
+                                                ["y"] = 629830.05042264,
+                                                ["x"] = -285128.66659014,
+                                            }, -- end of [1]
+                                            [2] = 
+                                            {
+                                                ["y"] = 629830.05042264,
+                                                ["x"] = -285128.66659014,
+                                            }, -- end of [2]
+                                        }, -- end of [10]
+                                    }, -- end of ["spans"]
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 13,
+                                            ["type"] = "Turning Point",
+                                            ["ETA"] = 0,
+                                            ["alt_type"] = "BARO",
+                                            ["formation_template"] = "",
+                                            ["y"] = 646039.4838426,
+                                            ["x"] = -281511.13090548,
+                                            ["ETA_locked"] = true,
+                                            ["speed"] = 0,
+                                            ["action"] = "Off Road",
+                                            ["task"] = 
+                                            {
+                                                ["id"] = "ComboTask",
+                                                ["params"] = 
+                                                {
+                                                    ["tasks"] = 
+                                                    {
+                                                        [1] = 
+                                                        {
+                                                            ["number"] = 1,
+                                                            ["auto"] = false,
+                                                            ["id"] = "EmbarkToTransport",
+                                                            ["enabled"] = true,
+                                                            ["params"] = 
+                                                            {
+                                                                ["y"] = 646015.86186768,
+                                                                ["x"] = -281485.12274378,
+                                                                ["selectedType"] = "BMP-1",
+                                                                ["zoneRadius"] = 200,
+                                                            }, -- end of ["params"]
+                                                        }, -- end of [1]
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["speed_locked"] = true,
+                                        }, -- end of [1]
+                                        [2] = 
+                                        {
+                                            ["alt"] = 41.821542163632,
+                                            ["type"] = "Turning Point",
+                                            ["ETA"] = 3947.6426746367,
+                                            ["alt_type"] = "BARO",
+                                            ["formation_template"] = "",
+                                            ["y"] = 630507.85133753,
+                                            ["x"] = -284359.02744736,
+                                            ["ETA_locked"] = false,
+                                            ["speed"] = 4,
+                                            ["action"] = "Off Road",
+                                            ["task"] = 
+                                            {
+                                                ["id"] = "ComboTask",
+                                                ["params"] = 
+                                                {
+                                                    ["tasks"] = 
+                                                    {
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["speed_locked"] = true,
+                                        }, -- end of [2]
+                                        [3] = 
+                                        {
+                                            ["alt"] = 8,
+                                            ["type"] = "Turning Point",
+                                            ["ETA"] = 4028.4068552178,
+                                            ["alt_type"] = "BARO",
+                                            ["formation_template"] = "",
+                                            ["y"] = 630325.68741686,
+                                            ["x"] = -284625.82690734,
+                                            ["ETA_locked"] = false,
+                                            ["speed"] = 4,
+                                            ["action"] = "Off Road",
+                                            ["task"] = 
+                                            {
+                                                ["id"] = "ComboTask",
+                                                ["params"] = 
+                                                {
+                                                    ["tasks"] = 
+                                                    {
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["speed_locked"] = true,
+                                        }, -- end of [3]
+                                        [4] = 
+                                        {
+                                            ["alt"] = 7,
+                                            ["type"] = "Turning Point",
+                                            ["ETA"] = 4059.4649470023,
+                                            ["alt_type"] = "BARO",
+                                            ["formation_template"] = "",
+                                            ["y"] = 630237.84186762,
+                                            ["x"] = -284713.67245659,
+                                            ["ETA_locked"] = false,
+                                            ["speed"] = 4,
+                                            ["action"] = "Off Road",
+                                            ["task"] = 
+                                            {
+                                                ["id"] = "ComboTask",
+                                                ["params"] = 
+                                                {
+                                                    ["tasks"] = 
+                                                    {
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["speed_locked"] = true,
+                                        }, -- end of [4]
+                                        [5] = 
+                                        {
+                                            ["alt"] = 7,
+                                            ["type"] = "Turning Point",
+                                            ["ETA"] = 4090.5396252189,
+                                            ["alt_type"] = "BARO",
+                                            ["formation_template"] = "",
+                                            ["y"] = 630119.58824363,
+                                            ["x"] = -284751.96410626,
+                                            ["ETA_locked"] = false,
+                                            ["speed"] = 4,
+                                            ["action"] = "Off Road",
+                                            ["task"] = 
+                                            {
+                                                ["id"] = "ComboTask",
+                                                ["params"] = 
+                                                {
+                                                    ["tasks"] = 
+                                                    {
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["speed_locked"] = true,
+                                        }, -- end of [5]
+                                        [6] = 
+                                        {
+                                            ["alt"] = 6,
+                                            ["type"] = "Turning Point",
+                                            ["ETA"] = 4137.8754189109,
+                                            ["alt_type"] = "BARO",
+                                            ["formation_template"] = "",
+                                            ["y"] = 630077.91791899,
+                                            ["x"] = -284936.66500467,
+                                            ["ETA_locked"] = false,
+                                            ["speed"] = 4,
+                                            ["action"] = "Off Road",
+                                            ["task"] = 
+                                            {
+                                                ["id"] = "ComboTask",
+                                                ["params"] = 
+                                                {
+                                                    ["tasks"] = 
+                                                    {
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["speed_locked"] = true,
+                                        }, -- end of [6]
+                                        [7] = 
+                                        {
+                                            ["alt"] = 5,
+                                            ["type"] = "Turning Point",
+                                            ["ETA"] = 4166.4627385999,
+                                            ["alt_type"] = "BARO",
+                                            ["formation_template"] = "",
+                                            ["y"] = 630044.13116928,
+                                            ["x"] = -285045.90882874,
+                                            ["ETA_locked"] = false,
+                                            ["speed"] = 4,
+                                            ["action"] = "Off Road",
+                                            ["task"] = 
+                                            {
+                                                ["id"] = "ComboTask",
+                                                ["params"] = 
+                                                {
+                                                    ["tasks"] = 
+                                                    {
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["speed_locked"] = true,
+                                        }, -- end of [7]
+                                        [8] = 
+                                        {
+                                            ["alt"] = 5,
+                                            ["type"] = "Turning Point",
+                                            ["ETA"] = 4185.8567953045,
+                                            ["alt_type"] = "BARO",
+                                            ["formation_template"] = "",
+                                            ["y"] = 630073.05040949,
+                                            ["x"] = -285117.89319171,
+                                            ["ETA_locked"] = false,
+                                            ["speed"] = 4,
+                                            ["action"] = "Off Road",
+                                            ["task"] = 
+                                            {
+                                                ["id"] = "ComboTask",
+                                                ["params"] = 
+                                                {
+                                                    ["tasks"] = 
+                                                    {
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["speed_locked"] = true,
+                                        }, -- end of [8]
+                                        [9] = 
+                                        {
+                                            ["alt"] = 5,
+                                            ["type"] = "Turning Point",
+                                            ["ETA"] = 4220.7595406122,
+                                            ["alt_type"] = "BARO",
+                                            ["formation_template"] = "",
+                                            ["y"] = 629957.53563742,
+                                            ["x"] = -285196.29959141,
+                                            ["ETA_locked"] = false,
+                                            ["speed"] = 4,
+                                            ["action"] = "Off Road",
+                                            ["task"] = 
+                                            {
+                                                ["id"] = "ComboTask",
+                                                ["params"] = 
+                                                {
+                                                    ["tasks"] = 
+                                                    {
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["speed_locked"] = true,
+                                        }, -- end of [9]
+                                        [10] = 
+                                        {
+                                            ["alt"] = 6,
+                                            ["type"] = "Turning Point",
+                                            ["ETA"] = 4256.8381898106,
+                                            ["alt_type"] = "BARO",
+                                            ["formation_template"] = "",
+                                            ["y"] = 629830.05042264,
+                                            ["x"] = -285128.66659014,
+                                            ["ETA_locked"] = false,
+                                            ["speed"] = 4,
+                                            ["action"] = "Off Road",
+                                            ["task"] = 
+                                            {
+                                                ["id"] = "ComboTask",
+                                                ["params"] = 
+                                                {
+                                                    ["tasks"] = 
+                                                    {
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["speed_locked"] = true,
+                                        }, -- end of [10]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 5,
+                                ["hidden"] = false,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["type"] = "Infantry AK Ins",
+                                        ["unitId"] = 57,
+                                        ["skill"] = "Excellent",
+                                        ["y"] = 646039.4838426,
+                                        ["x"] = -281511.13090548,
+                                        ["name"] = "PRIMARY DESTROYED SENCas-1 #005-1",
+                                        ["heading"] = 4.5310423846672,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [1]
+                                    [2] = 
+                                    {
+                                        ["type"] = "Infantry AK Ins",
+                                        ["unitId"] = 58,
+                                        ["skill"] = "Excellent",
+                                        ["y"] = 646021.92876317,
+                                        ["x"] = -281513.02242973,
+                                        ["name"] = "PRIMARY DESTROYED SENCas-1 #005-2",
+                                        ["heading"] = 4.5310423846672,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [2]
+                                    [3] = 
+                                    {
+                                        ["type"] = "Infantry AK Ins",
+                                        ["unitId"] = 59,
+                                        ["skill"] = "Excellent",
+                                        ["y"] = 646043.05625084,
+                                        ["x"] = -281491.89494206,
+                                        ["name"] = "PRIMARY DESTROYED SENCas-1 #005-3",
+                                        ["heading"] = 4.5310423846672,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [3]
+                                    [4] = 
+                                    {
+                                        ["type"] = "Infantry AK Ins",
+                                        ["unitId"] = 60,
+                                        ["skill"] = "Excellent",
+                                        ["y"] = 646021.92876317,
+                                        ["x"] = -281492.77525405,
+                                        ["name"] = "PRIMARY DESTROYED SENCas-1 #005-4",
+                                        ["heading"] = 4.5310423846672,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [4]
+                                    [5] = 
+                                    {
+                                        ["type"] = "Infantry AK Ins",
+                                        ["unitId"] = 61,
+                                        ["skill"] = "Excellent",
+                                        ["y"] = 646006.96345941,
+                                        ["x"] = -281506.86024583,
+                                        ["name"] = "PRIMARY DESTROYED SENCas-1 #005-5",
+                                        ["heading"] = 4.5310423846672,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [5]
+                                    [6] = 
+                                    {
+                                        ["type"] = "Infantry AK Ins",
+                                        ["unitId"] = 62,
+                                        ["skill"] = "Excellent",
+                                        ["y"] = 646060.66249057,
+                                        ["x"] = -281505.97993384,
+                                        ["name"] = "PRIMARY DESTROYED SENCas-1 #005-6",
+                                        ["heading"] = 4.5310423846672,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [6]
+                                    [7] = 
+                                    {
+                                        ["type"] = "Infantry AK Ins",
+                                        ["unitId"] = 64,
+                                        ["skill"] = "Excellent",
+                                        ["y"] = 646007.18114763,
+                                        ["x"] = -281497.61212505,
+                                        ["name"] = "PRIMARY DESTROYED SENCas-1 #005-7",
+                                        ["heading"] = 4.5310423846672,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [7]
+                                }, -- end of ["units"]
+                                ["y"] = 646039.4838426,
+                                ["x"] = -281511.13090548,
+                                ["name"] = "SENCas-1 #005",
+                                ["start_time"] = 0,
+                            }, -- end of [2]
+                            [3] = 
+                            {
+                                ["visible"] = false,
+                                ["tasks"] = 
+                                {
+                                }, -- end of ["tasks"]
+                                ["uncontrollable"] = false,
+                                ["task"] = "Ground Nothing",
+                                ["taskSelected"] = true,
+                                ["route"] = 
+                                {
+                                    ["spans"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            [1] = 
+                                            {
+                                                ["y"] = 646001.55974857,
+                                                ["x"] = -281479.05988894,
+                                            }, -- end of [1]
+                                            [2] = 
+                                            {
+                                                ["y"] = 645872.73290276,
+                                                ["x"] = -281395.59683348,
+                                            }, -- end of [2]
+                                        }, -- end of [1]
+                                        [2] = 
+                                        {
+                                            [1] = 
+                                            {
+                                                ["y"] = 645874.08642513,
+                                                ["x"] = -281395.53632953,
+                                            }, -- end of [1]
+                                            [2] = 
+                                            {
+                                                ["y"] = 645873.2543684,
+                                                ["x"] = -281385.57306657,
+                                            }, -- end of [2]
+                                            [3] = 
+                                            {
+                                                ["y"] = 645868.21525126,
+                                                ["x"] = -281350.94064801,
+                                            }, -- end of [3]
+                                            [4] = 
+                                            {
+                                                ["y"] = 645671.75517723,
+                                                ["x"] = -280228.02651309,
+                                            }, -- end of [4]
+                                            [5] = 
+                                            {
+                                                ["y"] = 645655.70197617,
+                                                ["x"] = -280159.89950087,
+                                            }, -- end of [5]
+                                            [6] = 
+                                            {
+                                                ["y"] = 645643.2584024,
+                                                ["x"] = -280116.65938669,
+                                            }, -- end of [6]
+                                            [7] = 
+                                            {
+                                                ["y"] = 645561.25605147,
+                                                ["x"] = -279880.5004128,
+                                            }, -- end of [7]
+                                            [8] = 
+                                            {
+                                                ["y"] = 645545.90683149,
+                                                ["x"] = -279843.56849828,
+                                            }, -- end of [8]
+                                            [9] = 
+                                            {
+                                                ["y"] = 645531.51891782,
+                                                ["x"] = -279811.66872144,
+                                            }, -- end of [9]
+                                            [10] = 
+                                            {
+                                                ["y"] = 645455.42192548,
+                                                ["x"] = -279659.70977919,
+                                            }, -- end of [10]
+                                            [11] = 
+                                            {
+                                                ["y"] = 645417.08166824,
+                                                ["x"] = -279567.34930979,
+                                            }, -- end of [11]
+                                            [12] = 
+                                            {
+                                                ["y"] = 645414.27971607,
+                                                ["x"] = -279563.2236554,
+                                            }, -- end of [12]
+                                            [13] = 
+                                            {
+                                                ["y"] = 645409.80571053,
+                                                ["x"] = -279561.40831229,
+                                            }, -- end of [13]
+                                            [14] = 
+                                            {
+                                                ["y"] = 645404.86738979,
+                                                ["x"] = -279562.16603409,
+                                            }, -- end of [14]
+                                            [15] = 
+                                            {
+                                                ["y"] = 645400.06201789,
+                                                ["x"] = -279563.58698918,
+                                            }, -- end of [15]
+                                            [16] = 
+                                            {
+                                                ["y"] = 643596.80653506,
+                                                ["x"] = -280159.87926829,
+                                            }, -- end of [16]
+                                            [17] = 
+                                            {
+                                                ["y"] = 643355.39288804,
+                                                ["x"] = -280256.38155292,
+                                            }, -- end of [17]
+                                            [18] = 
+                                            {
+                                                ["y"] = 643310.00956871,
+                                                ["x"] = -280277.35362914,
+                                            }, -- end of [18]
+                                            [19] = 
+                                            {
+                                                ["y"] = 643265.79657047,
+                                                ["x"] = -280300.69217543,
+                                            }, -- end of [19]
+                                            [20] = 
+                                            {
+                                                ["y"] = 643066.01151951,
+                                                ["x"] = -280414.60930501,
+                                            }, -- end of [20]
+                                            [21] = 
+                                            {
+                                                ["y"] = 643043.24384666,
+                                                ["x"] = -280424.92790021,
+                                            }, -- end of [21]
+                                            [22] = 
+                                            {
+                                                ["y"] = 643024.62497684,
+                                                ["x"] = -280432.22742875,
+                                            }, -- end of [22]
+                                            [23] = 
+                                            {
+                                                ["y"] = 642977.02385577,
+                                                ["x"] = -280447.51546512,
+                                            }, -- end of [23]
+                                            [24] = 
+                                            {
+                                                ["y"] = 631587.91111003,
+                                                ["x"] = -283947.11323872,
+                                            }, -- end of [24]
+                                            [25] = 
+                                            {
+                                                ["y"] = 630590.07406042,
+                                                ["x"] = -284329.795632,
+                                            }, -- end of [25]
+                                        }, -- end of [2]
+                                        [3] = 
+                                        {
+                                            [1] = 
+                                            {
+                                                ["y"] = 630590.55559141,
+                                                ["x"] = -284331.05697695,
+                                            }, -- end of [1]
+                                            [2] = 
+                                            {
+                                                ["y"] = 630391.62556869,
+                                                ["x"] = -284414.22964886,
+                                            }, -- end of [2]
+                                        }, -- end of [3]
+                                        [4] = 
+                                        {
+                                            [1] = 
+                                            {
+                                                ["y"] = 630391.62556869,
+                                                ["x"] = -284414.22964886,
+                                            }, -- end of [1]
+                                            [2] = 
+                                            {
+                                                ["y"] = 630371.1268398,
+                                                ["x"] = -284735.37640147,
+                                            }, -- end of [2]
+                                        }, -- end of [4]
+                                        [5] = 
+                                        {
+                                            [1] = 
+                                            {
+                                                ["y"] = 630371.1268398,
+                                                ["x"] = -284735.37640147,
+                                            }, -- end of [1]
+                                            [2] = 
+                                            {
+                                                ["y"] = 630398.45847832,
+                                                ["x"] = -284892.53332296,
+                                            }, -- end of [2]
+                                        }, -- end of [5]
+                                        [6] = 
+                                        {
+                                            [1] = 
+                                            {
+                                                ["y"] = 630398.45847832,
+                                                ["x"] = -284892.53332296,
+                                            }, -- end of [1]
+                                            [2] = 
+                                            {
+                                                ["y"] = 630372.83506721,
+                                                ["x"] = -284948.90482741,
+                                            }, -- end of [2]
+                                        }, -- end of [6]
+                                        [7] = 
+                                        {
+                                            [1] = 
+                                            {
+                                                ["y"] = 630372.83506721,
+                                                ["x"] = -284948.90482741,
+                                            }, -- end of [1]
+                                            [2] = 
+                                            {
+                                                ["y"] = 629928.69594126,
+                                                ["x"] = -285143.64275186,
+                                            }, -- end of [2]
+                                        }, -- end of [7]
+                                        [8] = 
+                                        {
+                                            [1] = 
+                                            {
+                                                ["y"] = 629928.69594126,
+                                                ["x"] = -285143.64275186,
+                                            }, -- end of [1]
+                                            [2] = 
+                                            {
+                                                ["y"] = 629784.92923389,
+                                                ["x"] = -285005.92076371,
+                                            }, -- end of [2]
+                                        }, -- end of [8]
+                                        [9] = 
+                                        {
+                                            [1] = 
+                                            {
+                                                ["y"] = 629864.56100489,
+                                                ["x"] = -284954.17020751,
+                                            }, -- end of [1]
+                                            [2] = 
+                                            {
+                                                ["y"] = 630422.05843058,
+                                                ["x"] = -284920.8688436,
+                                            }, -- end of [2]
+                                        }, -- end of [9]
+                                    }, -- end of ["spans"]
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 13,
+                                            ["type"] = "Turning Point",
+                                            ["ETA"] = 0,
+                                            ["alt_type"] = "BARO",
+                                            ["formation_template"] = "",
+                                            ["y"] = 646001.55974857,
+                                            ["x"] = -281479.05988894,
+                                            ["ETA_locked"] = true,
+                                            ["speed"] = 0,
+                                            ["action"] = "Off Road",
+                                            ["task"] = 
+                                            {
+                                                ["id"] = "ComboTask",
+                                                ["params"] = 
+                                                {
+                                                    ["tasks"] = 
+                                                    {
+                                                        [1] = 
+                                                        {
+                                                            ["number"] = 1,
+                                                            ["auto"] = false,
+                                                            ["id"] = "Embarking",
+                                                            ["enabled"] = true,
+                                                            ["params"] = 
+                                                            {
+                                                                ["selectedTransport"] = 45,
+                                                                ["x"] = -281491.81372669,
+                                                                ["y"] = 646015.33958534,
+                                                                ["distributionFlag"] = false,
+                                                                ["distribution"] = 
+                                                                {
+                                                                    [33] = 
+                                                                    {
+                                                                    }, -- end of [33]
+                                                                    [45] = 
+                                                                    {
+                                                                        [1] = 2,
+                                                                        [2] = 5,
+                                                                    }, -- end of [45]
+                                                                }, -- end of ["distribution"]
+                                                                ["groupsForEmbarking"] = 
+                                                                {
+                                                                    [1] = 2,
+                                                                    [2] = 5,
+                                                                }, -- end of ["groupsForEmbarking"]
+                                                                ["duration"] = 300,
+                                                                ["durationFlag"] = true,
+                                                            }, -- end of ["params"]
+                                                        }, -- end of [1]
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["speed_locked"] = true,
+                                        }, -- end of [1]
+                                        [2] = 
+                                        {
+                                            ["alt"] = 12,
+                                            ["type"] = "Turning Point",
+                                            ["ETA"] = 27.63011012698,
+                                            ["alt_type"] = "BARO",
+                                            ["formation_template"] = "",
+                                            ["y"] = 645872.73290276,
+                                            ["x"] = -281395.59683348,
+                                            ["ETA_locked"] = false,
+                                            ["speed"] = 5.5555555555556,
+                                            ["action"] = "On Road",
+                                            ["task"] = 
+                                            {
+                                                ["id"] = "ComboTask",
+                                                ["params"] = 
+                                                {
+                                                    ["tasks"] = 
+                                                    {
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["speed_locked"] = true,
+                                        }, -- end of [2]
+                                        [3] = 
+                                        {
+                                            ["alt"] = 13,
+                                            ["type"] = "Turning Point",
+                                            ["ETA"] = 1506.7438541225,
+                                            ["alt_type"] = "BARO",
+                                            ["formation_template"] = "",
+                                            ["y"] = 630590.55559141,
+                                            ["x"] = -284331.05697695,
+                                            ["ETA_locked"] = false,
+                                            ["speed"] = 11.819444444444,
+                                            ["action"] = "On Road",
+                                            ["task"] = 
+                                            {
+                                                ["id"] = "ComboTask",
+                                                ["params"] = 
+                                                {
+                                                    ["tasks"] = 
+                                                    {
+                                                        [1] = 
+                                                        {
+                                                            ["number"] = 1,
+                                                            ["auto"] = false,
+                                                            ["id"] = "Disembarking",
+                                                            ["enabled"] = true,
+                                                            ["params"] = 
+                                                            {
+                                                                ["y"] = 630565.74729802,
+                                                                ["groupsForEmbarking"] = 
+                                                                {
+                                                                    [1] = 2,
+                                                                    [2] = 5,
+                                                                }, -- end of ["groupsForEmbarking"]
+                                                                ["x"] = -284340.40368549,
+                                                            }, -- end of ["params"]
+                                                        }, -- end of [1]
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["speed_locked"] = true,
+                                        }, -- end of [3]
+                                        [4] = 
+                                        {
+                                            ["alt"] = 10,
+                                            ["type"] = "Turning Point",
+                                            ["ETA"] = 1534.7158363691,
+                                            ["alt_type"] = "BARO",
+                                            ["formation_template"] = "",
+                                            ["y"] = 630391.62556869,
+                                            ["x"] = -284414.22964886,
+                                            ["ETA_locked"] = false,
+                                            ["speed"] = 7.7083333333333,
+                                            ["action"] = "Off Road",
+                                            ["task"] = 
+                                            {
+                                                ["id"] = "ComboTask",
+                                                ["params"] = 
+                                                {
+                                                    ["tasks"] = 
+                                                    {
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["speed_locked"] = true,
+                                        }, -- end of [4]
+                                        [5] = 
+                                        {
+                                            ["alt"] = 7,
+                                            ["type"] = "Turning Point",
+                                            ["ETA"] = 1576.462902621,
+                                            ["alt_type"] = "BARO",
+                                            ["formation_template"] = "",
+                                            ["y"] = 630371.1268398,
+                                            ["x"] = -284735.37640147,
+                                            ["ETA_locked"] = false,
+                                            ["speed"] = 7.7083333333333,
+                                            ["action"] = "Off Road",
+                                            ["task"] = 
+                                            {
+                                                ["id"] = "ComboTask",
+                                                ["params"] = 
+                                                {
+                                                    ["tasks"] = 
+                                                    {
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["speed_locked"] = true,
+                                        }, -- end of [5]
+                                        [6] = 
+                                        {
+                                            ["alt"] = 7,
+                                            ["type"] = "Turning Point",
+                                            ["ETA"] = 1597.1568548098,
+                                            ["alt_type"] = "BARO",
+                                            ["formation_template"] = "",
+                                            ["y"] = 630398.45847832,
+                                            ["x"] = -284892.53332296,
+                                            ["ETA_locked"] = false,
+                                            ["speed"] = 7.7083333333333,
+                                            ["action"] = "Off Road",
+                                            ["task"] = 
+                                            {
+                                                ["id"] = "ComboTask",
+                                                ["params"] = 
+                                                {
+                                                    ["tasks"] = 
+                                                    {
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["speed_locked"] = true,
+                                        }, -- end of [6]
+                                        [7] = 
+                                        {
+                                            ["alt"] = 7,
+                                            ["type"] = "Turning Point",
+                                            ["ETA"] = 1605.1899494125,
+                                            ["alt_type"] = "BARO",
+                                            ["formation_template"] = "",
+                                            ["y"] = 630372.83506721,
+                                            ["x"] = -284948.90482741,
+                                            ["ETA_locked"] = false,
+                                            ["speed"] = 7.7083333333333,
+                                            ["action"] = "Off Road",
+                                            ["task"] = 
+                                            {
+                                                ["id"] = "ComboTask",
+                                                ["params"] = 
+                                                {
+                                                    ["tasks"] = 
+                                                    {
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["speed_locked"] = true,
+                                        }, -- end of [7]
+                                        [8] = 
+                                        {
+                                            ["alt"] = 5,
+                                            ["type"] = "Turning Point",
+                                            ["ETA"] = 1668.1031736633,
+                                            ["alt_type"] = "BARO",
+                                            ["formation_template"] = "",
+                                            ["y"] = 629928.69594126,
+                                            ["x"] = -285143.64275186,
+                                            ["ETA_locked"] = false,
+                                            ["speed"] = 7.7083333333333,
+                                            ["action"] = "Off Road",
+                                            ["task"] = 
+                                            {
+                                                ["id"] = "ComboTask",
+                                                ["params"] = 
+                                                {
+                                                    ["tasks"] = 
+                                                    {
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["speed_locked"] = true,
+                                        }, -- end of [8]
+                                        [9] = 
+                                        {
+                                            ["alt"] = 6,
+                                            ["type"] = "Turning Point",
+                                            ["ETA"] = 1706.8447104878,
+                                            ["alt_type"] = "BARO",
+                                            ["formation_template"] = "",
+                                            ["y"] = 629784.92923389,
+                                            ["x"] = -285005.92076371,
+                                            ["ETA_locked"] = false,
+                                            ["speed"] = 5.1388888888889,
+                                            ["action"] = "Off Road",
+                                            ["task"] = 
+                                            {
+                                                ["id"] = "ComboTask",
+                                                ["params"] = 
+                                                {
+                                                    ["tasks"] = 
+                                                    {
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["speed_locked"] = true,
+                                        }, -- end of [9]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 3,
+                                ["hidden"] = false,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["type"] = "BMP-1",
+                                        ["unitId"] = 33,
+                                        ["skill"] = "Excellent",
+                                        ["y"] = 646001.55974857,
+                                        ["x"] = -281479.05988894,
+                                        ["name"] = "PRIMARY DESTROYED SENCas-1 #003-1",
+                                        ["heading"] = 5.2872654170532,
+                                        ["playerCanDrive"] = true,
+                                    }, -- end of [1]
+                                    [2] = 
+                                    {
+                                        ["type"] = "BMP-1",
+                                        ["unitId"] = 45,
+                                        ["skill"] = "Excellent",
+                                        ["y"] = 646014.97353463,
+                                        ["x"] = -281468.69469062,
+                                        ["name"] = "PRIMARY DESTROYED SENCas-1 #003-2",
+                                        ["heading"] = 5.2872654170532,
+                                        ["playerCanDrive"] = true,
+                                    }, -- end of [2]
+                                }, -- end of ["units"]
+                                ["y"] = 646001.55974857,
+                                ["x"] = -281479.05988894,
+                                ["name"] = "SENCas-1 #003",
+                                ["start_time"] = 0,
+                            }, -- end of [3]
+                        }, -- end of ["group"]
+                    }, -- end of ["vehicle"]
+                    ["name"] = "Abkhazia",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["id"] = 0,
+                    ["name"] = "Russia",
+                }, -- end of [2]
+                [3] = 
+                {
+                    ["id"] = 19,
+                    ["name"] = "South Ossetia",
+                }, -- end of [3]
+            }, -- end of ["country"]
+        }, -- end of ["red"]
+    }, -- end of ["coalition"]
+    ["name"] = "SENCas-1",
+    ["requiredModules"] = 
+    {
+    }, -- end of ["requiredModules"]
+    ["localization"] = 
+    {
+        ["DEFAULT"] = 
+        {
+            ["DictKey_descriptionNeutralsTask_4"] = "",
+            ["DictKey_sortie_5"] = "",
+            ["DictKey_descriptionText_1"] = "",
+            ["DictKey_descriptionBlueTask_3"] = "",
+            ["DictKey_descriptionRedTask_2"] = "",
+        }, -- end of ["DEFAULT"]
+    }, -- end of ["localization"]
+    ["theatre"] = "Caucasus",
+    ["desc"] = "",
+} -- end of staticTemplate

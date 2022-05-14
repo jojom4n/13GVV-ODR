@@ -1,3 +1,8 @@
-objtype = "factory"
-intel = 4
-cost = 3
+objtype = "facility"
+intel = 5
+cost = 1
+desc = [[Immagini satellitari ci hanno consentito di individuare una torre di comunicazioni nemica a nord-est della base aerea di Sukhumi-Babushara. Colpendo la torre, potremmo indebolire le capacità difensive del nemico.
+
+Obiettivo primario: Distruggere la torre di comunicazioni.
+
+Piloti raccomandati: 2]]

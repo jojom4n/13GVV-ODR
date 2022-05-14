@@ -532,11 +532,5 @@ staticTemplate =
         }, -- end of ["DEFAULT"]
     }, -- end of ["localization"]
     ["theatre"] = "Caucasus",
-    ["desc"] = "Una fonte confidenziale ci ha informato che il nemico ha un quartier generale segreto in una comune abitazione, nei pressi della base aerea di Sukhumi-Babushara. Distruggendo la struttura, non solo potremmo indebolire l'intelligence nemica, ma potremmo anche colpire un eventuale alto ufficiale che si trovasse al suo interno. Tuttavia, è fondamentale che l'operazione avvenga in modo chirurgico, al fine di evitare vittime civili collaterali.\
-\
-Obiettivo primario: Distruggere il quartier generale segreto.\
-\
-Obiettivo secondario: N/A.\
-\
-Piloti raccomandati: 2",
+    ["desc"] = "",
 } -- end of staticTemplate

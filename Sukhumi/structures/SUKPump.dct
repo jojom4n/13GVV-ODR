@@ -1,3 +1,8 @@
-objtype = "factory"
-intel = 4
-cost = 3
+objtype = "facility"
+intel = 5
+cost = 1
+desc = [[Il nemico utilizza diverse pompe di estrazione petrolifera a nord della base aerea di Sukhumi-Babushara. Dobbiamo colpirle al fine di privare il nemico di una fonte essenziale di rifornimento.
+
+Obiettivo primario: Distruggere le pompe di estrazione petrolifera.
+
+Piloti raccomandati: 2]]

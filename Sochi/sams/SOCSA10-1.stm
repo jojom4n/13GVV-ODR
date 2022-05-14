@@ -566,7 +566,7 @@ staticTemplate =
                                         ["unitId"] = 2,
                                         ["y"] = 429546.37230777,
                                         ["x"] = -127036.52169232,
-                                        ["name"] = "SECONDARY DESTROYED SOCSA10 #001-2",
+                                        ["name"] = "SOCSA10 #001-2",
                                         ["heading"] = 4.1887902047864,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [2]
@@ -596,7 +596,7 @@ staticTemplate =
                                         ["unitId"] = 3,
                                         ["y"] = 429507.18255869,
                                         ["x"] = -126922.22471443,
-                                        ["name"] = "SECONDARY DESTROYED SOCSA10 #001-4",
+                                        ["name"] = "SOCSA10 #001-4",
                                         ["heading"] = 1.0471975511966,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [4]
@@ -611,7 +611,7 @@ staticTemplate =
                                         ["unitId"] = 9,
                                         ["y"] = 429539.46758465,
                                         ["x"] = -127189.87604192,
-                                        ["name"] = "SECONDARY DESTROYED SOCSA10 #001-5",
+                                        ["name"] = "SOCSA10 #001-5",
                                         ["heading"] = 1.0471975511966,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [5]
@@ -626,7 +626,7 @@ staticTemplate =
                                         ["unitId"] = 13,
                                         ["y"] = 429531.46220196,
                                         ["x"] = -127174.30762696,
-                                        ["name"] = "SECONDARY DESTROYED SOCSA10 #001-6",
+                                        ["name"] = "SOCSA10 #001-6",
                                         ["heading"] = 1.221730476396,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [6]
@@ -641,7 +641,7 @@ staticTemplate =
                                         ["unitId"] = 16,
                                         ["y"] = 429548.58574981,
                                         ["x"] = -127204.06443312,
-                                        ["name"] = "SECONDARY DESTROYED SOCSA10 #001-7",
+                                        ["name"] = "SOCSA10 #001-7",
                                         ["heading"] = 0.8726646259972,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [7]
@@ -656,7 +656,7 @@ staticTemplate =
                                         ["unitId"] = 4,
                                         ["y"] = 429682.73694864,
                                         ["x"] = -127106.04508029,
-                                        ["name"] = "SECONDARY DESTROYED SOCSA10 #001-8",
+                                        ["name"] = "SOCSA10 #001-8",
                                         ["heading"] = 4.1887902047864,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [8]
@@ -671,7 +671,7 @@ staticTemplate =
                                         ["unitId"] = 7,
                                         ["y"] = 429673.36447662,
                                         ["x"] = -127091.21292529,
-                                        ["name"] = "SECONDARY DESTROYED SOCSA10 #001-9",
+                                        ["name"] = "SOCSA10 #001-9",
                                         ["heading"] = 4.014257279587,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [9]
@@ -686,7 +686,7 @@ staticTemplate =
                                         ["unitId"] = 10,
                                         ["y"] = 429690.91956484,
                                         ["x"] = -127121.61923001,
-                                        ["name"] = "SECONDARY DESTROYED SOCSA10 #001-10",
+                                        ["name"] = "SOCSA10 #001-10",
                                         ["heading"] = 4.3633231299858,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [10]
@@ -821,7 +821,7 @@ staticTemplate =
                                         ["unitId"] = 19,
                                         ["y"] = 429359.03782816,
                                         ["x"] = -127207.18550254,
-                                        ["name"] = "SECONDARY DESTROYED SOCSA10 #001-19",
+                                        ["name"] = "SOCSA10 #001-19",
                                         ["heading"] = 3.1415926535898,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [19]
@@ -836,7 +836,7 @@ staticTemplate =
                                         ["unitId"] = 20,
                                         ["y"] = 429622.75622892,
                                         ["x"] = -127328.11714488,
-                                        ["name"] = "SECONDARY DESTROYED SOCSA10 #001-20",
+                                        ["name"] = "SOCSA10 #001-20",
                                         ["heading"] = 3.2812189937493,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [20]
@@ -851,7 +851,7 @@ staticTemplate =
                                         ["unitId"] = 21,
                                         ["y"] = 429809.25321951,
                                         ["x"] = -127265.4658121,
-                                        ["name"] = "SECONDARY DESTROYED SOCSA10 #001-21",
+                                        ["name"] = "SOCSA10 #001-21",
                                         ["heading"] = 2.1816615649929,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [21]
@@ -866,7 +866,7 @@ staticTemplate =
                                         ["unitId"] = 22,
                                         ["y"] = 429300.7575186,
                                         ["x"] = -127027.97355064,
-                                        ["name"] = "SECONDARY DESTROYED SOCSA10 #001-22",
+                                        ["name"] = "SOCSA10 #001-22",
                                         ["heading"] = 3.9269908169872,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [22]
@@ -914,6 +914,12 @@ staticTemplate =
 Obiettivo primario: Distruggere il radar di tracciamento FLAP LID.\
 \
 Obiettivo secondario: Distruggere i lanciatori, i radar di ricerca BIG BIRD e CLAM SHELL e i SA-15.\
+\
+Codice HARM:\
+- SA-10 Flap Lid TR: 110\
+- SA-10 Clam Shell SR: 103\
+- SA-10 Big Bird SR: 104\
+- SA-15 Tor: 119\
 \
 Piloti raccomandati: 4",
 } -- end of staticTemplate

@@ -728,11 +728,5 @@ staticTemplate =
         }, -- end of ["DEFAULT"]
     }, -- end of ["localization"]
     ["theatre"] = "Caucasus",
-    ["desc"] = "La cittadina di Ahalsopeli, non lontana dalla base aerea di Senaki-Kolkhi, è stata occupata da un piccolo contingente di truppe nemiche. Al fine di proteggere la popolazione civile, riteniamo che le forze nemiche debbano essere eliminate quanto prima.\
-\
-Obiettivo primario: Uccidere le truppe nemiche e distruggere i veicoli nemici eventualmente presenti.\
-\
-Obiettivo secondario: N/A.\
-\
-Piloti raccomandati: 2",
+    ["desc"] = "",
 } -- end of staticTemplate

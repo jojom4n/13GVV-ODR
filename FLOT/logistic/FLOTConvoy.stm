@@ -465,6 +465,7 @@ staticTemplate =
                                 {
                                 }, -- end of ["tasks"]
                                 ["uncontrollable"] = false,
+								["hiddenOnMFD"] = true,
                                 ["task"] = "Ground Nothing",
                                 ["taskSelected"] = true,
                                 ["route"] = 

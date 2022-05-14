@@ -470,6 +470,7 @@ staticTemplate =
                                 {
                                 }, -- end of ["tasks"]
                                 ["uncontrollable"] = false,
+								["hiddenOnMFD"] = true,
                                 ["route"] = 
                                 {
                                     ["spans"] = 
@@ -684,7 +685,7 @@ staticTemplate =
                                         ["skill"] = "Excellent",
                                         ["y"] = 647000.67420421,
                                         ["x"] = -285410.72270392,
-                                        ["name"] = "SECONDARY DESTROYED SENSA11 #002-1",
+                                        ["name"] = "SENSA11 #002-1",
                                         ["heading"] = 4.5029494701454,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [13]
@@ -695,7 +696,7 @@ staticTemplate =
                                         ["skill"] = "High",
                                         ["y"] = 647349.89825739,
                                         ["x"] = -286007.94644704,
-                                        ["name"] = "SECONDARY DESTROYED SENSA11 #002-2",
+                                        ["name"] = "SENSA11 #002-2",
                                         ["heading"] = 4.2062434973063,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [14]
@@ -733,11 +734,5 @@ staticTemplate =
         }, -- end of ["DEFAULT"]
     }, -- end of ["localization"]
     ["theatre"] = "Caucasus",
-    ["desc"] = "Immagini satellitari ci hanno fornito la posizione di una postazione SA-11 nei pressi della base aerea di Senaki-Kolkhi. La postazione è presidiata a sua volta da SA-15 Tor.\
-\
-Obiettivo primario: Distruggere la postazione SA-11.\
-\
-Obiettivo secondario: Distruggere i SA-15.\
-\
-Piloti raccomandati: 4",
+    ["desc"] = "",
 } -- end of staticTemplate

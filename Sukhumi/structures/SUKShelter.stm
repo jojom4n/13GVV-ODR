@@ -532,11 +532,5 @@ staticTemplate =
         }, -- end of ["DEFAULT"]
     }, -- end of ["localization"]
     ["theatre"] = "Caucasus",
-    ["desc"] = "La nostra intelligence ci riferisce di un singolare shelter nemico a nord della base aerea di Sukhumi-Babushara. Non sappiamo cosa contenga la struttura, ma riteniamo che possa costituire per il nemico un asset strategico essenziale.\
-\
-Obiettivo primario: Distruggere lo shelter.\
-\
-Obiettivo secondario: N/A.\
-\
-Piloti raccomandati: 2",
+    ["desc"] = "",
 } -- end of staticTemplate

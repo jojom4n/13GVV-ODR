@@ -465,25 +465,13 @@ staticTemplate =
                                 {
                                 }, -- end of ["tasks"]
                                 ["uncontrollable"] = false,
+								["hiddenOnMFD"] = true,
                                 ["task"] = "Ground Nothing",
                                 ["taskSelected"] = true,
                                 ["route"] = 
                                 {
                                     ["spans"] = 
                                     {
-                                        [1] = 
-                                        {
-                                            [1] = 
-                                            {
-                                                ["y"] = 564607.3293525,
-                                                ["x"] = -219881.60248371,
-                                            }, -- end of [1]
-                                            [2] = 
-                                            {
-                                                ["y"] = 564589.87820798,
-                                                ["x"] = -220248.21036262,
-                                            }, -- end of [2]
-                                        }, -- end of [1]
                                     }, -- end of ["spans"]
                                     ["points"] = 
                                     {
@@ -494,8 +482,8 @@ staticTemplate =
                                             ["ETA"] = 0,
                                             ["alt_type"] = "BARO",
                                             ["formation_template"] = "",
-                                            ["y"] = 516434.67264554,
-                                            ["x"] = -196419.68971988,
+                                            ["y"] = 516757.63018995,
+                                            ["x"] = -197015.53228729,
                                             ["ETA_locked"] = true,
                                             ["speed"] = 0,
                                             ["action"] = "Off Road",
@@ -506,6 +494,25 @@ staticTemplate =
                                                 {
                                                     ["tasks"] = 
                                                     {
+                                                        [1] = 
+                                                        {
+                                                            ["number"] = 1,
+                                                            ["auto"] = false,
+                                                            ["id"] = "WrappedAction",
+                                                            ["enabled"] = true,
+                                                            ["params"] = 
+                                                            {
+                                                                ["action"] = 
+                                                                {
+                                                                    ["id"] = "Option",
+                                                                    ["params"] = 
+                                                                    {
+                                                                        ["name"] = 9,
+                                                                        ["value"] = 2,
+                                                                    }, -- end of ["params"]
+                                                                }, -- end of ["action"]
+                                                            }, -- end of ["params"]
+                                                        }, -- end of [1]
                                                     }, -- end of ["tasks"]
                                                 }, -- end of ["params"]
                                             }, -- end of ["task"]
@@ -513,359 +520,157 @@ staticTemplate =
                                         }, -- end of [1]
                                     }, -- end of ["points"]
                                 }, -- end of ["route"]
-                                ["groupId"] = 24,
+                                ["groupId"] = 2,
                                 ["hidden"] = false,
                                 ["units"] = 
                                 {
                                     [1] = 
                                     {
-                                        ["transportable"] = 
-                                        {
-                                            ["randomTransportable"] = false,
-                                        }, -- end of ["transportable"]
-                                        ["skill"] = "High",
-                                        ["type"] = "T-55",
-                                        ["unitId"] = 329,
-                                        ["y"] = 516434.67264554,
-                                        ["x"] = -196419.68971988,
-                                        ["name"] = "GUDArmor-1",
-                                        ["heading"] = 1.1344640137963,
-                                        ["playerCanDrive"] = true,
+                                        ["type"] = "ZU-23 Emplacement Closed",
+                                        ["unitId"] = 16,
+                                        ["skill"] = "Excellent",
+                                        ["y"] = 516757.63018995,
+                                        ["x"] = -197015.53228729,
+                                        ["name"] = "PRIMARY DESTROYED GUDArmor #001-1",
+                                        ["heading"] = 3.9793506945471,
+                                        ["playerCanDrive"] = false,
                                     }, -- end of [1]
                                     [2] = 
                                     {
-                                        ["transportable"] = 
-                                        {
-                                            ["randomTransportable"] = false,
-                                        }, -- end of ["transportable"]
-                                        ["skill"] = "High",
-                                        ["type"] = "T-55",
-                                        ["unitId"] = 330,
-                                        ["y"] = 516514.85070637,
-                                        ["x"] = -197618.41210239,
-                                        ["name"] = "GUDArmor-2",
-                                        ["heading"] = 4.5727626402251,
-                                        ["playerCanDrive"] = true,
+                                        ["type"] = "ZU-23 Emplacement Closed",
+                                        ["unitId"] = 17,
+                                        ["skill"] = "Excellent",
+                                        ["y"] = 516948.7679254,
+                                        ["x"] = -197299.45434932,
+                                        ["name"] = "PRIMARY DESTROYED GUDArmor #001-2",
+                                        ["heading"] = 3.9793506945471,
+                                        ["playerCanDrive"] = false,
                                     }, -- end of [2]
                                     [3] = 
                                     {
-                                        ["transportable"] = 
-                                        {
-                                            ["randomTransportable"] = false,
-                                        }, -- end of ["transportable"]
-                                        ["skill"] = "High",
-                                        ["type"] = "T-55",
-                                        ["unitId"] = 338,
-                                        ["y"] = 515876.96769754,
-                                        ["x"] = -197148.20119874,
-                                        ["name"] = "GUDArmor-3",
-                                        ["heading"] = 1.9198621771938,
-                                        ["playerCanDrive"] = true,
+                                        ["type"] = "ZU-23 Emplacement Closed",
+                                        ["unitId"] = 23,
+                                        ["skill"] = "Excellent",
+                                        ["y"] = 515941.4818648,
+                                        ["x"] = -196973.89206662,
+                                        ["name"] = "PRIMARY DESTROYED GUDArmor #001-3",
+                                        ["heading"] = 3.9793506945471,
+                                        ["playerCanDrive"] = false,
                                     }, -- end of [3]
                                     [4] = 
                                     {
-                                        ["transportable"] = 
-                                        {
-                                            ["randomTransportable"] = false,
-                                        }, -- end of ["transportable"]
-                                        ["skill"] = "High",
-                                        ["type"] = "T-55",
-                                        ["unitId"] = 331,
-                                        ["y"] = 515559.848716,
-                                        ["x"] = -196812.85698838,
-                                        ["name"] = "GUDArmor-4",
-                                        ["heading"] = 0.087266462599716,
-                                        ["playerCanDrive"] = true,
+                                        ["type"] = "ZU-23 Emplacement Closed",
+                                        ["unitId"] = 18,
+                                        ["skill"] = "Excellent",
+                                        ["y"] = 516177.44311527,
+                                        ["x"] = -195807.96588783,
+                                        ["name"] = "PRIMARY DESTROYED GUDArmor #001-4",
+                                        ["heading"] = 3.9793506945471,
+                                        ["playerCanDrive"] = false,
                                     }, -- end of [4]
                                     [5] = 
                                     {
-                                        ["transportable"] = 
-                                        {
-                                            ["randomTransportable"] = false,
-                                        }, -- end of ["transportable"]
-                                        ["skill"] = "High",
-                                        ["type"] = "T-55",
-                                        ["unitId"] = 335,
-                                        ["y"] = 515497.882938,
-                                        ["x"] = -195912.53068448,
-                                        ["name"] = "GUDArmor-5",
-                                        ["heading"] = 5.4977871437821,
-                                        ["playerCanDrive"] = true,
+                                        ["type"] = "ZU-23 Emplacement Closed",
+                                        ["unitId"] = 21,
+                                        ["skill"] = "Excellent",
+                                        ["y"] = 516671.5737339,
+                                        ["x"] = -197656.79168563,
+                                        ["name"] = "PRIMARY DESTROYED GUDArmor #001-5",
+                                        ["heading"] = 3.9793506945471,
+                                        ["playerCanDrive"] = false,
                                     }, -- end of [5]
                                     [6] = 
                                     {
-                                        ["transportable"] = 
-                                        {
-                                            ["randomTransportable"] = false,
-                                        }, -- end of ["transportable"]
-                                        ["skill"] = "High",
-                                        ["type"] = "T-55",
-                                        ["unitId"] = 339,
-                                        ["y"] = 516959.54628967,
-                                        ["x"] = -197352.32376156,
-                                        ["name"] = "GUDArmor-6",
-                                        ["heading"] = 4.8171087355043,
-                                        ["playerCanDrive"] = true,
+                                        ["type"] = "ZU-23 Emplacement Closed",
+                                        ["unitId"] = 24,
+                                        ["skill"] = "Excellent",
+                                        ["y"] = 515599.52174031,
+                                        ["x"] = -196216.09378171,
+                                        ["name"] = "PRIMARY DESTROYED GUDArmor #001-6",
+                                        ["heading"] = 3.9793506945471,
+                                        ["playerCanDrive"] = false,
                                     }, -- end of [6]
                                     [7] = 
                                     {
-                                        ["transportable"] = 
-                                        {
-                                            ["randomTransportable"] = false,
-                                        }, -- end of ["transportable"]
-                                        ["skill"] = "High",
-                                        ["type"] = "T-55",
-                                        ["unitId"] = 328,
-                                        ["y"] = 516101.19300741,
-                                        ["x"] = -196471.98117294,
-                                        ["name"] = "GUDArmor-7",
-                                        ["heading"] = 2.4260076602721,
-                                        ["playerCanDrive"] = true,
+                                        ["type"] = "ZU-23 Emplacement Closed",
+                                        ["unitId"] = 15,
+                                        ["skill"] = "Excellent",
+                                        ["y"] = 516471.93040277,
+                                        ["x"] = -196550.56835691,
+                                        ["name"] = "PRIMARY DESTROYED GUDArmor #001-7",
+                                        ["heading"] = 3.9793506945471,
+                                        ["playerCanDrive"] = false,
                                     }, -- end of [7]
                                     [8] = 
                                     {
-                                        ["transportable"] = 
-                                        {
-                                            ["randomTransportable"] = false,
-                                        }, -- end of ["transportable"]
-                                        ["skill"] = "High",
-                                        ["type"] = "T-55",
-                                        ["unitId"] = 332,
-                                        ["y"] = 516215.95695366,
-                                        ["x"] = -195828.69463189,
-                                        ["name"] = "GUDArmor-8",
-                                        ["heading"] = 5.1836278784232,
-                                        ["playerCanDrive"] = true,
+                                        ["type"] = "Osa 9A33 ln",
+                                        ["unitId"] = 19,
+                                        ["skill"] = "Excellent",
+                                        ["y"] = 515869.3054823,
+                                        ["x"] = -195869.03821148,
+                                        ["name"] = "PRIMARY DESTROYED GUDArmor #001-8",
+                                        ["heading"] = 3.9793506945471,
+                                        ["playerCanDrive"] = false,
                                     }, -- end of [8]
                                     [9] = 
                                     {
-                                        ["transportable"] = 
-                                        {
-                                            ["randomTransportable"] = false,
-                                        }, -- end of ["transportable"]
-                                        ["skill"] = "High",
-                                        ["type"] = "T-55",
-                                        ["unitId"] = 334,
-                                        ["y"] = 517196.47426438,
-                                        ["x"] = -197939.17612969,
-                                        ["name"] = "GUDArmor-9",
-                                        ["heading"] = 1.4311699866353,
-                                        ["playerCanDrive"] = true,
+                                        ["type"] = "Osa 9A33 ln",
+                                        ["unitId"] = 20,
+                                        ["skill"] = "Excellent",
+                                        ["y"] = 516302.77978092,
+                                        ["x"] = -196944.72474133,
+                                        ["name"] = "PRIMARY DESTROYED GUDArmor #001-9",
+                                        ["heading"] = 3.9793506945471,
+                                        ["playerCanDrive"] = false,
                                     }, -- end of [9]
                                     [10] = 
                                     {
-                                        ["transportable"] = 
-                                        {
-                                            ["randomTransportable"] = false,
-                                        }, -- end of ["transportable"]
-                                        ["skill"] = "High",
-                                        ["type"] = "T-55",
-                                        ["unitId"] = 336,
-                                        ["y"] = 516299.79300625,
-                                        ["x"] = -197443.44990568,
-                                        ["name"] = "GUDArmor-10",
-                                        ["heading"] = 2.1816615649929,
-                                        ["playerCanDrive"] = true,
+                                        ["type"] = "Strela-1 9P31",
+                                        ["unitId"] = 22,
+                                        ["skill"] = "Excellent",
+                                        ["y"] = 515974.79404133,
+                                        ["x"] = -196116.10352079,
+                                        ["name"] = "PRIMARY DESTROYED GUDArmor #001-10",
+                                        ["heading"] = 3.9793506945471,
+                                        ["playerCanDrive"] = false,
                                     }, -- end of [10]
                                     [11] = 
                                     {
-                                        ["transportable"] = 
-                                        {
-                                            ["randomTransportable"] = false,
-                                        }, -- end of ["transportable"]
-                                        ["skill"] = "High",
-                                        ["type"] = "T-55",
-                                        ["unitId"] = 341,
-                                        ["y"] = 516321.66328084,
-                                        ["x"] = -197151.8462445,
-                                        ["name"] = "GUDArmor-11",
-                                        ["heading"] = 0.087266462599716,
-                                        ["playerCanDrive"] = true,
+                                        ["type"] = "Strela-1 9P31",
+                                        ["unitId"] = 26,
+                                        ["skill"] = "Excellent",
+                                        ["y"] = 515594.48002587,
+                                        ["x"] = -196843.41937518,
+                                        ["name"] = "PRIMARY DESTROYED GUDArmor #001-11",
+                                        ["heading"] = 3.9793506945471,
+                                        ["playerCanDrive"] = false,
                                     }, -- end of [11]
                                     [12] = 
                                     {
-                                        ["transportable"] = 
-                                        {
-                                            ["randomTransportable"] = false,
-                                        }, -- end of ["transportable"]
-                                        ["skill"] = "High",
-                                        ["type"] = "T-55",
-                                        ["unitId"] = 340,
-                                        ["y"] = 516168.57135872,
-                                        ["x"] = -196834.72726297,
-                                        ["name"] = "GUDArmor-12",
-                                        ["heading"] = 0.087266462599716,
-                                        ["playerCanDrive"] = true,
+                                        ["type"] = "ZSU-23-4 Shilka",
+                                        ["unitId"] = 25,
+                                        ["skill"] = "Excellent",
+                                        ["y"] = 516377.31617449,
+                                        ["x"] = -197418.05442045,
+                                        ["name"] = "PRIMARY DESTROYED GUDArmor #001-12",
+                                        ["heading"] = 3.9793506945471,
+                                        ["playerCanDrive"] = false,
                                     }, -- end of [12]
                                     [13] = 
                                     {
-                                        ["transportable"] = 
-                                        {
-                                            ["randomTransportable"] = false,
-                                        }, -- end of ["transportable"]
-                                        ["skill"] = "High",
-                                        ["type"] = "T-55",
-                                        ["unitId"] = 327,
-                                        ["y"] = 515556.20367024,
-                                        ["x"] = -196207.77939143,
-                                        ["name"] = "GUDArmor-13",
-                                        ["heading"] = 0.087266462599716,
-                                        ["playerCanDrive"] = true,
+                                        ["type"] = "ZSU-23-4 Shilka",
+                                        ["unitId"] = 14,
+                                        ["skill"] = "Excellent",
+                                        ["y"] = 516684.31385792,
+                                        ["x"] = -196796.7584995,
+                                        ["name"] = "PRIMARY DESTROYED GUDArmor #001-13",
+                                        ["heading"] = 3.9793506945471,
+                                        ["playerCanDrive"] = false,
                                     }, -- end of [13]
-                                    [14] = 
-                                    {
-                                        ["transportable"] = 
-                                        {
-                                            ["randomTransportable"] = false,
-                                        }, -- end of ["transportable"]
-                                        ["skill"] = "High",
-                                        ["type"] = "T-55",
-                                        ["unitId"] = 337,
-                                        ["y"] = 515749.39109577,
-                                        ["x"] = -197031.55973426,
-                                        ["name"] = "GUDArmor-14",
-                                        ["heading"] = 0.087266462599716,
-                                        ["playerCanDrive"] = true,
-                                    }, -- end of [14]
-                                    [15] = 
-                                    {
-                                        ["transportable"] = 
-                                        {
-                                            ["randomTransportable"] = false,
-                                        }, -- end of ["transportable"]
-                                        ["skill"] = "High",
-                                        ["type"] = "T-55",
-                                        ["unitId"] = 333,
-                                        ["y"] = 515938.93347554,
-                                        ["x"] = -196995.10927662,
-                                        ["name"] = "GUDArmor-15",
-                                        ["heading"] = 0.087266462599716,
-                                        ["playerCanDrive"] = true,
-                                    }, -- end of [15]
-                                    [16] = 
-                                    {
-                                        ["transportable"] = 
-                                        {
-                                            ["randomTransportable"] = false,
-                                        }, -- end of ["transportable"]
-                                        ["skill"] = "High",
-                                        ["type"] = "2S6 Tunguska",
-                                        ["unitId"] = 342,
-                                        ["y"] = 515736.48462197,
-                                        ["x"] = -197213.70085124,
-                                        ["name"] = "GUDArmor-16",
-                                        ["heading"] = 0.087266462599716,
-                                        ["playerCanDrive"] = true,
-                                    }, -- end of [16]
-                                    [17] = 
-                                    {
-                                        ["transportable"] = 
-                                        {
-                                            ["randomTransportable"] = false,
-                                        }, -- end of ["transportable"]
-                                        ["skill"] = "Excellent",
-                                        ["type"] = "2S6 Tunguska",
-                                        ["unitId"] = 343,
-                                        ["y"] = 515909.3369773,
-                                        ["x"] = -196762.16816793,
-                                        ["name"] = "GUDArmor-17",
-                                        ["heading"] = 0.087266462599716,
-                                        ["playerCanDrive"] = true,
-                                    }, -- end of [17]
-                                    [18] = 
-                                    {
-                                        ["transportable"] = 
-                                        {
-                                            ["randomTransportable"] = false,
-                                        }, -- end of ["transportable"]
-                                        ["skill"] = "Excellent",
-                                        ["type"] = "2S6 Tunguska",
-                                        ["unitId"] = 344,
-                                        ["y"] = 516477.28043052,
-                                        ["x"] = -197354.80481477,
-                                        ["name"] = "GUDArmor-18",
-                                        ["heading"] = 0.087266462599716,
-                                        ["playerCanDrive"] = true,
-                                    }, -- end of [18]
-                                    [19] = 
-                                    {
-                                        ["transportable"] = 
-                                        {
-                                            ["randomTransportable"] = false,
-                                        }, -- end of ["transportable"]
-                                        ["skill"] = "Excellent",
-                                        ["type"] = "2S6 Tunguska",
-                                        ["unitId"] = 345,
-                                        ["y"] = 515436.63869946,
-                                        ["x"] = -196321.21828189,
-                                        ["name"] = "GUDArmor-19",
-                                        ["heading"] = 0.087266462599716,
-                                        ["playerCanDrive"] = true,
-                                    }, -- end of [19]
-                                    [20] = 
-                                    {
-                                        ["transportable"] = 
-                                        {
-                                            ["randomTransportable"] = false,
-                                        }, -- end of ["transportable"]
-                                        ["skill"] = "Excellent",
-                                        ["type"] = "Strela-10M3",
-                                        ["unitId"] = 346,
-                                        ["y"] = 517094.59515003,
-                                        ["x"] = -197639.96738468,
-                                        ["name"] = "GUDArmor-20",
-                                        ["heading"] = 0.087266462599716,
-                                        ["playerCanDrive"] = true,
-                                    }, -- end of [20]
-                                    [21] = 
-                                    {
-                                        ["transportable"] = 
-                                        {
-                                            ["randomTransportable"] = false,
-                                        }, -- end of ["transportable"]
-                                        ["skill"] = "Excellent",
-                                        ["type"] = "Strela-10M3",
-                                        ["unitId"] = 347,
-                                        ["y"] = 515390.77991131,
-                                        ["x"] = -196539.92942536,
-                                        ["name"] = "GUDArmor-21",
-                                        ["heading"] = 0.087266462599716,
-                                        ["playerCanDrive"] = true,
-                                    }, -- end of [21]
-                                    [22] = 
-                                    {
-                                        ["transportable"] = 
-                                        {
-                                            ["randomTransportable"] = false,
-                                        }, -- end of ["transportable"]
-                                        ["skill"] = "Excellent",
-                                        ["type"] = "Strela-10M3",
-                                        ["unitId"] = 348,
-                                        ["y"] = 515986.94415724,
-                                        ["x"] = -196116.61753476,
-                                        ["name"] = "GUDArmor-22",
-                                        ["heading"] = 0.087266462599716,
-                                        ["playerCanDrive"] = true,
-                                    }, -- end of [22]
-                                    [23] = 
-                                    {
-                                        ["transportable"] = 
-                                        {
-                                            ["randomTransportable"] = false,
-                                        }, -- end of ["transportable"]
-                                        ["skill"] = "Excellent",
-                                        ["type"] = "Strela-10M3",
-                                        ["unitId"] = 349,
-                                        ["y"] = 516678.35357856,
-                                        ["x"] = -196857.41334332,
-                                        ["name"] = "GUDArmor-23",
-                                        ["heading"] = 0.087266462599716,
-                                        ["playerCanDrive"] = true,
-                                    }, -- end of [23]
                                 }, -- end of ["units"]
-                                ["y"] = 516434.67264554,
-                                ["x"] = -196419.68971988,
-                                ["name"] = "GUDArmor",
+                                ["y"] = 516757.63018995,
+                                ["x"] = -197015.53228729,
+                                ["name"] = "GUDArmor #001",
                                 ["start_time"] = 0,
                             }, -- end of [1]
                         }, -- end of ["group"]
@@ -901,11 +706,5 @@ staticTemplate =
         }, -- end of ["DEFAULT"]
     }, -- end of ["localization"]
     ["theatre"] = "Caucasus",
-    ["desc"] = "Sono stati individuati diversi carri armati nemici a difesa della base aerea di Gudauta, insieme a SHORAD. Se vogliamo permettere alle nostre truppe di avanzare e riconquistare la base, è necessario privare il nemico di tali difese.\
-\
-Obiettivo primario: Distruggere i carri armati e le loro difese.\
-\
-Obiettivo secondario: N/A.\
-\
-Piloti raccomandati: 3",
+    ["desc"] = "",
 } -- end of staticTemplate

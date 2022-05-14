@@ -1,3 +1,8 @@
-objtype = "factory"
-intel = 4
-cost = 3
+objtype = "facility"
+intel = 5
+cost = 1
+desc = [[Il nemico ha alcuni depositi di carburanti nei pressi della base aerea di Sukhumi-Babushara. Se vogliamo indebolire le capacità di rifornimento nemiche, è fondamentale distruggerli.
+
+Obiettivo primario: Distruggere i depositi di carburante.
+
+Piloti raccomandati: 2]]

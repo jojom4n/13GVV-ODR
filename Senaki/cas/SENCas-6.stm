@@ -1,0 +1,1144 @@
+staticTemplate = 
+{
+    ["coalition"] = 
+    {
+        ["neutrals"] = 
+        {
+            ["name"] = "neutrals",
+            ["country"] = 
+            {
+                [1] = 
+                {
+                    ["id"] = 70,
+                    ["name"] = "Algeria",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["id"] = 83,
+                    ["name"] = "Argentina",
+                }, -- end of [2]
+                [3] = 
+                {
+                    ["id"] = 21,
+                    ["name"] = "Australia",
+                }, -- end of [3]
+                [4] = 
+                {
+                    ["id"] = 23,
+                    ["name"] = "Austria",
+                }, -- end of [4]
+                [5] = 
+                {
+                    ["id"] = 65,
+                    ["name"] = "Bahrain",
+                }, -- end of [5]
+                [6] = 
+                {
+                    ["id"] = 24,
+                    ["name"] = "Belarus",
+                }, -- end of [6]
+                [7] = 
+                {
+                    ["id"] = 11,
+                    ["name"] = "Belgium",
+                }, -- end of [7]
+                [8] = 
+                {
+                    ["id"] = 86,
+                    ["name"] = "Bolivia",
+                }, -- end of [8]
+                [9] = 
+                {
+                    ["id"] = 64,
+                    ["name"] = "Brazil",
+                }, -- end of [9]
+                [10] = 
+                {
+                    ["id"] = 25,
+                    ["name"] = "Bulgaria",
+                }, -- end of [10]
+                [11] = 
+                {
+                    ["id"] = 8,
+                    ["name"] = "Canada",
+                }, -- end of [11]
+                [12] = 
+                {
+                    ["id"] = 63,
+                    ["name"] = "Chile",
+                }, -- end of [12]
+                [13] = 
+                {
+                    ["id"] = 27,
+                    ["name"] = "China",
+                }, -- end of [13]
+                [14] = 
+                {
+                    ["id"] = 80,
+                    ["name"] = "CJTF Blue",
+                }, -- end of [14]
+                [15] = 
+                {
+                    ["id"] = 81,
+                    ["name"] = "CJTF Red",
+                }, -- end of [15]
+                [16] = 
+                {
+                    ["id"] = 28,
+                    ["name"] = "Croatia",
+                }, -- end of [16]
+                [17] = 
+                {
+                    ["id"] = 76,
+                    ["name"] = "Cuba",
+                }, -- end of [17]
+                [18] = 
+                {
+                    ["id"] = 84,
+                    ["name"] = "Cyprus",
+                }, -- end of [18]
+                [19] = 
+                {
+                    ["id"] = 26,
+                    ["name"] = "Czech Republic",
+                }, -- end of [19]
+                [20] = 
+                {
+                    ["id"] = 13,
+                    ["name"] = "Denmark",
+                }, -- end of [20]
+                [21] = 
+                {
+                    ["id"] = 29,
+                    ["name"] = "Egypt",
+                }, -- end of [21]
+                [22] = 
+                {
+                    ["id"] = 62,
+                    ["name"] = "Ethiopia",
+                }, -- end of [22]
+                [23] = 
+                {
+                    ["id"] = 30,
+                    ["name"] = "Finland",
+                }, -- end of [23]
+                [24] = 
+                {
+                    ["id"] = 78,
+                    ["name"] = "GDR",
+                }, -- end of [24]
+                [25] = 
+                {
+                    ["id"] = 87,
+                    ["name"] = "Ghana",
+                }, -- end of [25]
+                [26] = 
+                {
+                    ["id"] = 31,
+                    ["name"] = "Greece",
+                }, -- end of [26]
+                [27] = 
+                {
+                    ["id"] = 61,
+                    ["name"] = "Honduras",
+                }, -- end of [27]
+                [28] = 
+                {
+                    ["id"] = 32,
+                    ["name"] = "Hungary",
+                }, -- end of [28]
+                [29] = 
+                {
+                    ["id"] = 33,
+                    ["name"] = "India",
+                }, -- end of [29]
+                [30] = 
+                {
+                    ["id"] = 60,
+                    ["name"] = "Indonesia",
+                }, -- end of [30]
+                [31] = 
+                {
+                    ["id"] = 17,
+                    ["name"] = "Insurgents",
+                }, -- end of [31]
+                [32] = 
+                {
+                    ["id"] = 34,
+                    ["name"] = "Iran",
+                }, -- end of [32]
+                [33] = 
+                {
+                    ["id"] = 35,
+                    ["name"] = "Iraq",
+                }, -- end of [33]
+                [34] = 
+                {
+                    ["id"] = 15,
+                    ["name"] = "Israel",
+                }, -- end of [34]
+                [35] = 
+                {
+                    ["id"] = 69,
+                    ["name"] = "Italian Social Republic",
+                }, -- end of [35]
+                [36] = 
+                {
+                    ["id"] = 36,
+                    ["name"] = "Japan",
+                }, -- end of [36]
+                [37] = 
+                {
+                    ["id"] = 59,
+                    ["name"] = "Jordan",
+                }, -- end of [37]
+                [38] = 
+                {
+                    ["id"] = 37,
+                    ["name"] = "Kazakhstan",
+                }, -- end of [38]
+                [39] = 
+                {
+                    ["id"] = 71,
+                    ["name"] = "Kuwait",
+                }, -- end of [39]
+                [40] = 
+                {
+                    ["id"] = 79,
+                    ["name"] = "Lebanon",
+                }, -- end of [40]
+                [41] = 
+                {
+                    ["id"] = 58,
+                    ["name"] = "Libya",
+                }, -- end of [41]
+                [42] = 
+                {
+                    ["id"] = 57,
+                    ["name"] = "Malaysia",
+                }, -- end of [42]
+                [43] = 
+                {
+                    ["id"] = 56,
+                    ["name"] = "Mexico",
+                }, -- end of [43]
+                [44] = 
+                {
+                    ["id"] = 55,
+                    ["name"] = "Morocco",
+                }, -- end of [44]
+                [45] = 
+                {
+                    ["id"] = 88,
+                    ["name"] = "Nigeria",
+                }, -- end of [45]
+                [46] = 
+                {
+                    ["id"] = 38,
+                    ["name"] = "North Korea",
+                }, -- end of [46]
+                [47] = 
+                {
+                    ["id"] = 12,
+                    ["name"] = "Norway",
+                }, -- end of [47]
+                [48] = 
+                {
+                    ["id"] = 73,
+                    ["name"] = "Oman",
+                }, -- end of [48]
+                [49] = 
+                {
+                    ["id"] = 39,
+                    ["name"] = "Pakistan",
+                }, -- end of [49]
+                [50] = 
+                {
+                    ["id"] = 89,
+                    ["name"] = "Peru",
+                }, -- end of [50]
+                [51] = 
+                {
+                    ["id"] = 54,
+                    ["name"] = "Philippines",
+                }, -- end of [51]
+                [52] = 
+                {
+                    ["id"] = 40,
+                    ["name"] = "Poland",
+                }, -- end of [52]
+                [53] = 
+                {
+                    ["id"] = 77,
+                    ["name"] = "Portugal",
+                }, -- end of [53]
+                [54] = 
+                {
+                    ["id"] = 72,
+                    ["name"] = "Qatar",
+                }, -- end of [54]
+                [55] = 
+                {
+                    ["id"] = 41,
+                    ["name"] = "Romania",
+                }, -- end of [55]
+                [56] = 
+                {
+                    ["id"] = 42,
+                    ["name"] = "Saudi Arabia",
+                }, -- end of [56]
+                [57] = 
+                {
+                    ["id"] = 43,
+                    ["name"] = "Serbia",
+                }, -- end of [57]
+                [58] = 
+                {
+                    ["id"] = 44,
+                    ["name"] = "Slovakia",
+                }, -- end of [58]
+                [59] = 
+                {
+                    ["id"] = 85,
+                    ["name"] = "Slovenia",
+                }, -- end of [59]
+                [60] = 
+                {
+                    ["id"] = 75,
+                    ["name"] = "South Africa",
+                }, -- end of [60]
+                [61] = 
+                {
+                    ["id"] = 45,
+                    ["name"] = "South Korea",
+                }, -- end of [61]
+                [62] = 
+                {
+                    ["id"] = 9,
+                    ["name"] = "Spain",
+                }, -- end of [62]
+                [63] = 
+                {
+                    ["id"] = 53,
+                    ["name"] = "Sudan",
+                }, -- end of [63]
+                [64] = 
+                {
+                    ["id"] = 46,
+                    ["name"] = "Sweden",
+                }, -- end of [64]
+                [65] = 
+                {
+                    ["id"] = 22,
+                    ["name"] = "Switzerland",
+                }, -- end of [65]
+                [66] = 
+                {
+                    ["id"] = 47,
+                    ["name"] = "Syria",
+                }, -- end of [66]
+                [67] = 
+                {
+                    ["id"] = 52,
+                    ["name"] = "Thailand",
+                }, -- end of [67]
+                [68] = 
+                {
+                    ["id"] = 10,
+                    ["name"] = "The Netherlands",
+                }, -- end of [68]
+                [69] = 
+                {
+                    ["id"] = 66,
+                    ["name"] = "Third Reich",
+                }, -- end of [69]
+                [70] = 
+                {
+                    ["id"] = 51,
+                    ["name"] = "Tunisia",
+                }, -- end of [70]
+                [71] = 
+                {
+                    ["id"] = 3,
+                    ["name"] = "Turkey",
+                }, -- end of [71]
+                [72] = 
+                {
+                    ["id"] = 1,
+                    ["name"] = "Ukraine",
+                }, -- end of [72]
+                [73] = 
+                {
+                    ["id"] = 74,
+                    ["name"] = "United Arab Emirates",
+                }, -- end of [73]
+                [74] = 
+                {
+                    ["id"] = 82,
+                    ["name"] = "UN",
+                }, -- end of [74]
+                [75] = 
+                {
+                    ["id"] = 7,
+                    ["name"] = "USAF Aggressors",
+                }, -- end of [75]
+                [76] = 
+                {
+                    ["id"] = 68,
+                    ["name"] = "USSR",
+                }, -- end of [76]
+                [77] = 
+                {
+                    ["id"] = 50,
+                    ["name"] = "Venezuela",
+                }, -- end of [77]
+                [78] = 
+                {
+                    ["id"] = 49,
+                    ["name"] = "Vietnam",
+                }, -- end of [78]
+                [79] = 
+                {
+                    ["id"] = 48,
+                    ["name"] = "Yemen",
+                }, -- end of [79]
+                [80] = 
+                {
+                    ["id"] = 67,
+                    ["name"] = "Yugoslavia",
+                }, -- end of [80]
+            }, -- end of ["country"]
+        }, -- end of ["neutrals"]
+        ["blue"] = 
+        {
+            ["name"] = "blue",
+            ["country"] = 
+            {
+                [1] = 
+                {
+                    ["id"] = 5,
+                    ["name"] = "France",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["id"] = 16,
+                    ["name"] = "Georgia",
+                }, -- end of [2]
+                [3] = 
+                {
+                    ["id"] = 6,
+                    ["name"] = "Germany",
+                }, -- end of [3]
+                [4] = 
+                {
+                    ["id"] = 20,
+                    ["name"] = "Italy",
+                }, -- end of [4]
+                [5] = 
+                {
+                    ["id"] = 4,
+                    ["name"] = "UK",
+                }, -- end of [5]
+                [6] = 
+                {
+                    ["id"] = 2,
+                    ["name"] = "USA",
+                }, -- end of [6]
+            }, -- end of ["country"]
+        }, -- end of ["blue"]
+        ["red"] = 
+        {
+            ["name"] = "red",
+            ["country"] = 
+            {
+                [1] = 
+                {
+                    ["name"] = "Russia",
+                    ["id"] = 0,
+                    ["static"] = 
+                    {
+                        ["group"] = 
+                        {
+                            [1] = 
+                            {
+                                ["heading"] = 0.90757121103705,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = 653594.77203835,
+                                            ["speed"] = 0,
+                                            ["x"] = -283173.74637119,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 2,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["category"] = "Warehouses",
+                                        ["shape_name"] = "sklad",
+                                        ["type"] = "Warehouse",
+                                        ["unitId"] = 6,
+                                        ["rate"] = 100,
+                                        ["y"] = 653594.77203835,
+                                        ["x"] = -283173.74637119,
+                                        ["name"] = "SENCas-6 #002",
+                                        ["heading"] = 0.90757121103705,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = 653594.77203835,
+                                ["x"] = -283173.74637119,
+                                ["name"] = "SENCas-6 #002",
+                                ["dead"] = false,
+                            }, -- end of [1]
+                            [2] = 
+                            {
+                                ["heading"] = 0.015840105828909,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = 653108.45724389,
+                                            ["speed"] = 0,
+                                            ["x"] = -283415.47052396,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 4,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["effectPreset"] = 1,
+                                        ["category"] = "Effects",
+                                        ["type"] = "big_smoke",
+                                        ["unitId"] = 8,
+                                        ["y"] = 653108.45724389,
+                                        ["x"] = -283415.47052396,
+                                        ["name"] = "SENCas-6 #003-1-1",
+                                        ["effectTransparency"] = 1,
+                                        ["heading"] = 0.015840105828909,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = 653108.45724389,
+                                ["x"] = -283415.47052396,
+                                ["name"] = "SENCas-6 #003-1",
+                                ["dead"] = false,
+                            }, -- end of [2]
+                            [3] = 
+                            {
+                                ["heading"] = 0.015840105828909,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = 653251.52046056,
+                                            ["speed"] = 0,
+                                            ["x"] = -283386.12773836,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 5,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["effectPreset"] = 1,
+                                        ["category"] = "Effects",
+                                        ["type"] = "big_smoke",
+                                        ["unitId"] = 9,
+                                        ["y"] = 653251.52046056,
+                                        ["x"] = -283386.12773836,
+                                        ["name"] = "SENCas-6 #003-2-1",
+                                        ["effectTransparency"] = 1,
+                                        ["heading"] = 0.015840105828909,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = 653251.52046056,
+                                ["x"] = -283386.12773836,
+                                ["name"] = "SENCas-6 #003-2",
+                                ["dead"] = false,
+                            }, -- end of [3]
+                            [4] = 
+                            {
+                                ["heading"] = 0.015840105828909,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = 652739.4534021,
+                                            ["speed"] = 0,
+                                            ["x"] = -283181.52268425,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 6,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["effectPreset"] = 1,
+                                        ["category"] = "Effects",
+                                        ["type"] = "big_smoke",
+                                        ["unitId"] = 10,
+                                        ["y"] = 652739.4534021,
+                                        ["x"] = -283181.52268425,
+                                        ["name"] = "SENCas-6 #003-3-1",
+                                        ["effectTransparency"] = 1,
+                                        ["heading"] = 0.015840105828909,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = 652739.4534021,
+                                ["x"] = -283181.52268425,
+                                ["name"] = "SENCas-6 #003-3",
+                                ["dead"] = false,
+                            }, -- end of [4]
+                            [5] = 
+                            {
+                                ["heading"] = 0.015840105828909,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = 652595.87285369,
+                                            ["speed"] = 0,
+                                            ["x"] = -283193.11515911,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 8,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["effectPreset"] = 5,
+                                        ["category"] = "Effects",
+                                        ["type"] = "big_smoke",
+                                        ["unitId"] = 12,
+                                        ["y"] = 652595.87285369,
+                                        ["x"] = -283193.11515911,
+                                        ["name"] = "SENCas-6 #003-5-1",
+                                        ["effectTransparency"] = 1,
+                                        ["heading"] = 0.015840105828909,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = 652595.87285369,
+                                ["x"] = -283193.11515911,
+                                ["name"] = "SENCas-6 #003-5",
+                                ["dead"] = false,
+                            }, -- end of [5]
+                            [6] = 
+                            {
+                                ["heading"] = 0.015840105828909,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = 652672.7321699,
+                                            ["speed"] = 0,
+                                            ["x"] = -283465.09985506,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 9,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["effectPreset"] = 1,
+                                        ["category"] = "Effects",
+                                        ["type"] = "big_smoke",
+                                        ["unitId"] = 13,
+                                        ["y"] = 652672.7321699,
+                                        ["x"] = -283465.09985506,
+                                        ["name"] = "SENCas-6 #003-6-1",
+                                        ["effectTransparency"] = 1,
+                                        ["heading"] = 0.015840105828909,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = 652672.7321699,
+                                ["x"] = -283465.09985506,
+                                ["name"] = "SENCas-6 #003-6",
+                                ["dead"] = false,
+                            }, -- end of [6]
+                            [7] = 
+                            {
+                                ["heading"] = 0.015840105828909,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = 653099.44004727,
+                                            ["speed"] = 0,
+                                            ["x"] = -283623.44687895,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 10,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["effectPreset"] = 5,
+                                        ["category"] = "Effects",
+                                        ["type"] = "big_smoke",
+                                        ["unitId"] = 14,
+                                        ["y"] = 653099.44004727,
+                                        ["x"] = -283623.44687895,
+                                        ["name"] = "SENCas-6 #003-7-1",
+                                        ["effectTransparency"] = 1,
+                                        ["heading"] = 0.015840105828909,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = 653099.44004727,
+                                ["x"] = -283623.44687895,
+                                ["name"] = "SENCas-6 #003-7",
+                                ["dead"] = false,
+                            }, -- end of [7]
+                        }, -- end of ["group"]
+                    }, -- end of ["static"]
+                    ["vehicle"] = 
+                    {
+                        ["group"] = 
+                        {
+                            [1] = 
+                            {
+                                ["visible"] = false,
+                                ["tasks"] = 
+                                {
+                                }, -- end of ["tasks"]
+                                ["uncontrollable"] = false,
+								["hiddenOnMFD"] = true,
+                                ["task"] = "Ground Nothing",
+                                ["taskSelected"] = true,
+                                ["route"] = 
+                                {
+                                    ["spans"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            [1] = 
+                                            {
+                                                ["y"] = 652627.11788724,
+                                                ["x"] = -282130.05408393,
+                                            }, -- end of [1]
+                                            [2] = 
+                                            {
+                                                ["y"] = 652658.47835985,
+                                                ["x"] = -282271.608051,
+                                            }, -- end of [2]
+                                            [3] = 
+                                            {
+                                                ["y"] = 652674.47050195,
+                                                ["x"] = -282329.43167826,
+                                            }, -- end of [3]
+                                            [4] = 
+                                            {
+                                                ["y"] = 652688.59979013,
+                                                ["x"] = -282372.15110427,
+                                            }, -- end of [4]
+                                            [5] = 
+                                            {
+                                                ["y"] = 652703.10451501,
+                                                ["x"] = -282409.42347531,
+                                            }, -- end of [5]
+                                            [6] = 
+                                            {
+                                                ["y"] = 652719.58331176,
+                                                ["x"] = -282445.86610991,
+                                            }, -- end of [6]
+                                            [7] = 
+                                            {
+                                                ["y"] = 652737.99099316,
+                                                ["x"] = -282481.37350115,
+                                            }, -- end of [7]
+                                            [8] = 
+                                            {
+                                                ["y"] = 652758.27428585,
+                                                ["x"] = -282515.8438446,
+                                            }, -- end of [8]
+                                            [9] = 
+                                            {
+                                                ["y"] = 652777.51956775,
+                                                ["x"] = -282545.07382296,
+                                            }, -- end of [9]
+                                            [10] = 
+                                            {
+                                                ["y"] = 652801.17048938,
+                                                ["x"] = -282577.32672368,
+                                            }, -- end of [10]
+                                            [11] = 
+                                            {
+                                                ["y"] = 652826.51502163,
+                                                ["x"] = -282608.26655607,
+                                            }, -- end of [11]
+                                            [12] = 
+                                            {
+                                                ["y"] = 652853.47728217,
+                                                ["x"] = -282637.80729257,
+                                            }, -- end of [12]
+                                            [13] = 
+                                            {
+                                                ["y"] = 652881.98269511,
+                                                ["x"] = -282665.86182977,
+                                            }, -- end of [13]
+                                            [14] = 
+                                            {
+                                                ["y"] = 652911.95255086,
+                                                ["x"] = -282692.34624954,
+                                            }, -- end of [14]
+                                            [15] = 
+                                            {
+                                                ["y"] = 652943.29722937,
+                                                ["x"] = -282717.18833789,
+                                            }, -- end of [15]
+                                            [16] = 
+                                            {
+                                                ["y"] = 652975.92654654,
+                                                ["x"] = -282740.31720853,
+                                            }, -- end of [16]
+                                            [17] = 
+                                            {
+                                                ["y"] = 653009.75070817,
+                                                ["x"] = -282761.66054834,
+                                            }, -- end of [17]
+                                            [18] = 
+                                            {
+                                                ["y"] = 653044.64166999,
+                                                ["x"] = -282781.21311,
+                                            }, -- end of [18]
+                                            [19] = 
+                                            {
+                                                ["y"] = 653089.40053891,
+                                                ["x"] = -282803.48757046,
+                                            }, -- end of [19]
+                                            [20] = 
+                                            {
+                                                ["y"] = 653153.49829343,
+                                                ["x"] = -282831.60390978,
+                                            }, -- end of [20]
+                                            [21] = 
+                                            {
+                                                ["y"] = 653629.07337892,
+                                                ["x"] = -283015.65699711,
+                                            }, -- end of [21]
+                                            [22] = 
+                                            {
+                                                ["y"] = 653642.43378162,
+                                                ["x"] = -283022.47079868,
+                                            }, -- end of [22]
+                                            [23] = 
+                                            {
+                                                ["y"] = 653651.0295017,
+                                                ["x"] = -283027.5775749,
+                                            }, -- end of [23]
+                                            [24] = 
+                                            {
+                                                ["y"] = 653659.22874626,
+                                                ["x"] = -283033.2975562,
+                                            }, -- end of [24]
+                                            [25] = 
+                                            {
+                                                ["y"] = 653663.11810569,
+                                                ["x"] = -283036.43868818,
+                                            }, -- end of [25]
+                                            [26] = 
+                                            {
+                                                ["y"] = 653670.50825848,
+                                                ["x"] = -283043.17411736,
+                                            }, -- end of [26]
+                                            [27] = 
+                                            {
+                                                ["y"] = 653677.39205631,
+                                                ["x"] = -283050.4221424,
+                                            }, -- end of [27]
+                                            [28] = 
+                                            {
+                                                ["y"] = 653683.62253153,
+                                                ["x"] = -283058.2404256,
+                                            }, -- end of [28]
+                                            [29] = 
+                                            {
+                                                ["y"] = 653689.17961969,
+                                                ["x"] = -283066.55070685,
+                                            }, -- end of [29]
+                                            [30] = 
+                                            {
+                                                ["y"] = 653693.99461664,
+                                                ["x"] = -283075.31081152,
+                                            }, -- end of [30]
+                                            [31] = 
+                                            {
+                                                ["y"] = 653698.1807714,
+                                                ["x"] = -283084.39122289,
+                                            }, -- end of [31]
+                                            [32] = 
+                                            {
+                                                ["y"] = 653699.97686867,
+                                                ["x"] = -283089.05691788,
+                                            }, -- end of [32]
+                                            [33] = 
+                                            {
+                                                ["y"] = 653702.93324826,
+                                                ["x"] = -283098.60715222,
+                                            }, -- end of [33]
+                                            [34] = 
+                                            {
+                                                ["y"] = 653705.2041333,
+                                                ["x"] = -283108.34424703,
+                                            }, -- end of [34]
+                                            [35] = 
+                                            {
+                                                ["y"] = 653707.69737287,
+                                                ["x"] = -283123.13334007,
+                                            }, -- end of [35]
+                                            [36] = 
+                                            {
+                                                ["y"] = 653710.98829917,
+                                                ["x"] = -283152.94921563,
+                                            }, -- end of [36]
+                                            [37] = 
+                                            {
+                                                ["y"] = 653723.34265744,
+                                                ["x"] = -283317.47070703,
+                                            }, -- end of [37]
+                                            [38] = 
+                                            {
+                                                ["y"] = 653723.35340087,
+                                                ["x"] = -283317.54336656,
+                                            }, -- end of [38]
+                                        }, -- end of [1]
+                                        [2] = 
+                                        {
+                                            [1] = 
+                                            {
+                                                ["y"] = 653752.78092863,
+                                                ["x"] = -283380.81839698,
+                                            }, -- end of [1]
+                                            [2] = 
+                                            {
+                                                ["y"] = 653752.78092863,
+                                                ["x"] = -283380.81839698,
+                                            }, -- end of [2]
+                                        }, -- end of [2]
+                                    }, -- end of ["spans"]
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 24,
+                                            ["type"] = "Turning Point",
+                                            ["ETA"] = 0,
+                                            ["alt_type"] = "BARO",
+                                            ["formation_template"] = "",
+                                            ["y"] = 652628.59967513,
+                                            ["x"] = -282129.75505633,
+                                            ["ETA_locked"] = true,
+                                            ["speed"] = 0,
+                                            ["action"] = "On Road",
+                                            ["task"] = 
+                                            {
+                                                ["id"] = "ComboTask",
+                                                ["params"] = 
+                                                {
+                                                    ["tasks"] = 
+                                                    {
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["speed_locked"] = true,
+                                        }, -- end of [1]
+                                        [2] = 
+                                        {
+                                            ["alt"] = 24,
+                                            ["type"] = "Turning Point",
+                                            ["ETA"] = 318.57711241547,
+                                            ["alt_type"] = "BARO",
+                                            ["formation_template"] = "",
+                                            ["y"] = 653724.84511945,
+                                            ["x"] = -283317.33884248,
+                                            ["ETA_locked"] = false,
+                                            ["speed"] = 5.5555555555556,
+                                            ["action"] = "On Road",
+                                            ["task"] = 
+                                            {
+                                                ["id"] = "ComboTask",
+                                                ["params"] = 
+                                                {
+                                                    ["tasks"] = 
+                                                    {
+                                                        [1] = 
+                                                        {
+                                                            ["number"] = 1,
+                                                            ["auto"] = false,
+                                                            ["id"] = "FireAtPoint",
+                                                            ["enabled"] = true,
+                                                            ["params"] = 
+                                                            {
+                                                                ["y"] = 652890.40837209,
+                                                                ["expendQtyEnabled"] = false,
+                                                                ["expendQty"] = 1,
+                                                                ["alt_type"] = 1,
+                                                                ["x"] = -283295.91926888,
+                                                                ["templateId"] = "",
+                                                                ["weaponType"] = 1073741822,
+                                                                ["zoneRadius"] = 457.2,
+                                                            }, -- end of ["params"]
+                                                        }, -- end of [1]
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["speed_locked"] = true,
+                                        }, -- end of [2]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 1,
+                                ["hidden"] = false,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["type"] = "Osa 9A33 ln",
+                                        ["unitId"] = 1,
+                                        ["skill"] = "Excellent",
+                                        ["y"] = 652628.59967513,
+                                        ["x"] = -282129.75505633,
+                                        ["name"] = "PRIMARY DESTROYED SENCas-6 #001-1",
+                                        ["heading"] = 2.933995873357,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [1]
+                                    [2] = 
+                                    {
+                                        ["type"] = "Ural-375",
+                                        ["unitId"] = 2,
+                                        ["skill"] = "Excellent",
+                                        ["y"] = 652622.72090712,
+                                        ["x"] = -282100.33881295,
+                                        ["name"] = "PRIMARY DESTROYED SENCas-6 #001-2",
+                                        ["heading"] = 2.9443435589909,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [2]
+                                    [3] = 
+                                    {
+                                        ["type"] = "SAU Gvozdika",
+                                        ["unitId"] = 3,
+                                        ["skill"] = "Excellent",
+                                        ["y"] = 652616.91069098,
+                                        ["x"] = -282070.90694917,
+                                        ["name"] = "PRIMARY DESTROYED SENCas-6 #001-3",
+                                        ["heading"] = 2.9466863625153,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [3]
+                                    [4] = 
+                                    {
+                                        ["type"] = "SAU Gvozdika",
+                                        ["unitId"] = 4,
+                                        ["skill"] = "Excellent",
+                                        ["y"] = 652611.11592141,
+                                        ["x"] = -282041.47192978,
+                                        ["name"] = "PRIMARY DESTROYED SENCas-6 #001-4",
+                                        ["heading"] = 2.9472118714309,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [4]
+                                    [5] = 
+                                    {
+                                        ["type"] = "Ural-375",
+                                        ["unitId"] = 5,
+                                        ["skill"] = "Excellent",
+                                        ["y"] = 652605.32208933,
+                                        ["x"] = -282012.03672074,
+                                        ["name"] = "PRIMARY DESTROYED SENCas-6 #001-5",
+                                        ["heading"] = 2.9472437537486,
+                                        ["playerCanDrive"] = false,
+                                    }, -- end of [5]
+                                }, -- end of ["units"]
+                                ["y"] = 652628.59967513,
+                                ["x"] = -282129.75505633,
+                                ["name"] = "SENCas-6 #001",
+                                ["start_time"] = 0,
+                            }, -- end of [1]
+                        }, -- end of ["group"]
+                    }, -- end of ["vehicle"]
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["id"] = 18,
+                    ["name"] = "Abkhazia",
+                }, -- end of [2]
+                [3] = 
+                {
+                    ["id"] = 19,
+                    ["name"] = "South Ossetia",
+                }, -- end of [3]
+            }, -- end of ["country"]
+        }, -- end of ["red"]
+    }, -- end of ["coalition"]
+    ["name"] = "SENCas-6",
+    ["requiredModules"] = 
+    {
+    }, -- end of ["requiredModules"]
+    ["localization"] = 
+    {
+        ["DEFAULT"] = 
+        {
+            ["DictKey_descriptionNeutralsTask_4"] = "",
+            ["DictKey_sortie_5"] = "",
+            ["DictKey_descriptionText_1"] = "",
+            ["DictKey_descriptionBlueTask_3"] = "",
+            ["DictKey_descriptionRedTask_2"] = "",
+        }, -- end of ["DEFAULT"]
+    }, -- end of ["localization"]
+    ["theatre"] = "Caucasus",
+    ["desc"] = "",
+} -- end of staticTemplate

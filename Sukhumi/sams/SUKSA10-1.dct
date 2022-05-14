@@ -1,3 +1,15 @@
 objtype = "sam"
-intel = 4
+intel = 3
 cost = 3
+desc = [[Immagini satellitari segnalano una postazione SA-10 a difesa della base aerea di Sukhumi-Babushara.
+
+Obiettivo primario: Distruggere il radar di tracciamento FLAP LID.
+
+Obiettivo secondario: Distruggere i lanciatori e i radar di ricerca BIG BIRD e CLAM SHELL.
+
+Codice HARM:
+- SA-10 Flap Lid TR: 110
+- SA-10 Clam Shell SR: 103
+- SA-10 Big Bird SR: 104
+
+Piloti raccomandati: 3]]

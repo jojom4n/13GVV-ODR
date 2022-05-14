@@ -573,11 +573,5 @@ staticTemplate =
         }, -- end of ["DEFAULT"]
     }, -- end of ["localization"]
     ["theatre"] = "Caucasus",
-    ["desc"] = "Immagini satellitari ci hanno confermato che il nemico conserva sostanze chimiche, estremamente pericolose, in un paio di grandi serbatoi situati nei pressi della base aerea di Sukhumi-Babushara.\
-\
-Obiettivo primario: Distruggere i serbatoi chimici.\
-\
-Obiettivo secondario: N/A.\
-\
-Piloti raccomandati: 2",
+    ["desc"] = "",
 } -- end of staticTemplate

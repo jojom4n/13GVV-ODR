@@ -1089,11 +1089,5 @@ staticTemplate =
         }, -- end of ["DEFAULT"]
     }, -- end of ["localization"]
     ["theatre"] = "Caucasus",
-    ["desc"] = "Nella cittadina di Tskaltsminda, non lontana dalla base aerea di Senaki-Kolkhi, è in corso un rastrellamento di ostaggi civili da parte delle truppe nemiche. È assolutamente prioritario impedire il protrarsi di questa barbarie e proteggere la popolazione locale.\
-\
-Obiettivo primario: Uccidere le truppe nemiche.\
-\
-Obiettivo secondario: N/A.\
-\
-Piloti raccomandati: 2",
+    ["desc"] = "",
 } -- end of staticTemplate

@@ -1,6 +1,6 @@
 objtype = "airbase"
 name = "FARP Berlin"
-coalition = 2
+coalition = 1
 capturable = true
 subordinates = {
 	"4th",
@@ -10,3 +10,4 @@ desc = "FARP Berlin"
 recoverytype = "land"
 takeofftype = "parking"
 spawnalways = true
+cost = 0

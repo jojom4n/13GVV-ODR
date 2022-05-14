@@ -532,11 +532,5 @@ staticTemplate =
         }, -- end of ["DEFAULT"]
     }, -- end of ["localization"]
     ["theatre"] = "Caucasus",
-     ["desc"] = "Immagini satellitari ci hanno consentito di individuare una torre di comunicazioni nemica a nord-est della base aerea di Sukhumi-Babushara. Colpendo la torre, potremmo indebolire le capacità difensive del nemico.\
-\
-Obiettivo primario: Distruggere la torre di comunicazioni.\
-\
-Obiettivo secondario: N/A.\
-\
-Piloti raccomandati: 2",
+     ["desc"] = "",
 } -- end of staticTemplate

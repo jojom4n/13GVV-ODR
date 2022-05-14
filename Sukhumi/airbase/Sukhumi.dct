@@ -1,6 +1,7 @@
 objtype = "airbase"
 name = "Sukhumi-Babushara"
 coalition = 1
+capturable = true
 subordinates = {
 	"3rd",
 	"357th",
@@ -9,4 +10,4 @@ subordinates = {
 desc = "Sukhumi-Babushara"
 recoverytype = "land"
 takeofftype = "runway"
-cost = 20
+cost = 0

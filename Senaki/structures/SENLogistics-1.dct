@@ -1,6 +1,6 @@
 objtype = "facility"
 intel = 5
-cost = 4
+cost = 1
 name = "SENLogistics-1"
 coalition = 1
 tpldata = {}
@@ -11,10 +11,8 @@ buildings = {
 		["id"]   = 77333317,
 	},
 }
-desc = "Abbiamo individuato un edificio che viene utilizzato dal nemico come centro di supporto logistico, nei pressi di Senaki-Kolkhi. Riteniamo utile la distruzione dello stabile, al fine di fiaccare le difese nemiche.\
-\
-Obiettivo primario: Distruggere la struttura.\
-\
-Obiettivo secondario: N/A.\
-\
-Piloti raccomandati: 2"
+desc = [[Abbiamo individuato un edificio che viene utilizzato dal nemico come centro di supporto logistico, nei pressi di Senaki-Kolkhi. Riteniamo utile la distruzione dello stabile, al fine di fiaccare le difese nemiche.
+
+Obiettivo primario: Distruggere la struttura.
+
+Piloti raccomandati: 2]]

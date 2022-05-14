@@ -1,0 +1,10 @@
+objtype = "frontline"
+intel = 3
+cost = 2
+coalition = 1
+ondemand = true
+desc = [[Un convoglio alleato si è imbattuto in un checkpoint nemico nei pressi della cittadina di Zemo-Aketi, piuttosto a sud rispetto alla base aerea di Senaki-Kolkhi. È stata richiesta una CAS, al fine di liberare il checkpoint e mettere in sicurezza il transito alleato in zona.
+
+Obiettivo primario: Eliminare le forze nemiche.
+
+Piloti raccomandati: 2]]

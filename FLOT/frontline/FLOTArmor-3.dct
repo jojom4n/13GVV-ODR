@@ -1,4 +1,11 @@
 objtype = "frontline"
-intel = 4
+intel = 3
 cost = 6
 priority = 30
+desc = [[L'intelligence ha individuato la posizione di diversi carri armati nemici nei pressi della FLOT, protetti da SHORAD.
+
+Obiettivo primario: Distruggere i carri armati e le loro difese.
+
+Obiettivo secondario: N/A.
+
+Piloti raccomandati: 3]]

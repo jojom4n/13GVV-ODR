@@ -1,3 +1,13 @@
 objtype = "sam"
-intel = 4
+intel = 3
 cost = 3
+desc = [[Un reparto speciale di ricognizione ci ha comunicato la posizione di una postazione SA-6 nei pressi della base aerea di Senaki-Kolkhi.
+
+Obiettivo primario: Distruggere il radar di tracciamento STRAIGHT FLUSH.
+
+Obiettivo secondario: Distruggere tutti i lanciatori.
+
+Codici HARM:
+- SA-6 Straight Flush TR: 108
+
+Piloti raccomandati: 2]]

@@ -470,6 +470,7 @@ staticTemplate =
                                 {
                                 }, -- end of ["tasks"]
                                 ["uncontrollable"] = false,
+								["hiddenOnMFD"] = true,
                                 ["route"] = 
                                 {
                                     ["spans"] = 
@@ -563,7 +564,7 @@ staticTemplate =
                                         ["skill"] = "Excellent",
                                         ["y"] = 526830.92914364,
                                         ["x"] = -192846.80465898,
-                                        ["name"] = "SECONDARY DESTROYED GUDSA11 #003-2",
+                                        ["name"] = "GUDSA11 #003-2",
                                         ["heading"] = 2.6179938779915,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [2]
@@ -574,7 +575,7 @@ staticTemplate =
                                         ["skill"] = "Excellent",
                                         ["y"] = 526938.25070269,
                                         ["x"] = -193019.39718476,
-                                        ["name"] = "SECONDARY DESTROYED GUDSA11 #003-3",
+                                        ["name"] = "GUDSA11 #003-3",
                                         ["heading"] = 5.7421332390614,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [3]
@@ -585,7 +586,7 @@ staticTemplate =
                                         ["skill"] = "Excellent",
                                         ["y"] = 526972.86467056,
                                         ["x"] = -192875.68828972,
-                                        ["name"] = "SECONDARY DESTROYED GUDSA11 #003-4",
+                                        ["name"] = "GUDSA11 #003-4",
                                         ["heading"] = 4.2236967898263,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [4]
@@ -596,7 +597,7 @@ staticTemplate =
                                         ["skill"] = "Excellent",
                                         ["y"] = 526799.45798106,
                                         ["x"] = -192985.32195869,
-                                        ["name"] = "SECONDARY DESTROYED GUDSA11 #003-5",
+                                        ["name"] = "GUDSA11 #003-5",
                                         ["heading"] = 1.0471975511966,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [5]
@@ -716,6 +717,10 @@ staticTemplate =
 Obiettivo primario: Distruggere la postazione SA-11.\
 \
 Obiettivo secondario: N/A.\
+\
+Codice HARM:\
+- SA-11 Buk SR: 107\
+- SA-11 Buk LN: 111\
 \
 Piloti raccomandati: 3",
 } -- end of staticTemplate

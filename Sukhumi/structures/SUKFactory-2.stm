@@ -532,11 +532,5 @@ staticTemplate =
         }, -- end of ["DEFAULT"]
     }, -- end of ["localization"]
     ["theatre"] = "Caucasus",
-    ["desc"] = "Una ricognizione aerea ha segnalato la presenza di una fabbrica nemica a nord-est della base aerea di Sukhumi-Babushara. La distruzione della fabbrica potrebbe conferire un vantaggio strategico essenziale alle nostre truppe terrestri e tagliare le capacità di rifornimento del nemico.\
-\
-Obiettivo primario: Distruggere la fabbrica.\
-\
-Obiettivo secondario: N/A.\
-\
-Piloti raccomandati: 2",
+    ["desc"] = "",
 } -- end of staticTemplate

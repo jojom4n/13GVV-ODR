@@ -470,6 +470,7 @@ staticTemplate =
                                 {
                                 }, -- end of ["tasks"]
                                 ["uncontrollable"] = false,
+								["hiddenOnMFD"] = true,
                                 ["route"] = 
                                 {
                                     ["spans"] = 
@@ -711,11 +712,5 @@ staticTemplate =
         }, -- end of ["DEFAULT"]
     }, -- end of ["localization"]
     ["theatre"] = "Caucasus",
-    ["desc"] = "Rapporti di intelligence hanno segnalato una postazione SA-11 nei pressi della base aerea di Sukhumi-Babushara.\
-\
-Obiettivo primario: Distruggere la postazione SA-11.\
-\
-Obiettivo secondario: N/A.\
-\
-Piloti raccomandati: 3",
+    ["desc"] = "",
 } -- end of staticTemplate

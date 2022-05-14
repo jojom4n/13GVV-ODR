@@ -470,6 +470,7 @@ staticTemplate =
                                 {
                                 }, -- end of ["tasks"]
                                 ["uncontrollable"] = false,
+								["hiddenOnMFD"] = true,
                                 ["route"] = 
                                 {
                                     ["spans"] = 
@@ -563,7 +564,7 @@ staticTemplate =
                                         ["skill"] = "Excellent",
                                         ["y"] = 514364.44535433,
                                         ["x"] = -188839.44472058,
-                                        ["name"] = "SECONDARY DESTROYED GUDSA11 #001-2",
+                                        ["name"] = "GUDSA11 #001-2",
                                         ["heading"] = 2.6179938779915,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [2]
@@ -574,7 +575,7 @@ staticTemplate =
                                         ["skill"] = "Excellent",
                                         ["y"] = 514471.76691338,
                                         ["x"] = -189012.03724636,
-                                        ["name"] = "SECONDARY DESTROYED GUDSA11 #001-3",
+                                        ["name"] = "GUDSA11 #001-3",
                                         ["heading"] = 5.7421332390614,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [3]
@@ -585,7 +586,7 @@ staticTemplate =
                                         ["skill"] = "Excellent",
                                         ["y"] = 514506.38088125,
                                         ["x"] = -188868.32835132,
-                                        ["name"] = "SECONDARY DESTROYED GUDSA11 #001-4",
+                                        ["name"] = "GUDSA11 #001-4",
                                         ["heading"] = 4.2236967898263,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [4]
@@ -596,7 +597,7 @@ staticTemplate =
                                         ["skill"] = "Excellent",
                                         ["y"] = 514332.97419175,
                                         ["x"] = -188977.96202029,
-                                        ["name"] = "SECONDARY DESTROYED GUDSA11 #001-5",
+                                        ["name"] = "GUDSA11 #001-5",
                                         ["heading"] = 1.0471975511966,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [5]
@@ -684,7 +685,7 @@ staticTemplate =
                                         ["skill"] = "Excellent",
                                         ["y"] = 514349.73870661,
                                         ["x"] = -188564.53006584,
-                                        ["name"] = "SECONDARY DESTROYED GUDSA11 #001-13",
+                                        ["name"] = "GUDSA11 #001-13",
                                         ["heading"] = 4.5029494701454,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [13]
@@ -695,7 +696,7 @@ staticTemplate =
                                         ["skill"] = "Excellent",
                                         ["y"] = 514698.96275979,
                                         ["x"] = -189161.75380896,
-                                        ["name"] = "SECONDARY DESTROYED GUDSA11 #001-14",
+                                        ["name"] = "GUDSA11 #001-14",
                                         ["heading"] = 4.2062434973063,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [14]
@@ -760,6 +761,11 @@ staticTemplate =
 Obiettivo primario: Distruggere la postazione SA-11.\
 \
 Obiettivo secondario: Distruggere i SA-15.\
+\
+Codice HARM:\
+- SA-11 Buk SR: 107\
+- SA-11 Buk LN: 111\
+- SA-15 Tor: 119\
 \
 Piloti raccomandati: 4",
 } -- end of staticTemplate

@@ -8,3 +8,4 @@ subordinates = {
 desc = "FARP London"
 recoverytype = "land"
 takeofftype = "parking"
+cost = 10

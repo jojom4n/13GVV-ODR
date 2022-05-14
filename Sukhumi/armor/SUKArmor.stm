@@ -465,25 +465,13 @@ staticTemplate =
                                 {
                                 }, -- end of ["tasks"]
                                 ["uncontrollable"] = false,
+								["hiddenOnMFD"] = true,
                                 ["task"] = "Ground Nothing",
                                 ["taskSelected"] = true,
                                 ["route"] = 
                                 {
                                     ["spans"] = 
                                     {
-                                        [1] = 
-                                        {
-                                            [1] = 
-                                            {
-                                                ["y"] = 564607.3293525,
-                                                ["x"] = -219881.60248371,
-                                            }, -- end of [1]
-                                            [2] = 
-                                            {
-                                                ["y"] = 564589.87820798,
-                                                ["x"] = -220248.21036262,
-                                            }, -- end of [2]
-                                        }, -- end of [1]
                                     }, -- end of ["spans"]
                                     ["points"] = 
                                     {
@@ -494,8 +482,8 @@ staticTemplate =
                                             ["ETA"] = 0,
                                             ["alt_type"] = "BARO",
                                             ["formation_template"] = "",
-                                            ["y"] = 564634.57176542,
-                                            ["x"] = -219872.1457948,
+                                            ["y"] = 564915.88501379,
+                                            ["x"] = -220474.42502469,
                                             ["ETA_locked"] = true,
                                             ["speed"] = 0,
                                             ["action"] = "Off Road",
@@ -506,6 +494,25 @@ staticTemplate =
                                                 {
                                                     ["tasks"] = 
                                                     {
+                                                        [1] = 
+                                                        {
+                                                            ["number"] = 1,
+                                                            ["auto"] = false,
+                                                            ["id"] = "WrappedAction",
+                                                            ["enabled"] = true,
+                                                            ["params"] = 
+                                                            {
+                                                                ["action"] = 
+                                                                {
+                                                                    ["id"] = "Option",
+                                                                    ["params"] = 
+                                                                    {
+                                                                        ["name"] = 9,
+                                                                        ["value"] = 2,
+                                                                    }, -- end of ["params"]
+                                                                }, -- end of ["action"]
+                                                            }, -- end of ["params"]
+                                                        }, -- end of [1]
                                                     }, -- end of ["tasks"]
                                                 }, -- end of ["params"]
                                             }, -- end of ["task"]
@@ -513,359 +520,157 @@ staticTemplate =
                                         }, -- end of [1]
                                     }, -- end of ["points"]
                                 }, -- end of ["route"]
-                                ["groupId"] = 19,
+                                ["groupId"] = 1,
                                 ["hidden"] = false,
                                 ["units"] = 
                                 {
                                     [1] = 
                                     {
-                                        ["transportable"] = 
-                                        {
-                                            ["randomTransportable"] = false,
-                                        }, -- end of ["transportable"]
-                                        ["skill"] = "High",
-                                        ["type"] = "T-55",
-                                        ["unitId"] = 246,
-                                        ["y"] = 564634.57176542,
-                                        ["x"] = -219872.1457948,
-                                        ["name"] = "SUKArmor-1",
-                                        ["heading"] = 1.1344640137963,
-                                        ["playerCanDrive"] = true,
+                                        ["type"] = "ZU-23 Emplacement Closed",
+                                        ["unitId"] = 4,
+                                        ["skill"] = "Excellent",
+                                        ["y"] = 564915.88501379,
+                                        ["x"] = -220474.42502469,
+                                        ["name"] = "PRIMARY DESTROYED SUKArmor #001-1",
+                                        ["heading"] = 3.9793506945471,
+                                        ["playerCanDrive"] = false,
                                     }, -- end of [1]
                                     [2] = 
                                     {
-                                        ["transportable"] = 
-                                        {
-                                            ["randomTransportable"] = false,
-                                        }, -- end of ["transportable"]
-                                        ["skill"] = "High",
-                                        ["type"] = "T-55",
-                                        ["unitId"] = 247,
-                                        ["y"] = 563903.54739104,
-                                        ["x"] = -220000.18761979,
-                                        ["name"] = "SUKArmor-2",
-                                        ["heading"] = 4.5727626402251,
-                                        ["playerCanDrive"] = true,
+                                        ["type"] = "ZU-23 Emplacement Closed",
+                                        ["unitId"] = 2,
+                                        ["skill"] = "Excellent",
+                                        ["y"] = 565230.28903066,
+                                        ["x"] = -220889.84721264,
+                                        ["name"] = "PRIMARY DESTROYED SUKArmor #001-2",
+                                        ["heading"] = 3.9793506945471,
+                                        ["playerCanDrive"] = false,
                                     }, -- end of [2]
                                     [3] = 
                                     {
-                                        ["transportable"] = 
-                                        {
-                                            ["randomTransportable"] = false,
-                                        }, -- end of ["transportable"]
-                                        ["skill"] = "High",
-                                        ["type"] = "T-55",
-                                        ["unitId"] = 255,
-                                        ["y"] = 564720.46681253,
-                                        ["x"] = -220209.64185351,
-                                        ["name"] = "SUKArmor-3",
-                                        ["heading"] = 1.9198621771938,
-                                        ["playerCanDrive"] = true,
+                                        ["type"] = "ZU-23 Emplacement Closed",
+                                        ["unitId"] = 3,
+                                        ["skill"] = "Excellent",
+                                        ["y"] = 564159.61668785,
+                                        ["x"] = -220354.51104123,
+                                        ["name"] = "PRIMARY DESTROYED SUKArmor #001-3",
+                                        ["heading"] = 3.9793506945471,
+                                        ["playerCanDrive"] = false,
                                     }, -- end of [3]
                                     [4] = 
                                     {
-                                        ["transportable"] = 
-                                        {
-                                            ["randomTransportable"] = false,
-                                        }, -- end of ["transportable"]
-                                        ["skill"] = "High",
-                                        ["type"] = "T-55",
-                                        ["unitId"] = 248,
-                                        ["y"] = 562961.42588334,
-                                        ["x"] = -219750.30592957,
-                                        ["name"] = "SUKArmor-4",
-                                        ["heading"] = 0.087266462599716,
-                                        ["playerCanDrive"] = true,
+                                        ["type"] = "ZU-23 Emplacement Closed",
+                                        ["unitId"] = 5,
+                                        ["skill"] = "Excellent",
+                                        ["y"] = 563081.66085972,
+                                        ["x"] = -220063.17162822,
+                                        ["name"] = "PRIMARY DESTROYED SUKArmor #001-4",
+                                        ["heading"] = 3.9793506945471,
+                                        ["playerCanDrive"] = false,
                                     }, -- end of [4]
                                     [5] = 
                                     {
-                                        ["transportable"] = 
-                                        {
-                                            ["randomTransportable"] = false,
-                                        }, -- end of ["transportable"]
-                                        ["skill"] = "High",
-                                        ["type"] = "T-55",
-                                        ["unitId"] = 252,
-                                        ["y"] = 564849.04567834,
-                                        ["x"] = -220685.67387808,
-                                        ["name"] = "SUKArmor-5",
-                                        ["heading"] = 5.4977871437821,
-                                        ["playerCanDrive"] = true,
+                                        ["type"] = "ZU-23 Emplacement Closed",
+                                        ["unitId"] = 6,
+                                        ["skill"] = "Excellent",
+                                        ["y"] = 563697.1153697,
+                                        ["x"] = -220361.79452656,
+                                        ["name"] = "PRIMARY DESTROYED SUKArmor #001-5",
+                                        ["heading"] = 3.9793506945471,
+                                        ["playerCanDrive"] = false,
                                     }, -- end of [5]
                                     [6] = 
                                     {
-                                        ["transportable"] = 
-                                        {
-                                            ["randomTransportable"] = false,
-                                        }, -- end of ["transportable"]
-                                        ["skill"] = "High",
-                                        ["type"] = "T-55",
-                                        ["unitId"] = 256,
-                                        ["y"] = 564735.50658415,
-                                        ["x"] = -220897.43495033,
-                                        ["name"] = "SUKArmor-6",
-                                        ["heading"] = 4.8171087355043,
-                                        ["playerCanDrive"] = true,
+                                        ["type"] = "ZU-23 Emplacement Closed",
+                                        ["unitId"] = 1,
+                                        ["skill"] = "Excellent",
+                                        ["y"] = 563358.43330208,
+                                        ["x"] = -219633.44599404,
+                                        ["name"] = "PRIMARY DESTROYED SUKArmor #001-6",
+                                        ["heading"] = 3.9793506945471,
+                                        ["playerCanDrive"] = false,
                                     }, -- end of [6]
                                     [7] = 
                                     {
-                                        ["transportable"] = 
-                                        {
-                                            ["randomTransportable"] = false,
-                                        }, -- end of ["transportable"]
-                                        ["skill"] = "High",
-                                        ["type"] = "T-55",
-                                        ["unitId"] = 245,
-                                        ["y"] = 564293.10588716,
-                                        ["x"] = -220334.43644498,
-                                        ["name"] = "SUKArmor-7",
-                                        ["heading"] = 2.4260076602721,
-                                        ["playerCanDrive"] = true,
+                                        ["type"] = "ZU-23 Emplacement Closed",
+                                        ["unitId"] = 7,
+                                        ["skill"] = "Excellent",
+                                        ["y"] = 564630.18522662,
+                                        ["x"] = -220009.46109431,
+                                        ["name"] = "PRIMARY DESTROYED SUKArmor #001-7",
+                                        ["heading"] = 3.9793506945471,
+                                        ["playerCanDrive"] = false,
                                     }, -- end of [7]
                                     [8] = 
                                     {
-                                        ["transportable"] = 
-                                        {
-                                            ["randomTransportable"] = false,
-                                        }, -- end of ["transportable"]
-                                        ["skill"] = "High",
-                                        ["type"] = "T-55",
-                                        ["unitId"] = 249,
-                                        ["y"] = 563151.840665,
-                                        ["x"] = -219489.6584653,
-                                        ["name"] = "SUKArmor-8",
-                                        ["heading"] = 5.1836278784232,
-                                        ["playerCanDrive"] = true,
+                                        ["type"] = "Osa 9A33 ln",
+                                        ["unitId"] = 8,
+                                        ["skill"] = "Excellent",
+                                        ["y"] = 564308.92813702,
+                                        ["x"] = -219950.27760568,
+                                        ["name"] = "PRIMARY DESTROYED SUKArmor #001-8",
+                                        ["heading"] = 3.9793506945471,
+                                        ["playerCanDrive"] = false,
                                     }, -- end of [8]
                                     [9] = 
                                     {
-                                        ["transportable"] = 
-                                        {
-                                            ["randomTransportable"] = false,
-                                        }, -- end of ["transportable"]
-                                        ["skill"] = "High",
-                                        ["type"] = "T-55",
-                                        ["unitId"] = 251,
-                                        ["y"] = 565668.36622438,
-                                        ["x"] = -220815.32359527,
-                                        ["name"] = "SUKArmor-9",
-                                        ["heading"] = 1.4311699866353,
-                                        ["playerCanDrive"] = true,
+                                        ["type"] = "Osa 9A33 ln",
+                                        ["unitId"] = 9,
+                                        ["skill"] = "Excellent",
+                                        ["y"] = 564461.03460477,
+                                        ["x"] = -220403.61747874,
+                                        ["name"] = "PRIMARY DESTROYED SUKArmor #001-9",
+                                        ["heading"] = 3.9793506945471,
+                                        ["playerCanDrive"] = false,
                                     }, -- end of [9]
                                     [10] = 
                                     {
-                                        ["transportable"] = 
-                                        {
-                                            ["randomTransportable"] = false,
-                                        }, -- end of ["transportable"]
-                                        ["skill"] = "High",
-                                        ["type"] = "T-55",
-                                        ["unitId"] = 253,
-                                        ["y"] = 565443.3588875,
-                                        ["x"] = -221003.09116024,
-                                        ["name"] = "SUKArmor-10",
-                                        ["heading"] = 2.1816615649929,
-                                        ["playerCanDrive"] = true,
+                                        ["type"] = "Strela-1 9P31",
+                                        ["unitId"] = 10,
+                                        ["skill"] = "Excellent",
+                                        ["y"] = 563904.69470147,
+                                        ["x"] = -219993.97851763,
+                                        ["name"] = "PRIMARY DESTROYED SUKArmor #001-11",
+                                        ["heading"] = 3.9793506945471,
+                                        ["playerCanDrive"] = false,
                                     }, -- end of [10]
                                     [11] = 
                                     {
-                                        ["transportable"] = 
-                                        {
-                                            ["randomTransportable"] = false,
-                                        }, -- end of ["transportable"]
-                                        ["skill"] = "High",
-                                        ["type"] = "T-55",
-                                        ["unitId"] = 258,
-                                        ["y"] = 563975.37533112,
-                                        ["x"] = -220247.86454597,
-                                        ["name"] = "SUKArmor-11",
-                                        ["heading"] = 5.1836278784232,
-                                        ["playerCanDrive"] = true,
+                                        ["type"] = "Strela-1 9P31",
+                                        ["unitId"] = 11,
+                                        ["skill"] = "Excellent",
+                                        ["y"] = 562968.76683718,
+                                        ["x"] = -219749.98175924,
+                                        ["name"] = "PRIMARY DESTROYED SUKArmor #001-10",
+                                        ["heading"] = 3.9793506945471,
+                                        ["playerCanDrive"] = false,
                                     }, -- end of [11]
                                     [12] = 
                                     {
-                                        ["transportable"] = 
-                                        {
-                                            ["randomTransportable"] = false,
-                                        }, -- end of ["transportable"]
-                                        ["skill"] = "High",
-                                        ["type"] = "T-55",
-                                        ["unitId"] = 257,
-                                        ["y"] = 565972.139423,
-                                        ["x"] = -221031.48604886,
-                                        ["name"] = "SUKArmor-12",
-                                        ["heading"] = 5.1836278784232,
-                                        ["playerCanDrive"] = true,
+                                        ["type"] = "ZSU-23-4 Shilka",
+                                        ["unitId"] = 12,
+                                        ["skill"] = "Excellent",
+                                        ["y"] = 564319.85336501,
+                                        ["x"] = -220674.98439554,
+                                        ["name"] = "PRIMARY DESTROYED SUKArmor #001-12",
+                                        ["heading"] = 3.9793506945471,
+                                        ["playerCanDrive"] = false,
                                     }, -- end of [12]
                                     [13] = 
                                     {
-                                        ["transportable"] = 
-                                        {
-                                            ["randomTransportable"] = false,
-                                        }, -- end of ["transportable"]
-                                        ["skill"] = "High",
-                                        ["type"] = "T-55",
-                                        ["unitId"] = 244,
-                                        ["y"] = 565541.13501048,
-                                        ["x"] = -221290.08869637,
-                                        ["name"] = "SUKArmor-13",
-                                        ["heading"] = 5.1836278784232,
-                                        ["playerCanDrive"] = true,
+                                        ["type"] = "ZSU-23-4 Shilka",
+                                        ["unitId"] = 13,
+                                        ["skill"] = "Excellent",
+                                        ["y"] = 564842.56868177,
+                                        ["x"] = -220255.6512369,
+                                        ["name"] = "PRIMARY DESTROYED SUKArmor #001-13",
+                                        ["heading"] = 3.9793506945471,
+                                        ["playerCanDrive"] = false,
                                     }, -- end of [13]
-                                    [14] = 
-                                    {
-                                        ["transportable"] = 
-                                        {
-                                            ["randomTransportable"] = false,
-                                        }, -- end of ["transportable"]
-                                        ["skill"] = "High",
-                                        ["type"] = "T-55",
-                                        ["unitId"] = 254,
-                                        ["y"] = 563343.01250662,
-                                        ["x"] = -219637.06000835,
-                                        ["name"] = "SUKArmor-14",
-                                        ["heading"] = 5.1836278784232,
-                                        ["playerCanDrive"] = true,
-                                    }, -- end of [14]
-                                    [15] = 
-                                    {
-                                        ["transportable"] = 
-                                        {
-                                            ["randomTransportable"] = false,
-                                        }, -- end of ["transportable"]
-                                        ["skill"] = "High",
-                                        ["type"] = "T-55",
-                                        ["unitId"] = 250,
-                                        ["y"] = 563502.73767126,
-                                        ["x"] = -220270.89002676,
-                                        ["name"] = "SUKArmor-15",
-                                        ["heading"] = 5.1836278784232,
-                                        ["playerCanDrive"] = true,
-                                    }, -- end of [15]
-                                    [16] = 
-                                    {
-                                        ["transportable"] = 
-                                        {
-                                            ["randomTransportable"] = false,
-                                        }, -- end of ["transportable"]
-                                        ["skill"] = "High",
-                                        ["type"] = "Strela-10M3",
-                                        ["unitId"] = 259,
-                                        ["y"] = 564347.84920476,
-                                        ["x"] = -220016.0906916,
-                                        ["name"] = "SUKArmor-16",
-                                        ["heading"] = 2.0769418098733,
-                                        ["playerCanDrive"] = true,
-                                    }, -- end of [16]
-                                    [17] = 
-                                    {
-                                        ["transportable"] = 
-                                        {
-                                            ["randomTransportable"] = false,
-                                        }, -- end of ["transportable"]
-                                        ["skill"] = "High",
-                                        ["type"] = "Strela-10M3",
-                                        ["unitId"] = 260,
-                                        ["y"] = 563804.55431021,
-                                        ["x"] = -220420.603543,
-                                        ["name"] = "SUKArmor-17",
-                                        ["heading"] = 3.9269908169872,
-                                        ["playerCanDrive"] = true,
-                                    }, -- end of [17]
-                                    [18] = 
-                                    {
-                                        ["transportable"] = 
-                                        {
-                                            ["randomTransportable"] = false,
-                                        }, -- end of ["transportable"]
-                                        ["skill"] = "High",
-                                        ["type"] = "Strela-10M3",
-                                        ["unitId"] = 261,
-                                        ["y"] = 563682.31187009,
-                                        ["x"] = -219498.54628036,
-                                        ["name"] = "SUKArmor-18",
-                                        ["heading"] = 1.850049007114,
-                                        ["playerCanDrive"] = true,
-                                    }, -- end of [18]
-                                    [19] = 
-                                    {
-                                        ["transportable"] = 
-                                        {
-                                            ["randomTransportable"] = false,
-                                        }, -- end of ["transportable"]
-                                        ["skill"] = "High",
-                                        ["type"] = "Strela-10M3",
-                                        ["unitId"] = 262,
-                                        ["y"] = 565194.38642907,
-                                        ["x"] = -221098.29092138,
-                                        ["name"] = "SUKArmor-19",
-                                        ["heading"] = 2.7227136331112,
-                                        ["playerCanDrive"] = true,
-                                    }, -- end of [19]
-                                    [20] = 
-                                    {
-                                        ["transportable"] = 
-                                        {
-                                            ["randomTransportable"] = false,
-                                        }, -- end of ["transportable"]
-                                        ["skill"] = "High",
-                                        ["type"] = "2S6 Tunguska",
-                                        ["unitId"] = 263,
-                                        ["y"] = 562890.23615347,
-                                        ["x"] = -219957.17832727,
-                                        ["name"] = "SUKArmor-20",
-                                        ["heading"] = 4.1713369122664,
-                                        ["playerCanDrive"] = true,
-                                    }, -- end of [20]
-                                    [21] = 
-                                    {
-                                        ["transportable"] = 
-                                        {
-                                            ["randomTransportable"] = false,
-                                        }, -- end of ["transportable"]
-                                        ["skill"] = "High",
-                                        ["type"] = "2S6 Tunguska",
-                                        ["unitId"] = 264,
-                                        ["y"] = 565103.81681666,
-                                        ["x"] = -220427.5888253,
-                                        ["name"] = "SUKArmor-21",
-                                        ["heading"] = 1.832595714594,
-                                        ["playerCanDrive"] = true,
-                                    }, -- end of [21]
-                                    [22] = 
-                                    {
-                                        ["transportable"] = 
-                                        {
-                                            ["randomTransportable"] = false,
-                                        }, -- end of ["transportable"]
-                                        ["skill"] = "High",
-                                        ["type"] = "2S6 Tunguska",
-                                        ["unitId"] = 265,
-                                        ["y"] = 564489.1119749,
-                                        ["x"] = -220448.54467217,
-                                        ["name"] = "SUKArmor-22",
-                                        ["heading"] = 2.775073510671,
-                                        ["playerCanDrive"] = true,
-                                    }, -- end of [22]
-                                    [23] = 
-                                    {
-                                        ["transportable"] = 
-                                        {
-                                            ["randomTransportable"] = false,
-                                        }, -- end of ["transportable"]
-                                        ["skill"] = "High",
-                                        ["type"] = "2S6 Tunguska",
-                                        ["unitId"] = 266,
-                                        ["y"] = 563329.23760148,
-                                        ["x"] = -219870.9888317,
-                                        ["name"] = "SUKArmor-23",
-                                        ["heading"] = 4.2935099599061,
-                                        ["playerCanDrive"] = true,
-                                    }, -- end of [23]
                                 }, -- end of ["units"]
-                                ["y"] = 564634.57176542,
-                                ["x"] = -219872.1457948,
-                                ["name"] = "SUKArmor",
+                                ["y"] = 564915.88501379,
+                                ["x"] = -220474.42502469,
+                                ["name"] = "SUKArmor #001",
                                 ["start_time"] = 0,
                             }, -- end of [1]
                         }, -- end of ["group"]
@@ -901,11 +706,5 @@ staticTemplate =
         }, -- end of ["DEFAULT"]
     }, -- end of ["localization"]
     ["theatre"] = "Caucasus",
-    ["desc"] = "Sono stati individuati diversi carri armati nemici a difesa della base aerea di Sukhumi-Babushara, a loro volta presidiati da SHORAD. Al fine di consentire alle nostre truppe di avanzare e riconquistare la base, è necessario privare il nemico di tali difese.\
-\
-Obiettivo primario: Distruggere i carri armati e le loro difese.\
-\
-Obiettivo secondario: N/A.\
-\
-Piloti raccomandati: 5",
+    ["desc"] = "",
 } -- end of staticTemplate

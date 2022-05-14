@@ -1,3 +1,8 @@
-objtype = "factory"
-intel = 4
-cost = 3
+objtype = "facility"
+intel = 5
+cost = 1
+desc = [[La nostra intelligence ci riferisce di un singolare shelter nemico a nord della base aerea di Sukhumi-Babushara. Non sappiamo cosa contenga la struttura, ma riteniamo che possa costituire per il nemico un asset strategico essenziale.
+
+Obiettivo primario: Distruggere lo shelter.
+
+Piloti raccomandati: 2]]

@@ -508,7 +508,7 @@ staticTemplate =
                                     }, -- end of [2]
                                 }, -- end of ["tasks"]
                                 ["uncontrollable"] = false,
-                                ["route"] = 
+								["route"] = 
                                 {
                                     ["spans"] = 
                                     {
@@ -601,7 +601,7 @@ staticTemplate =
                                         ["skill"] = "Excellent",
                                         ["y"] = 648929.34040858,
                                         ["x"] = -283398.52591452,
-                                        ["name"] = "SECONDARY DESTROYED SENSA3 #001-2",
+                                        ["name"] = "SENSA3 #001-2",
                                         ["heading"] = 5.3756140961425,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [2]
@@ -612,7 +612,7 @@ staticTemplate =
                                         ["skill"] = "Excellent",
                                         ["y"] = 648964.44952828,
                                         ["x"] = -283392.94961921,
-                                        ["name"] = "SECONDARY DESTROYED SENSA3 #001-3",
+                                        ["name"] = "SENSA3 #001-3",
                                         ["heading"] = 0.61086523819802,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [3]
@@ -623,7 +623,7 @@ staticTemplate =
                                         ["skill"] = "Excellent",
                                         ["y"] = 648914.76437196,
                                         ["x"] = -283428.51680464,
-                                        ["name"] = "SECONDARY DESTROYED SENSA3 #001-4",
+                                        ["name"] = "SENSA3 #001-4",
                                         ["heading"] = 4.1887902047864,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [4]
@@ -634,7 +634,7 @@ staticTemplate =
                                         ["skill"] = "Excellent",
                                         ["y"] = 648988.61004934,
                                         ["x"] = -283417.46115097,
-                                        ["name"] = "SECONDARY DESTROYED SENSA3 #001-5",
+                                        ["name"] = "SENSA3 #001-5",
                                         ["heading"] = 2.0594885173533,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [5]
@@ -645,7 +645,7 @@ staticTemplate =
                                         ["skill"] = "Excellent",
                                         ["y"] = 649033.08215983,
                                         ["x"] = -283474.59917846,
-                                        ["name"] = "SECONDARY DESTROYED SENSA3 #001-6",
+                                        ["name"] = "SENSA3 #001-6",
                                         ["heading"] = 3.000382098935,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [6]
@@ -722,7 +722,7 @@ staticTemplate =
                                         ["skill"] = "Excellent",
                                         ["y"] = 649058.52793696,
                                         ["x"] = -283640.08514169,
-                                        ["name"] = "SECONDARY DESTROYED SENSA3 #001-13",
+                                        ["name"] = "SENSA3 #001-13",
                                         ["heading"] = 4.6600291028249,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [13]
@@ -733,7 +733,7 @@ staticTemplate =
                                         ["skill"] = "Excellent",
                                         ["y"] = 648761.31830307,
                                         ["x"] = -283487.66994482,
-                                        ["name"] = "SECONDARY DESTROYED SENSA3 #001-14",
+                                        ["name"] = "SENSA3 #001-14",
                                         ["heading"] = 4.6600291028249,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [14]
@@ -771,11 +771,5 @@ staticTemplate =
         }, -- end of ["DEFAULT"]
     }, -- end of ["localization"]
     ["theatre"] = "Caucasus",
-    ["desc"] = "Siamo venuti a conoscenza della presenza di una postazione SA-3 a difesa della base aera di Senaki-Kolkhi. La postazione è difesa da SA-15 Tor.\
-\
-Obiettivo primario: Distruggere il radar di tracciamento LOW BLOW.\
-\
-Obiettivo secondario: Distruggere i lanciatori, il radar di ricerca e i SA-15.\
-\
-Piloti raccomandati: 3",
+    ["desc"] = "",
 } -- end of staticTemplate

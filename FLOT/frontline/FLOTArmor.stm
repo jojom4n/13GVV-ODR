@@ -465,6 +465,7 @@ staticTemplate =
                                 {
                                 }, -- end of ["tasks"]
                                 ["uncontrollable"] = false,
+								["hiddenOnMFD"] = true,
                                 ["task"] = "Ground Nothing",
                                 ["taskSelected"] = true,
                                 ["route"] = 
@@ -693,11 +694,5 @@ staticTemplate =
         }, -- end of ["DEFAULT"]
     }, -- end of ["localization"]
     ["theatre"] = "Caucasus",
-    ["desc"] = "Una ricognizione aerea ci ha consentito di individuare la posizione di diversi carri armati nemici nei pressi della FLOT, protetti da SHORAD.\
-\
-Obiettivo primario: Distruggere i carri armati e le loro difese.\
-\
-Obiettivo secondario: N/A.\
-\
-Piloti raccomandati: 3",
+    ["desc"] = "",
 } -- end of staticTemplate

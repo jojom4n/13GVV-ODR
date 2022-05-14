@@ -581,11 +581,5 @@ staticTemplate =
         }, -- end of ["DEFAULT"]
     }, -- end of ["localization"]
     ["theatre"] = "Caucasus",
-    ["desc"] = "Una ricognizione fotografica aerea ha individuato un EWR attivo nei pressi della base aerea di Sukhumi-Babushara. È essenziale distruggere la postazione EWR, al fine di indebolire la capacità di intelligence del nemico.\
-\
-Obiettivo primario: Distruggere la postazione EWR.\
-\
-Obiettivo secondario: N/A.\
-\
-Piloti raccomandati: 2",
+    ["desc"] = "",
 } -- end of staticTemplate

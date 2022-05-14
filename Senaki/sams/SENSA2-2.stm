@@ -470,7 +470,7 @@ staticTemplate =
                                 {
                                 }, -- end of ["tasks"]
                                 ["uncontrollable"] = false,
-                                ["route"] = 
+								["route"] = 
                                 {
                                     ["spans"] = 
                                     {
@@ -563,7 +563,7 @@ staticTemplate =
                                         ["skill"] = "Excellent",
                                         ["y"] = 638825.2528126,
                                         ["x"] = -279770.73683952,
-                                        ["name"] = "SECONDARY DESTROYED SENSA2 #002-2",
+                                        ["name"] = "SENSA2 #002-2",
                                         ["heading"] = 5.4803338512622,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [2]
@@ -574,7 +574,7 @@ staticTemplate =
                                         ["skill"] = "Excellent",
                                         ["y"] = 638979.15004248,
                                         ["x"] = -279849.61769442,
-                                        ["name"] = "SECONDARY DESTROYED SENSA2 #002-3",
+                                        ["name"] = "SENSA2 #002-3",
                                         ["heading"] = 1.535889741755,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [3]
@@ -585,7 +585,7 @@ staticTemplate =
                                         ["skill"] = "Excellent",
                                         ["y"] = 638774.1052842,
                                         ["x"] = -279851.66359556,
-                                        ["name"] = "SECONDARY DESTROYED SENSA2 #002-4",
+                                        ["name"] = "SENSA2 #002-4",
                                         ["heading"] = 4.6774823953448,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [4]
@@ -596,7 +596,7 @@ staticTemplate =
                                         ["skill"] = "Excellent",
                                         ["y"] = 638825.48013495,
                                         ["x"] = -279935.09089743,
-                                        ["name"] = "SECONDARY DESTROYED SENSA2 #002-5",
+                                        ["name"] = "SENSA2 #002-5",
                                         ["heading"] = 3.8048177693476,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [5]
@@ -607,7 +607,7 @@ staticTemplate =
                                         ["skill"] = "Excellent",
                                         ["y"] = 638930.27573757,
                                         ["x"] = -279937.59144326,
-                                        ["name"] = "SECONDARY DESTROYED SENSA2 #002-6",
+                                        ["name"] = "SENSA2 #002-6",
                                         ["heading"] = 2.3561944901923,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [6]
@@ -618,7 +618,7 @@ staticTemplate =
                                         ["skill"] = "Excellent",
                                         ["y"] = 638926.63858,
                                         ["x"] = -279769.14558308,
-                                        ["name"] = "SECONDARY DESTROYED SENSA2 #002-7",
+                                        ["name"] = "SENSA2 #002-7",
                                         ["heading"] = 0.92502450355699,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [7]
@@ -651,7 +651,7 @@ staticTemplate =
                                         ["skill"] = "Excellent",
                                         ["y"] = 639007.04359116,
                                         ["x"] = -279935.02254129,
-                                        ["name"] = "SECONDARY DESTROYED SENSA2 #002-10",
+                                        ["name"] = "SENSA2 #002-10",
                                         ["heading"] = 2.2165681500328,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [10]
@@ -717,7 +717,7 @@ staticTemplate =
                                         ["skill"] = "Excellent",
                                         ["y"] = 638959.67664921,
                                         ["x"] = -279485.21364455,
-                                        ["name"] = "SECONDARY DESTROYED SENSA2 #002-16",
+                                        ["name"] = "SENSA2 #002-16",
                                         ["heading"] = 5.3407075111026,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [16]
@@ -728,7 +728,7 @@ staticTemplate =
                                         ["skill"] = "Excellent",
                                         ["y"] = 638437.59858356,
                                         ["x"] = -279744.38811286,
-                                        ["name"] = "SECONDARY DESTROYED SENSA2 #002-17",
+                                        ["name"] = "SENSA2 #002-17",
                                         ["heading"] = 5.3407075111026,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [17]
@@ -788,11 +788,5 @@ staticTemplate =
         }, -- end of ["DEFAULT"]
     }, -- end of ["localization"]
     ["theatre"] = "Caucasus",
-    ["desc"] = "Immagini satellitari ci confermaro la presenza di una postazione SA-2 nei pressi della base aerea di Senaki-Kolkhi. La postazione è presidiata da SA-15 Tor.\
-\
-Obiettivo primario: Distruggere il radar di tracciamento FAN SONG.\
-\
-Obiettivo secondario: Distruggere i lanciatori, il radar di ricerca FLAT FACE e i SA-15.\
-\
-Piloti raccomandati: 3",
+    ["desc"] = "",
 } -- end of staticTemplate

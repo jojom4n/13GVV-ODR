@@ -563,7 +563,7 @@ staticTemplate =
                                         ["skill"] = "Excellent",
                                         ["y"] = 563510.66699619,
                                         ["x"] = -222689.33191637,
-                                        ["name"] = "SECONDARY DESTROYED SUKSA3 #002-2",
+                                        ["name"] = "SUKSA3 #002-2",
                                         ["heading"] = 0.087266462599679,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [2]
@@ -574,7 +574,7 @@ staticTemplate =
                                         ["skill"] = "Excellent",
                                         ["y"] = 563546.19506977,
                                         ["x"] = -222690.55720917,
-                                        ["name"] = "SECONDARY DESTROYED SUKSA3 #002-3",
+                                        ["name"] = "SUKSA3 #002-3",
                                         ["heading"] = 0.087266462599679,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [3]
@@ -585,7 +585,7 @@ staticTemplate =
                                         ["skill"] = "Excellent",
                                         ["y"] = 563490.6362308,
                                         ["x"] = -222715.99055046,
-                                        ["name"] = "SECONDARY DESTROYED SUKSA3 #002-4",
+                                        ["name"] = "SUKSA3 #002-4",
                                         ["heading"] = 0.087266462599679,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [4]
@@ -596,7 +596,7 @@ staticTemplate =
                                         ["skill"] = "Excellent",
                                         ["y"] = 563565.23467326,
                                         ["x"] = -222719.2284398,
-                                        ["name"] = "SECONDARY DESTROYED SUKSA3 #002-5",
+                                        ["name"] = "SUKSA3 #002-5",
                                         ["heading"] = 0.087266462599679,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [5]
@@ -607,7 +607,7 @@ staticTemplate =
                                         ["skill"] = "Excellent",
                                         ["y"] = 563597.98725621,
                                         ["x"] = -222783.80235952,
-                                        ["name"] = "SECONDARY DESTROYED SUKSA3 #002-6",
+                                        ["name"] = "SUKSA3 #002-6",
                                         ["heading"] = 3.1923683166544,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [6]
@@ -684,7 +684,7 @@ staticTemplate =
                                         ["skill"] = "Excellent",
                                         ["y"] = 563579.00036177,
                                         ["x"] = -222916.92367566,
-                                        ["name"] = "SECONDARY DESTROYED SUKSA3 #002-13",
+                                        ["name"] = "SUKSA3 #002-13",
                                         ["heading"] = 2.0420352248334,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [13]
@@ -695,7 +695,7 @@ staticTemplate =
                                         ["skill"] = "Excellent",
                                         ["y"] = 563360.60565665,
                                         ["x"] = -222780.06299378,
-                                        ["name"] = "SECONDARY DESTROYED SUKSA3 #002-14",
+                                        ["name"] = "SUKSA3 #002-14",
                                         ["heading"] = 3.9793506945471,
                                         ["playerCanDrive"] = false,
                                     }, -- end of [14]
@@ -733,11 +733,5 @@ staticTemplate =
         }, -- end of ["DEFAULT"]
     }, -- end of ["localization"]
     ["theatre"] = "Caucasus",
-    ["desc"] = "Una ricognizione aerea ha individuato una postazione SA-3 a difesa della base aera di Sukhumi-Babushara. La postazione è difesa da SA-15 Tor.\
-\
-Obiettivo primario: Distruggere il radar di tracciamento LOW BLOW. \
-\
-Obiettivo secondario: Distruggere i lanciatori, il radar di ricerca e i SA-15.\
-\
-Piloti raccomandati: 2",
+    ["desc"] = "",
 } -- end of staticTemplate

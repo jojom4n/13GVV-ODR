@@ -1,6 +1,6 @@
 objtype = "facility"
 intel = 5
-cost = 4
+cost = 1
 name = "SENBarracks-1"
 coalition = 1
 tpldata = {}
@@ -11,10 +11,8 @@ buildings = {
 		["id"]   = 77339417,
 	},
 }
-desc = "Il nemico utilizza una struttura nei pressi della base aerea di Senaki-Kolkhi come alloggi militari. Vediamo di farli dormire all'addiaccio.\
-\
-Obiettivo primario: Distruggere gli alloggi militari.\
-\
-Obiettivo secondario: N/A.\
-\
-Piloti raccomandati: 2"
+desc = [[Il nemico utilizza una struttura nei pressi della base aerea di Senaki-Kolkhi come alloggi militari. Vediamo di farli dormire all'addiaccio.
+
+Obiettivo primario: Distruggere gli alloggi militari.
+
+Piloti raccomandati: 2]]

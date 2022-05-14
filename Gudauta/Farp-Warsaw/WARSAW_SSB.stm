@@ -941,7 +941,7 @@ staticTemplate =
             }, -- end of ["country"]
         }, -- end of ["red"]
     }, -- end of ["coalition"]
-    ["name"] = "WARSAW-1",
+    ["name"] = "WARSAW_SSB",
     ["requiredModules"] = 
     {
     }, -- end of ["requiredModules"]
@@ -957,11 +957,5 @@ staticTemplate =
         }, -- end of ["DEFAULT"]
     }, -- end of ["localization"]
     ["theatre"] = "Caucasus",
-    ["desc"] = "Riteniamo essenziale costruire una testa di ponte dalla quale far partire operazioni mediante elicotteri nella zona della base aerea di Gudauata. A tal fine, dobbiamo occupare la FARP Warsaw, attualmente in mano nemica.\
-\
-Obiettivo primario: Distruggere la fanteria e tutti i mezzi nemici attualmente presenti su FARP Warsaw.\
-\
-Obiettivo secondario: N/A.\
-\
-Piloti raccomandati: 3",
+    ["desc"] = "",
 } -- end of staticTemplate
