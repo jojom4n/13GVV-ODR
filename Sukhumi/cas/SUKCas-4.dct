@@ -1,0 +1,10 @@
+objtype = "frontline"
+intel = 3
+cost = 2
+ondemand = true
+coalition = 1
+desc = [[Forze speciali alleate hanno fatto esplodere nella cittadina di Arakich, a sud-est della base aerea di Sukhumi-Babushara, l'edificio che ospitava gli uffici della stazione TV da cui venivano irradiate le trasmissioni di propaganda nemica. La squadra, tuttavia, non è riuscita ad esfiltrare in tempo ed è attualmente bloccata nella cittadina da colpi di artiglieria. Dalle informazioni assunte, risulta la presenza in zona anche di alcune difese antiaeree.
+
+Obiettivo primario: Distruggere tutte le forze nemiche.
+
+Piloti raccomandati: 2]]

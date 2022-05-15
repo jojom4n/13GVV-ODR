@@ -1,0 +1,11 @@
+objtype = "frontline"
+intel = 3
+cost = 2
+ondemand = true
+coalition = 1
+location = { x = -231254, z = 591554}
+desc = [[L'intelligence ha intercettato una comunicazione nemica, dalla quale si evince che un convoglio nemico è in marcia verso la cittadina di Dzhukmur, a sud-est della base aerea di Sukhumi-Babushara, al fine di occuparla e, in particolare, prendere possesso della centrale nucleare ivi situata. Attualmente, a presidiare detta centrale, è presente un piccolo contingente alleato, composto anche da un paio di mezzi antifanteria, ma riteniamo che le forze alleate non riusciranno ad impedire la presa della cittadina senza supporto aereo CAS.
+
+Obiettivo primario: Trovare il convoglio nemico prima che raggiunga Dzhukmur e distruggerlo.
+
+Piloti raccomandati: 2]]

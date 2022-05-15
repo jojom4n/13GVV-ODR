@@ -1,0 +1,12 @@
+objtype = "frontline"
+intel = 3
+cost = 2
+ondemand = true
+coalition = 1
+desc = [[Una squadra di artificieri alleata, all'opera nella cittadina di Kerken, si è ritrovata improvvisamente sotto colpi di mortaio nemico ed ha richiesto una CAS.
+
+Obiettivo primario: Distruggere la postazione nemica di artiglieria.
+
+Obiettivo secondario: Distruggere eventuali altre forze nemiche, presenti in zona.
+
+Piloti raccomandati: 2]]

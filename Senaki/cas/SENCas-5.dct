@@ -1,5 +1,5 @@
 objtype = "frontline"
-intel = 5
+intel = 3
 cost = 2
 coalition = 1
 ondemand = true

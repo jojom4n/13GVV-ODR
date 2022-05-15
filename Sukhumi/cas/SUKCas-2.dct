@@ -1,0 +1,12 @@
+objtype = "frontline"
+intel = 3
+cost = 2
+ondemand = true
+coalition = 1
+location = { x = -219958, z = 590979 }
+desc = [[Un convoglio alleato ha individuato un T-55 nemico sulla strada interna al piccolo paese di Kochara, a sud-est della base aerea di Sukhumi-Babushara. Il mezzo nemico impedisce l'attraversamento del paese al convoglio, pertanto è stata richiesta una CAS.
+Prestate attenzione ad eventuale supporto antiaereo nemico, che potrebbe essere presente in zona.
+
+Obiettivo primario: Distruggere il tank ed eventuali altre forze nemiche.
+
+Piloti raccomandati: 2]]

@@ -10,5 +10,13 @@ region = {
 					["min"] = 4,
 					["max"] = 4
 				},
+				["frontline"] = {
+					["min"] = 3,
+					["max"] = 4
+				},
+				["specialforces"] = {
+					["min"] = 3,
+					["max"] = 3
+				},
 		}
 	}

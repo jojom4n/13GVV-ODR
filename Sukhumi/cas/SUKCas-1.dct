@@ -1,0 +1,12 @@
+objtype = "frontline"
+intel = 3
+cost = 2
+ondemand = true
+coalition = 1
+location = { x = -224029, z = 587078 }
+desc = [[Forze di artiglieria nemica hanno stretto d'assedio la cittadina di Labra, a sud-est della base aerea di Sukhumi-Babushara, dove è stanziato un piccolo contingente alleato, che ha richiesto una CAS.
+Prestate attenzione ad eventuale supporto antiaereo nemico, che potrebbe essere presente in zona.
+
+Obiettivo primario: Distruggere tutte le forze nemiche.
+
+Piloti raccomandati: 2]]

@@ -1,0 +1,12 @@
+objtype = "frontline"
+intel = 3
+cost = 2
+ondemand = true
+coalition = 1
+desc = [[Una squadra di Seals si è infiltrata nella cittadina di Aradu, a sud-est di Sukhumi-Babushara, ed ha catturato un oligarca nemico. Tuttavia, la squadra non è riuscita ad esfiltrare prima che scattasse l'allarme e iniziassero le ricerche dell'uomo. Attualmente, la squadra si nasconde nella periferia meridionale della cittadina ed è braccata da alcune truppe nemiche, che stanno perlustrando l'intera zona. La cittadina è inoltre sorvolata da due elicotteri da guerra nemici, per cui potrebbe essere questione di minuti prima che i Seals siano catturati.
+
+Obiettivo primario: Eliminare le pattuglie nemiche.
+
+Obiettivo secondario: Distruggere gli elicotteri nemici.
+
+Piloti raccomandati: 2]]

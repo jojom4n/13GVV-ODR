@@ -1,0 +1,12 @@
+objtype = "frontline"
+intel = 3
+cost = 2
+ondemand = true
+coalition = 1
+desc = [[Abbiamo lanciato un attacco alla cittadina di Naochi, a sud-est della base aerea di Sukhumi-Babushara, al fine di occuparne la stazione ferroviaria e interrompere così il flusso logistico nemico. Tuttavia, il contingente alleato, impegnato nell'attacco, è stato bloccato da diversi mezzi blindati che ne impediscono l'avanzata. È stata pertanto richiesta una CAS.
+
+Obiettivo primario: Distruggere i mezzi nemici antifanteria.
+
+Obiettivo secondario: Distruggere tutte le altre forze nemiche in zona.
+
+Piloti raccomandati: 2]]

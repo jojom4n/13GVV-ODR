@@ -1,0 +1,12 @@
+objtype = "frontline"
+intel = 3
+cost = 2
+ondemand = true
+coalition = 1
+desc = [[Forze nemiche hanno attaccato a sorpresa la stazione ferroviaria del piccolo paese di Ahali-Kindgi, a sud-est della base aerea di Sukhumi-Babushara, riuscendo ad occuparla. Un piccolo contingente alleato, che teneva il paese, è stato costretto ad asserragliarsi in un hangar, presente in zona, ed è sotto il fuoco nemico da parte di mezzi antifanteria, pertanto ha richiesto urgentemente una CAS.
+
+Obiettivo primario: Distruggere i mezzi nemici antifanteria.
+
+Obiettivo secondario: Distruggere tutte le altre forze nemiche in zona.
+
+Piloti raccomandati: 2]]
