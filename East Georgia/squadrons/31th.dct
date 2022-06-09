@@ -1,7 +1,8 @@
 objtype = "squadronplayer"
-name = "74th"
+name = "31th"
 coalition = 2
 payloadlimits  = {
-	["aa"] = 60,
-	["ag"] = 120,
+	["aa"] = 4999,
+	["ag"] = 4999,
 }
+ato = {}

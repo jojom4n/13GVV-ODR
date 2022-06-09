@@ -6,7 +6,7 @@ coalition = 1
 priority = 1
 location = { x = -284950, y = 15, z = 630055 }
 smoke = {
-    { x = -285056, y = 15, z = 629743, color = "Blue" },
+    { x = -285056, y = 15, z = 629743, color = "Blue" }
 }
 desc = [[Qualche minuto fa, i nostri servizi di intelligence hanno appreso che il nemico è in procinto di sferrare un attacco via terra alla cittadina di Sagvamichavo, ad ovest della base aerea di Senaki-Kolkhi.
 La cittadina è presidiata da un nostro piccolo contingente di fanteria, ma, dagli elementi in nostro possesso, deduciamo che non riuscirà a respingere l'attacco, visto che le truppe nemiche saranno certamente supportate da mezzi corazzati.

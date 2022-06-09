@@ -4,7 +4,7 @@ cost = 2
 coalition = 1
 ondemand = true
 smoke = {
-    { x = -285600, y = 45, z = 655143, color = "Blue" },
+    { x = -285600, y = 45, z = 655143, color = "Blue" }
 }
 desc = [[Alcuni nostri soldati sono rimasti bloccati in un edificio situato nel paese di Sudzhuna, a sud-est della base aerea di Senaki-Kolkhi. L'edificio è stato circondato ed è attualmente sotto l'attacco di un piccolo contingente nemico di fanteria e di un mezzo corazzato. 
 Pertanto, è stata richiesta con urgenza una CAS.

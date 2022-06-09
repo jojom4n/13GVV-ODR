@@ -1,4 +1,5 @@
-objtype = "logistics"
+objtype = "shorad"
 intel = 3
 cost = 3
 nocull = true
+spawnalways = true

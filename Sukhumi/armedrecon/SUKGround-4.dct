@@ -5,7 +5,7 @@ coalition = 1
 ondemand = true
 location = { x = -230804, z = 602594, y = 170 }
 smoke = {
-	{ x = -227656, z = 605985, y = 300, color = "Blue"},
+	{ x = -227656, z = 605985, y = 300, color = "Blue"}
 }
 desc = [[Un team di artificieri della coalizione alleata ha provveduto a sminare un villaggio situato in una radura nei pressi della cittadina di Perveli-Ohurey, a sud-est della base aera di Sukhumi-Babushara. Dopo lo sminamento, gli uomini non riescono tuttavia ad esfiltrare a causa di mezzi di artiglieria pesante nemica che sono sopraggiunti nei paraggi e stanno facendo fuoco sulla landing zone, la cui posizione è segnalata da un fumogeno blu. È necessario provvedere all'eliminazione delle forze nemiche, al fine di proteggere la vita degli artificieri e consentire la loro evacuazione. 
 

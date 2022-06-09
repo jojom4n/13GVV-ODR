@@ -4,7 +4,7 @@ cost = 2
 ondemand = true
 coalition = 1
 extramarks = {
-    { label = "%TARGET%: Checkpoint", x = -278192, z = 651236 },
+    { label = "%TARGET%: Checkpoint", x = -278192, z = 651236 }
 }
 desc = [[Un'unità speciale sta per procedere all'eliminazione di una personalità estremamente importante per il nemico. Vi sia sufficiente sapere che l'unità si è infiltrata nella periferia orientale della cittadina di Saodishano, appena ad est della base aerea di Senaki-Kolkhi, e si sta dirigendo verso il centro cittadino.
 Sebbene l'unità stia adottando tutte le precauzioni del caso, riteniamo utile creare un diversivo, affinché l'unità, a missione completata, possa esfiltrare con maggiore tranquillità, senza il rischio di essere intercettata dalle numerose pattuglie nemiche presenti in zona.

@@ -4,7 +4,7 @@ cost = 2
 coalition = 1
 ondemand = true
 smoke = {
-    { x = -298908, y = 115, z = 648857, color = "Blue" },
+    { x = -298920, y = 120, z = 648830, color = "Blue" }
 }
 desc = [[Una squadra speciale alleata ha appena concluso una delicata missione di intelligence a Lanchuti, a sud della base aerea di Senaki-Kolkhi. Tuttavia, a causa di alcune difficoltà, dovute all'arrivo inaspettato di truppe nemiche in zona, gli uomini hanno mancato il rendez-vous con l'elicottero che avrebbe dovuto evacuarli. Attualmente, gli uomini sono sotto il fuoco di cecchini nemici, per cui hanno richiesto una CAS nei pressi del punto di esfiltrazione, segnalato da un fumogeno blu.
 
